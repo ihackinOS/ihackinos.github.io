@@ -4501,5 +4501,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 238,
+    "added_at": "2026-03-14 19:54:35",
+    "title": "Web Design Course For Beginner to Advanced",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5026508_76f2_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/nVz7fdiV77",
+    "udemy_url": "https://www.udemy.com/course/web-design-for-beginner-to-advanced/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "672",
+    "students": "43,831",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

@@ -7180,5 +7180,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 379,
+    "added_at": "2026-03-14 22:18:56",
+    "title": "¡Inglés Básico desde Cero: Para Todas las Edades! A1-A2",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6557525_d5de_6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/8WOG24",
+    "udemy_url": "https://www.udemy.com/course/ingles-basico-desde-cero/",
+    "price": "₫399,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "132",
+    "students": "11,837",
+    "duration": "Introducción",
+    "instructor": "",
+    "language": "English Grammar",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

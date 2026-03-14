@@ -7123,5 +7123,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 376,
+    "added_at": "2026-03-14 22:17:59",
+    "title": "Crear un sistema para administrar un restaurante con MVC",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6840213_1ce0.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/97NdendgPh3r",
+    "udemy_url": "https://www.udemy.com/course/crear-un-sistema-para-administrar-un-restaurante-con-mvc/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "2.4",
+    "rating_count": "3",
+    "students": "1,130",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Spanish (Mexico)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

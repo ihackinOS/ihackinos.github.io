@@ -834,5 +834,24 @@
     "language": "** English (US)",
     "category": "** health-and-fitness",
     "status": "OK"
+  },
+  {
+    "id": 45,
+    "added_at": "2026-03-14 15:18:16",
+    "title": "Clinical Data Management Course",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5821816_8dac.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/DBglUU",
+    "udemy_url": "https://www.udemy.com/course/clinical-data-management-course/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "104",
+    "students": "6,617",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

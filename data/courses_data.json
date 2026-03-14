@@ -7883,5 +7883,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 416,
+    "added_at": "2026-03-14 23:18:25",
+    "title": "Digital Marketing Mastery 2.0",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6927127_699b.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/O7LXYunJM",
+    "udemy_url": "https://www.udemy.com/course/digital-marketing-mastery-20/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "12",
+    "students": "5,039",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** marketing",
+    "status": "OK"
   }
 ]

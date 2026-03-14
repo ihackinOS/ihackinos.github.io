@@ -7161,5 +7161,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 378,
+    "added_at": "2026-03-14 22:18:37",
+    "title": "Responsive Web Design with CSS: A Complete CSS Guide",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6709411_19ad_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/VAkdWn9",
+    "udemy_url": "https://www.udemy.com/course/responsive-web-design-with-css-a-complete-css-guide/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "51",
+    "students": "8,075",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

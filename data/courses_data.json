@@ -4520,5 +4520,24 @@
     "language": "English",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 239,
+    "added_at": "2026-03-14 19:54:54",
+    "title": "Advanced Certificate in Program and Project Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6319245_fb69.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/KdxyY2GZ4",
+    "udemy_url": "https://www.udemy.com/course/advanced-certificate-in-program-and-project-management/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "399",
+    "students": "17,922",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

@@ -606,5 +606,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 33,
+    "added_at": "2026-03-14 15:15:02",
+    "title": "Study of Virology",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5408122_95c3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/lvU5",
+    "udemy_url": "https://www.udemy.com/course/a-comprehensive-study-of-virology/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "3.7",
+    "rating_count": "10",
+    "students": "3,949",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

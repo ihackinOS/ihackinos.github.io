@@ -4729,5 +4729,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 250,
+    "added_at": "2026-03-14 19:58:08",
+    "title": "Curso completo de Unity 2D: crea un clon de Pokemon al 100%",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6228911_594f.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/h8z53O0bmmk",
+    "udemy_url": "https://www.udemy.com/course/curso-completo-de-unity-2d-crea-un-videojuego-pokemon-al-completo/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.8",
+    "rating_count": "12",
+    "students": "243",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Spanish (Spain)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

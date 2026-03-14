@@ -2411,5 +2411,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 128,
+    "added_at": "2026-03-14 15:41:46",
+    "title": "GIT, GitLab, GitHub Fundamentals for Software Developers",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6131097_b544_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/v9Xp0fKAXxj5",
+    "udemy_url": "https://www.udemy.com/course/git-gitlab-github-fundamentals-for-software-developers/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "1,027",
+    "students": "45,904",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

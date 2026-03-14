@@ -2050,5 +2050,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 109,
+    "added_at": "2026-03-14 15:36:19",
+    "title": "Agile Trainer Certification",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6196873_be51.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/7n4bWDY81G",
+    "udemy_url": "https://www.udemy.com/course/agile-trainer-certification/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "129",
+    "students": "14,347",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

@@ -1993,5 +1993,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 106,
+    "added_at": "2026-03-14 15:35:27",
+    "title": "Data Science & AI Masters 2026 - From Python To Gen AI",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6342521_3968_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/WKzzbhw1",
+    "udemy_url": "https://www.udemy.com/course/data-science-ai-masters-from-python-to-gen-ai/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "2,178",
+    "students": "28,598",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "Other",
+    "status": "OK"
   }
 ]

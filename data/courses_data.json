@@ -4254,5 +4254,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 225,
+    "added_at": "2026-03-14 19:50:43",
+    "title": "Biotechnology today and yesterday",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5365326_561e.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/KDgZF",
+    "udemy_url": "https://www.udemy.com/course/genetic-from-mendal-to-era-of-microchip-molecular-genetic/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "47",
+    "students": "7,165",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

@@ -74,5 +74,24 @@
     "language": "English",
     "category": "Marketing",
     "status": "OK"
+  },
+  {
+    "id": 5,
+    "added_at": "2026-03-14 15:07:21",
+    "title": "Implementing Agile Marketing and Marketing Sprints",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5439260_e6f4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/CpJcQkGCk",
+    "udemy_url": "https://www.udemy.com/course/implementing-agile-marketing-and-marketing-sprints/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "196",
+    "students": "26,861",
+    "duration": "Expand all sections",
+    "instructor": "Anton Voroniuk",
+    "language": "English",
+    "category": "Business",
+    "status": "OK"
   }
 ]

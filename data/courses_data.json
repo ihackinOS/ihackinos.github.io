@@ -5527,5 +5527,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 292,
+    "added_at": "2026-03-14 21:52:22",
+    "title": "Curso completo de Unity 3D: crea un videojuego al completo",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6228889_b9c3_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/L90pynFbjYq",
+    "udemy_url": "https://www.udemy.com/course/unity-3d-shooter/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.8",
+    "rating_count": "22",
+    "students": "243",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

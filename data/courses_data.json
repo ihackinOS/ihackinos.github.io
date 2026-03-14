@@ -5755,5 +5755,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 304,
+    "added_at": "2026-03-14 21:56:06",
+    "title": "Estadística: Ji-cuadrada y análisis de varianza con Excel",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6398263_60cc_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/cugGSATn",
+    "udemy_url": "https://www.udemy.com/course/estadistica-ji-cuadrada-y-analisis-de-varianza-con-excel/",
+    "price": "₫1,499,000",
+    "is_free": false,
+    "rating": "5.0",
+    "rating_count": "5",
+    "students": "5,146",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Spanish (Mexico)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

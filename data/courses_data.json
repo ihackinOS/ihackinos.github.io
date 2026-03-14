@@ -7864,5 +7864,24 @@
     "language": "** English (US)",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 415,
+    "added_at": "2026-03-14 23:18:07",
+    "title": "SPSS: A Practical Guide to Data Analysis",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6580375_6c86.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/P8xxdR",
+    "udemy_url": "https://www.udemy.com/course/ibm-spss-a-practical-guide-to-data-analysis/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "152",
+    "students": "15,605",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

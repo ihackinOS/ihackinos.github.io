@@ -1955,5 +1955,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 104,
+    "added_at": "2026-03-14 15:34:53",
+    "title": "ChatGPT for Product Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5727586_3be1.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/tQBQs45AA",
+    "udemy_url": "https://www.udemy.com/course/chatgpt-for-product-management/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "473",
+    "students": "38,547",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

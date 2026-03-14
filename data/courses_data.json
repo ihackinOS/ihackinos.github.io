@@ -4235,5 +4235,24 @@
     "language": "** English (US)",
     "category": "** personal-development",
     "status": "OK"
+  },
+  {
+    "id": 224,
+    "added_at": "2026-03-14 19:50:26",
+    "title": "Introduction to Business: Foundations and Practices",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6140875_df49_5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/4EHHxJ8",
+    "udemy_url": "https://www.udemy.com/course/introduction-to-business-foundations-and-practices/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "7",
+    "students": "2,044",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

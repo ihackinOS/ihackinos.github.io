@@ -8738,5 +8738,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 461,
+    "added_at": "2026-03-15 06:32:40",
+    "title": "Looker Studio /Google Data Studio Complete Advanced Tutorial",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/3730378_8fca_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/yC9eK3F",
+    "udemy_url": "https://www.udemy.com/course/google-data-studio-complete-beginners-to-advanced-tutorial/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "1,299",
+    "students": "118,184",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** office-productivity",
+    "status": "OK"
   }
 ]

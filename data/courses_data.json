@@ -1822,5 +1822,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 97,
+    "added_at": "2026-03-14 15:32:53",
+    "title": "API Security Testing Guide by The XSS Rat",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4252806_2937_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/01uuRfftC",
+    "udemy_url": "https://www.udemy.com/course/uncle-rats-api-security-testing-guide/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "339",
+    "students": "52,140",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

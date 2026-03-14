@@ -5983,5 +5983,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 316,
+    "added_at": "2026-03-14 21:59:43",
+    "title": "Professional Certificate in Financial Analysis and Modeling",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6452235_fab9_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ZrBpcHQX",
+    "udemy_url": "https://www.udemy.com/course/professional-certificate-in-financial-analysis-and-modeling/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "264",
+    "students": "12,839",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** finance-and-accounting",
+    "status": "OK"
   }
 ]

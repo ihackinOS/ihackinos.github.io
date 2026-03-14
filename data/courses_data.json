@@ -5660,5 +5660,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 299,
+    "added_at": "2026-03-14 21:54:32",
+    "title": "Executive Diploma in Human Resources Management (HRM)",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6241287_860d_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ttS43NxM",
+    "udemy_url": "https://www.udemy.com/course/humanresourceshrm/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "66",
+    "students": "4,036",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

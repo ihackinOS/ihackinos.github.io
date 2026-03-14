@@ -6648,5 +6648,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 351,
+    "added_at": "2026-03-14 22:10:16",
+    "title": "Getting started with Azure Networking services",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5680220_2cb5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/PKntpE",
+    "udemy_url": "https://www.udemy.com/course/azure-networking-services/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "232",
+    "students": "33,461",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

@@ -2601,5 +2601,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 138,
+    "added_at": "2026-03-14 15:44:39",
+    "title": "JavaScript Security - Practice Questions 2026",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7033361_29a6_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/QvOIBdbi7Lx9",
+    "udemy_url": "https://www.udemy.com/course/javascript-security-questions/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "100",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

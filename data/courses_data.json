@@ -6116,5 +6116,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 323,
+    "added_at": "2026-03-14 22:01:49",
+    "title": "Big Data Hadoop Course",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5788732_84c5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/3Acg4sC6onF",
+    "udemy_url": "https://www.udemy.com/course/big-data-hadoop-online-course/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "264",
+    "students": "31,615",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

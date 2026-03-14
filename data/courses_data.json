@@ -815,5 +815,24 @@
     "language": "** English (US)",
     "category": "** finance-and-accounting",
     "status": "OK"
+  },
+  {
+    "id": 44,
+    "added_at": "2026-03-14 15:18:00",
+    "title": "Artificial Intelligence in Health Care",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5517416_f46c.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/86QzS",
+    "udemy_url": "https://www.udemy.com/course/artificial-intelligence-in-health-care/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "292",
+    "students": "18,513",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** health-and-fitness",
+    "status": "OK"
   }
 ]

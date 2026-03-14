@@ -207,5 +207,24 @@
     "language": "English",
     "category": "Business",
     "status": "OK"
+  },
+  {
+    "id": 12,
+    "added_at": "2026-03-14 15:09:15",
+    "title": "Corporate Finance #4 Leverage & Break-Even Analysis",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/3939430_2565.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/DlD0csiBYtYs",
+    "udemy_url": "https://www.udemy.com/course/corporate-finance-4-leverage-break-even-analysis/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "99",
+    "students": "46,133",
+    "duration": "Expand all sections",
+    "instructor": "Robert (Bob) Steele",
+    "language": "English",
+    "category": "Finance & Accounting",
+    "status": "OK"
   }
 ]

@@ -4007,5 +4007,24 @@
     "language": "** English (US)",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 212,
+    "added_at": "2026-03-14 19:46:58",
+    "title": "Mastering Histology: Microscopic Anatomy Made easy",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5080670_193b_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/vRbSXyC0g5ns",
+    "udemy_url": "https://www.udemy.com/course/histology-step-by-step/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "11",
+    "students": "5,028",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

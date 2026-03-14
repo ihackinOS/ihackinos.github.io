@@ -1290,5 +1290,24 @@
     "language": "** Arabic",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 69,
+    "added_at": "2026-03-14 15:24:59",
+    "title": "Diploma in Aviation, Airlines, Air Transportation & Airports",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6038622_9308_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/DD0W8xev",
+    "udemy_url": "https://www.udemy.com/course/professional-diploma-in-aviation-airlines-air-transportation-airports/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "450",
+    "students": "14,577",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

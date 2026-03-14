@@ -4843,5 +4843,24 @@
     "language": "English",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 256,
+    "added_at": "2026-03-14 19:59:55",
+    "title": "Cheesemaking for Beginners – From Milk to Homemade Cheese",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5108450_90ac_6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/SFuzEs",
+    "udemy_url": "https://www.udemy.com/course/from-milk-to-magic-the-transformative-power-of-cheesemaking/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.8",
+    "rating_count": "15",
+    "students": "4,564",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

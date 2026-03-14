@@ -2164,5 +2164,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 115,
+    "added_at": "2026-03-14 15:38:03",
+    "title": "Programador Java en 37 Días Con práctica de Entrevista y más",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6053079_7cfe_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/u8Y93B5yf",
+    "udemy_url": "https://www.udemy.com/course/programador-java-en-37-dias-con-practica-de-entrevista-y-mas/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "96",
+    "students": "12,459",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Spanish (Spain)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

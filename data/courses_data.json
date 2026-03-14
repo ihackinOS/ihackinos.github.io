@@ -112,5 +112,24 @@
     "language": "English",
     "category": "Marketing",
     "status": "OK"
+  },
+  {
+    "id": 7,
+    "added_at": "2026-03-14 15:07:54",
+    "title": "Grow Your Sales With Conversion Rate Optimization (CRO)",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4727976_5602_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/hL4YQzQpzhPk",
+    "udemy_url": "https://www.udemy.com/course/conversion-optimization-course/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "156",
+    "students": "52,276",
+    "duration": "Expand all sections",
+    "instructor": "Anton Voroniuk",
+    "language": "English",
+    "category": "Marketing",
+    "status": "OK"
   }
 ]

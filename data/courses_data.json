@@ -5812,5 +5812,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 307,
+    "added_at": "2026-03-14 21:57:01",
+    "title": "Google Flow Masterclass- Make AI Video from Prompts & Images",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6805777_9b91.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/LGsw6YloWs5t",
+    "udemy_url": "https://www.udemy.com/course/google-flow-masterclass-make-ai-videos-from-prompts-and-images/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "24",
+    "students": "3,505",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

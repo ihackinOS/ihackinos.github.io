@@ -6192,5 +6192,24 @@
     "language": "** English (US)",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 327,
+    "added_at": "2026-03-14 22:03:04",
+    "title": "SEO Mastery: MCQ Practice Course",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6039850_41d6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/rxAn2efLIo",
+    "udemy_url": "https://www.udemy.com/course/seo-mastery-mcq-practice-course/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "22",
+    "students": "10,055",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** marketing",
+    "status": "OK"
   }
 ]

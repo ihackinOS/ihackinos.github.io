@@ -1879,5 +1879,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 100,
+    "added_at": "2026-03-14 15:33:43",
+    "title": "ChatGPT for Business Analysts",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5724784_611c_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/eF7gMsJMYX",
+    "udemy_url": "https://www.udemy.com/course/build-product-management-deliverable-portfolio-using-chatgpt/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "455",
+    "students": "41,085",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

@@ -9745,5 +9745,24 @@
     "language": "English",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 514,
+    "added_at": "2026-03-15 06:58:56",
+    "title": "Project Management Professional (PMP)",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/2890902_192a_31.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/S7WxwQWpP",
+    "udemy_url": "https://www.udemy.com/course/project-management-professional-certification-program-pmp/",
+    "price": "₫1,457,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "3,598",
+    "students": "26,327",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

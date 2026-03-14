@@ -17,5 +17,24 @@
     "language": "English",
     "category": "Business",
     "status": "OK"
+  },
+  {
+    "id": 2,
+    "added_at": "2026-03-14 15:06:33",
+    "title": "Facebook Ads: Run Your First Ad Campaign",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5049774_4011.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/URzVPgrehX",
+    "udemy_url": "https://www.udemy.com/course/facebook-ads-run-your-first-ad-campaign/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "680",
+    "students": "62,970",
+    "duration": "Expand all sections",
+    "instructor": "Anton Voroniuk",
+    "language": "English",
+    "category": "Marketing",
+    "status": "OK"
   }
 ]

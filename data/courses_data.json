@@ -5185,5 +5185,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 274,
+    "added_at": "2026-03-14 20:05:17",
+    "title": "Introductory Biology for college students",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4631278_3467.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/OrO7HTEMrXXs",
+    "udemy_url": "https://www.udemy.com/course/biology-what-is-life/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "16",
+    "students": "3,250",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

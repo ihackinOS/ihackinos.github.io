@@ -5793,5 +5793,24 @@
     "language": "** English (US)",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 306,
+    "added_at": "2026-03-14 21:56:42",
+    "title": "Practical IoT Security and Penetration testing for Beginners",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5812670_2d54_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/DeFgukEO",
+    "udemy_url": "https://www.udemy.com/course/iot-security-beginners/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "169",
+    "students": "19,901",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

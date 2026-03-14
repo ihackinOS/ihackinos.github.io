@@ -2487,5 +2487,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 132,
+    "added_at": "2026-03-14 15:42:55",
+    "title": "Executive Certificate in Digital Transformation",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6156323_644d_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/F8bDX",
+    "udemy_url": "https://www.udemy.com/course/executive-certificate-in-digital-transformation/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "115",
+    "students": "10,316",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

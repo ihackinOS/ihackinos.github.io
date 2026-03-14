@@ -6838,5 +6838,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 361,
+    "added_at": "2026-03-14 22:13:23",
+    "title": "Creación de API REST con Laravel y MySQL",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/3858752_d004_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ezXgtRrapQNv",
+    "udemy_url": "https://www.udemy.com/course/creacion-de-webservice-api-rest-con-laravel/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "738",
+    "students": "40,403",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Spanish (Spain)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

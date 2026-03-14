@@ -1328,5 +1328,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 71,
+    "added_at": "2026-03-14 15:25:32",
+    "title": "Augmented Reality in Depth 101",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/2317328_2a9a_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/extlWhV2A",
+    "udemy_url": "https://www.udemy.com/course/augmented-reality-in-depth-101-by-debayandey-thnewagetraveller/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "662",
+    "students": "22,657",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "Export To IOS & Android",
+    "category": "** development",
+    "status": "OK"
   }
 ]

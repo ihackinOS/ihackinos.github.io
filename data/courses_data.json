@@ -1632,5 +1632,24 @@
     "language": "** English (US)",
     "category": "** finance-and-accounting",
     "status": "OK"
+  },
+  {
+    "id": 87,
+    "added_at": "2026-03-14 15:30:04",
+    "title": "Microsoft Power BI - Data Modeling & Data Manipulation",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/3599784_bce9_6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/a7Ns7GGWb",
+    "udemy_url": "https://www.udemy.com/course/microsoft-power-bi-essentials/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "1,005",
+    "students": "44,307",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

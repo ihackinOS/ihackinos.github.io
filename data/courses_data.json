@@ -777,5 +777,24 @@
     "language": "** English (US)",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 42,
+    "added_at": "2026-03-14 15:17:27",
+    "title": "Artificial Intelligence in Pharmaceutical Industry",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5773730_8e73.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/YaM7eTI0uo",
+    "udemy_url": "https://www.udemy.com/course/artificial-intelligence-in-pharmaceutical-industry/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.8",
+    "rating_count": "184",
+    "students": "12,845",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (India)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

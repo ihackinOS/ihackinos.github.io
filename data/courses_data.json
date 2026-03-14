@@ -568,5 +568,24 @@
     "language": "English",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 31,
+    "added_at": "2026-03-14 15:14:29",
+    "title": "Pharma Drug Regulatory Affairs Certificate Course - DRA 2026",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/3576633_a2a9_13.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/5MuSvU50",
+    "udemy_url": "https://www.udemy.com/course/pharmaceutical-regulatory-affairs-course/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.6",
+    "rating_count": "967",
+    "students": "8,277",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

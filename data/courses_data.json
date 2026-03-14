@@ -5736,5 +5736,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 303,
+    "added_at": "2026-03-14 21:55:48",
+    "title": "Professional Diploma in Executive Assistance and Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6241145_65cb_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/bCJ3ucUF",
+    "udemy_url": "https://www.udemy.com/course/executive-assistance-and-management/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "67",
+    "students": "921",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

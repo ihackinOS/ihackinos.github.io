@@ -6306,5 +6306,24 @@
     "language": "English",
     "category": "Other",
     "status": "OK"
+  },
+  {
+    "id": 333,
+    "added_at": "2026-03-14 22:04:54",
+    "title": "Freelancing Secrets: How to Build a Lucrative Career",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6143377_9daf_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/AcgVDph",
+    "udemy_url": "https://www.udemy.com/course/freelancingcareer/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "90",
+    "students": "10,650",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

@@ -2145,5 +2145,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 114,
+    "added_at": "2026-03-14 15:37:45",
+    "title": "Professional Certificate in Project Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6129411_42a2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/HPh0",
+    "udemy_url": "https://www.udemy.com/course/professional-certificate-in-project-management/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "1,223",
+    "students": "26,761",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

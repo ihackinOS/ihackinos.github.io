@@ -2430,5 +2430,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 129,
+    "added_at": "2026-03-14 15:42:04",
+    "title": "CISA Exam Practice Test Series for IT Audit Candidates",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7037379_434d.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/zOj4z5e5Z",
+    "udemy_url": "https://www.udemy.com/course/cisa-exam-practice-test-series-for-it-audit-candidates/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "99",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

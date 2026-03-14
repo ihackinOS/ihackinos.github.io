@@ -7047,5 +7047,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 372,
+    "added_at": "2026-03-14 22:16:45",
+    "title": "Learn Python Programming Masterclass",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/629302_8a2d_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/11h3zp4xx",
+    "udemy_url": "https://www.udemy.com/course/python-the-complete-python-developer-course/",
+    "price": "₫1,477,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "105,409",
+    "students": "439,421",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

@@ -6040,5 +6040,24 @@
     "language": "English",
     "category": "** finance-and-accounting",
     "status": "OK"
+  },
+  {
+    "id": 319,
+    "added_at": "2026-03-14 22:00:36",
+    "title": "Advanced Certificate in Financial Analysis and Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6456169_2396_5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/tJbHta9J5E",
+    "udemy_url": "https://www.udemy.com/course/advanced-certificate-in-financial-analysis-and-management/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "230",
+    "students": "14,542",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

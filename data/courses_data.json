@@ -6743,5 +6743,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 356,
+    "added_at": "2026-03-14 22:11:50",
+    "title": "Learn Github Actions for CI/CD DevOps Pipelines",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4640376_2e3b.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/IiMs80ZQlWLh",
+    "udemy_url": "https://www.udemy.com/course/learn-github-actions-ci-cd-devops-pipelines/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "971",
+    "students": "64,544",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

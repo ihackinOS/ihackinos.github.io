@@ -682,5 +682,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 37,
+    "added_at": "2026-03-14 15:16:06",
+    "title": "Food Science and Processing Technology",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4993558_0aad.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/obWz8X",
+    "udemy_url": "https://www.udemy.com/course/food-science-and-processing-technology/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.2",
+    "rating_count": "196",
+    "students": "6,403",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

@@ -3000,5 +3000,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 159,
+    "added_at": "2026-03-14 19:31:26",
+    "title": "Professional Diploma in Supply Chain Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6180237_b6fa_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/WpyvwecE",
+    "udemy_url": "https://www.udemy.com/course/supplychainmanagement/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "199",
+    "students": "1,533",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

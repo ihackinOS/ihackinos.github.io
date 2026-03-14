@@ -7579,5 +7579,24 @@
     "language": "** English (US)",
     "category": "** personal-development",
     "status": "OK"
+  },
+  {
+    "id": 400,
+    "added_at": "2026-03-14 22:25:41",
+    "title": "The Beginner's Guide to Bash Scripting and Automation",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5729506_f6ef_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/RfX7JSYWxg1",
+    "udemy_url": "https://www.udemy.com/course/the-beginners-guide-to-bash-scripting-and-automation/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "485",
+    "students": "42,292",
+    "duration": "Bash Scripting",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

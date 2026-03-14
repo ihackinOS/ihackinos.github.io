@@ -7104,5 +7104,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 375,
+    "added_at": "2026-03-14 22:17:40",
+    "title": "Java & Python Programming Mastery: Learn to Code Like a Pro",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6182889_b53a.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/uIiJ",
+    "udemy_url": "https://www.udemy.com/course/java-python-programming-mastery-learn-to-code-like-a-pro/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "233",
+    "students": "20,640",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

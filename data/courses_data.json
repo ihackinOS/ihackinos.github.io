@@ -3114,5 +3114,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 165,
+    "added_at": "2026-03-14 19:33:12",
+    "title": "CSS, JavaScript And PHP Complete Course For Beginners",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4345702_2025.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/TwckInP",
+    "udemy_url": "https://www.udemy.com/course/css-javascript-and-php-complete-course-for-beginners/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "1,450",
+    "students": "125,605",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

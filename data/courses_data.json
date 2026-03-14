@@ -7598,5 +7598,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 401,
+    "added_at": "2026-03-14 22:26:00",
+    "title": "Windows Command Mastery for Ethical Hackers",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5687670_7496_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ORLZLB1qOfE0",
+    "udemy_url": "https://www.udemy.com/course/windows-command-mastery-for-ethical-hackers/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "1,099",
+    "students": "55,070",
+    "duration": "Windows Command Line",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

@@ -6097,5 +6097,24 @@
     "language": "** English (US)",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 322,
+    "added_at": "2026-03-14 22:01:31",
+    "title": "Data-Driven Decision Making & Cost-Benefit Analysis (CBA)",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6477309_e02a_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/3eQZ8IW",
+    "udemy_url": "https://www.udemy.com/course/data-based-decision-making-and-cost-benefit-analysis-cba/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "84",
+    "students": "12,718",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

@@ -6344,5 +6344,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 335,
+    "added_at": "2026-03-14 22:05:30",
+    "title": "Professional Diploma in Logistics Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6180277_4027_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/DBhzOmHfEVh",
+    "udemy_url": "https://www.udemy.com/course/logisticsmanagement/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "52",
+    "students": "4,016",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

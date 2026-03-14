@@ -2240,5 +2240,24 @@
     "language": "** Spanish (Spain)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 119,
+    "added_at": "2026-03-14 15:39:11",
+    "title": "Microsoft Excel Data Analysis for Business & Finance",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6753031_9256_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/cXB8KvjrJG9",
+    "udemy_url": "https://www.udemy.com/course/microsoft-excel-data-analysis-for-business-finance/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "76",
+    "students": "7,137",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** office-productivity",
+    "status": "OK"
   }
 ]

@@ -93,5 +93,24 @@
     "language": "English",
     "category": "Business",
     "status": "OK"
+  },
+  {
+    "id": 6,
+    "added_at": "2026-03-14 15:07:38",
+    "title": "Mastering SEO With ChatGPT: Ultimate Beginner's Guide",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5672302_cfed.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/hiaZwIJ5",
+    "udemy_url": "https://www.udemy.com/course/seo_chatgpt/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "398",
+    "students": "47,414",
+    "duration": "Expand all sections",
+    "instructor": "Anton Voroniuk",
+    "language": "English",
+    "category": "Marketing",
+    "status": "OK"
   }
 ]

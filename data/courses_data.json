@@ -6971,5 +6971,24 @@
     "language": "** English (US)",
     "category": "** design",
     "status": "OK"
+  },
+  {
+    "id": 368,
+    "added_at": "2026-03-14 22:15:34",
+    "title": "Certificado Profesional en Gestión de Riesgos",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6540485_eaec_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/pZrHYJJ",
+    "udemy_url": "https://www.udemy.com/course/certificado-profesional-en-gestion-de-riesgos/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "124",
+    "students": "6,871",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Spanish",
+    "category": "** business",
+    "status": "OK"
   }
 ]

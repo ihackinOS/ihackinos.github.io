@@ -8567,5 +8567,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 452,
+    "added_at": "2026-03-15 06:29:57",
+    "title": "Learn SQL with 100 Coding Exercises",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5979370_7288.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/aMKbUsSN",
+    "udemy_url": "https://www.udemy.com/course/learn-sql-with-100-coding-exercises/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "214",
+    "students": "22,632",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

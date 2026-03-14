@@ -4691,5 +4691,24 @@
     "language": "** Portuguese (Portugal)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 248,
+    "added_at": "2026-03-14 19:57:33",
+    "title": "PHP Laravel: Build Amazing Streaming Service",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5513698_bca9.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/sHxp5OoeIZ",
+    "udemy_url": "https://www.udemy.com/course/php-laravel-2023-build-amazing-streaming-service/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "86",
+    "students": "20,132",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

@@ -4292,5 +4292,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 227,
+    "added_at": "2026-03-14 19:51:21",
+    "title": "Digital Transformation & Customer Experience Management CXM",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6261253_f25f.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/EwpY",
+    "udemy_url": "https://www.udemy.com/course/digital-transformation-customer-experience-management-cxm/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "58",
+    "students": "10,439",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** business",
+    "status": "OK"
   }
 ]

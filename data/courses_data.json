@@ -2525,5 +2525,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 134,
+    "added_at": "2026-03-14 15:43:31",
+    "title": "DevOps Microservices Architecture - Practice Questions 2026",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7033489_3bf6_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/L1WzQP87vE1",
+    "udemy_url": "https://www.udemy.com/course/devops-microservices-architecture-questions/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "100",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

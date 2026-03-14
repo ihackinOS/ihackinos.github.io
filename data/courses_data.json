@@ -644,5 +644,24 @@
     "language": "** English (US)",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 35,
+    "added_at": "2026-03-14 15:15:34",
+    "title": "Certificate Course in Pharmacovigilance",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4737796_294f_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/qWXBK6J",
+    "udemy_url": "https://www.udemy.com/course/certificate-course-in-pharmacovigilance/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "3,593",
+    "students": "10,842",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

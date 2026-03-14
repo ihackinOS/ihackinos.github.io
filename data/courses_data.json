@@ -5679,5 +5679,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 300,
+    "added_at": "2026-03-14 21:54:52",
+    "title": "Excel Advanced Expert: Formulas, Pivot, VBA & AI",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6422925_7726_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/WncYjAwzSL",
+    "udemy_url": "https://www.udemy.com/course/microsoft-office-specialist-microsoft-excel-advanced-expert/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "432",
+    "students": "19,570",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** office-productivity",
+    "status": "OK"
   }
 ]

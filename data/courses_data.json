@@ -4159,5 +4159,24 @@
     "language": "** English (US)",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 220,
+    "added_at": "2026-03-14 19:49:17",
+    "title": "Python,Flask Framework And Django Course For Beginners",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/3330326_a986.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/bUPkA9bGZ",
+    "udemy_url": "https://www.udemy.com/course/python-and-flask-and-django-course-for-beginners/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "1,014",
+    "students": "126,225",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

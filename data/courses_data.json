@@ -3665,5 +3665,24 @@
     "language": "** English (US)",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 194,
+    "added_at": "2026-03-14 19:41:39",
+    "title": "सीखें WordPress हिन्दी में",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5563620_cbec_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/e9ga1F",
+    "udemy_url": "https://www.udemy.com/course/learn-wordpress-in-hindi/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "219",
+    "students": "14,281",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Hindi",
+    "category": "** development",
+    "status": "OK"
   }
 ]

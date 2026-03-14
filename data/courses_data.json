@@ -7294,5 +7294,24 @@
     "language": "English",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 385,
+    "added_at": "2026-03-14 22:20:54",
+    "title": "C Programming Language Mastery: Learn C from Scratch",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7017067_b660.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/6lGUg1fsg",
+    "udemy_url": "https://www.udemy.com/course/c-programming-language-mastery-learn-c-from-scratch/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "3.6",
+    "rating_count": "4",
+    "students": "2,021",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

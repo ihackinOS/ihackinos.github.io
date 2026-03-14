@@ -3038,5 +3038,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 161,
+    "added_at": "2026-03-14 19:32:03",
+    "title": "Professional Diploma in Strategic Supply Chain Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6482983_b140_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/3TvA8dyIP",
+    "udemy_url": "https://www.udemy.com/course/strategic-scm/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "25",
+    "students": "3,014",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

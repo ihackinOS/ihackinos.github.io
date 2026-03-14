@@ -5280,5 +5280,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 279,
+    "added_at": "2026-03-14 21:48:27",
+    "title": "Human Virology",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4428544_1bb9_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/6vtZdPTYEID",
+    "udemy_url": "https://www.udemy.com/course/virology-4-you/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "83",
+    "students": "16,167",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** health-and-fitness",
+    "status": "OK"
   }
 ]

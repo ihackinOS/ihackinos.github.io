@@ -5166,5 +5166,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 273,
+    "added_at": "2026-03-14 20:05:00",
+    "title": "PL-500 Microsoft Power Automate RPA Developer certification",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7052065_516b_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/NPinrOPc",
+    "udemy_url": "https://www.udemy.com/course/pl-500-microsoft-power-automate-rpa-developer-certification/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "2",
+    "students": "214",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

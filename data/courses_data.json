@@ -3589,5 +3589,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 190,
+    "added_at": "2026-03-14 19:40:29",
+    "title": "SaaS Marketing with Dekker: SaaS Startup Lead Generation",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/3670336_8e00_9.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/7Oo8uz",
+    "udemy_url": "https://www.udemy.com/course/saas-marketing/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "998",
+    "students": "39,256",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** marketing",
+    "status": "OK"
   }
 ]

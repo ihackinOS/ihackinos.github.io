@@ -8130,5 +8130,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 429,
+    "added_at": "2026-03-15 06:23:04",
+    "title": "شهادة مهنية في إدارة المخاطر",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6607207_7136_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/eZ9R37g51",
+    "udemy_url": "https://www.udemy.com/course/professional-certificate-in-risk-management-arabic-version/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.5",
+    "rating_count": "79",
+    "students": "4,048",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Arabic",
+    "category": "** business",
+    "status": "OK"
   }
 ]

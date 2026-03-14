@@ -2316,5 +2316,24 @@
     "language": "** Arabic",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 123,
+    "added_at": "2026-03-14 15:40:20",
+    "title": "The Complete C & C++ Programming Course - Mastering C & C++",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5642330_9d84_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ANbsI8",
+    "udemy_url": "https://www.udemy.com/course/the-complete-c-and-c-plus-programming-course-mastering-c-and-c-plus/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "470",
+    "students": "43,019",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

@@ -245,5 +245,24 @@
     "language": "English",
     "category": "Business",
     "status": "OK"
+  },
+  {
+    "id": 14,
+    "added_at": "2026-03-14 15:09:48",
+    "title": "Corporate Finance #8 Time Value of Money (PV & FV)",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4115686_758c.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/fVIJmx",
+    "udemy_url": "https://www.udemy.com/course/corporate-finance-8-time-value-of-money-pv-fv/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "142",
+    "students": "38,477",
+    "duration": "Expand all sections",
+    "instructor": "Robert (Bob) Steele",
+    "language": "English",
+    "category": "Business",
+    "status": "OK"
   }
 ]

@@ -7845,5 +7845,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 414,
+    "added_at": "2026-03-14 23:17:49",
+    "title": "Bestseller Udemy Course Creation Masterclass (Unofficial)",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6490655_a35d_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/SQaTjR7J69",
+    "udemy_url": "https://www.udemy.com/course/bestseller-udemy-course-creation-masterclass-unofficial/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.6",
+    "rating_count": "11",
+    "students": "7,627",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

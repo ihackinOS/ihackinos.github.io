@@ -910,5 +910,24 @@
     "language": "** English (US)",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 49,
+    "added_at": "2026-03-14 15:19:21",
+    "title": "Genetic engineering using CRISPR Course",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5782746_a294.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/DHrAeWY",
+    "udemy_url": "https://www.udemy.com/course/genetic-engineering-using-crispr-course/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.3",
+    "rating_count": "68",
+    "students": "6,005",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

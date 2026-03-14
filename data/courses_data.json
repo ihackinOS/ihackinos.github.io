@@ -587,5 +587,24 @@
     "language": "** English (US)",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 32,
+    "added_at": "2026-03-14 15:14:45",
+    "title": "Data Analytics Essentials: Analyze, Visualize, Interpret",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6448273_a103.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/wPEhVYpgg",
+    "udemy_url": "https://www.udemy.com/course/data-analytics-j/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "165",
+    "students": "13,258",
+    "duration": "Module 1. Data Analytics",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

@@ -3494,5 +3494,24 @@
     "language": "** English (US)",
     "category": "** personal-development",
     "status": "OK"
+  },
+  {
+    "id": 185,
+    "added_at": "2026-03-14 19:39:01",
+    "title": "Advanced Digital Marketing with Dekker",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6405491_334c_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/xYRZft0Oq2Up",
+    "udemy_url": "https://www.udemy.com/course/advanced-digital-marketing/",
+    "price": "₫359,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "45",
+    "students": "5,150",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** marketing",
+    "status": "OK"
   }
 ]

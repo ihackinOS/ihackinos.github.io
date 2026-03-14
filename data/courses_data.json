@@ -5831,5 +5831,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 308,
+    "added_at": "2026-03-14 21:57:19",
+    "title": "VHDL : Fully Hands on Learning Experience",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6999301_c828_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/7HPpGF9mVd3T",
+    "udemy_url": "https://www.udemy.com/course/vhdl-fully-hands-on-learning-experience/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "1",
+    "students": "401",
+    "duration": "VHDL",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

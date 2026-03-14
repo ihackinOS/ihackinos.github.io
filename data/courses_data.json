@@ -2202,5 +2202,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 117,
+    "added_at": "2026-03-14 15:38:38",
+    "title": "The Complete Microsoft Excel From Beginners to Expert",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6764847_ffcb.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ddRnwU5sx1",
+    "udemy_url": "https://www.udemy.com/course/the-complete-microsoft-excel-from-beginners-to-expert/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "51",
+    "students": "6,023",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** office-productivity",
+    "status": "OK"
   }
 ]

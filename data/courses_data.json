@@ -226,5 +226,24 @@
     "language": "English",
     "category": "Finance & Accounting",
     "status": "OK"
+  },
+  {
+    "id": 13,
+    "added_at": "2026-03-14 15:09:32",
+    "title": "Corporate Finance #2 Financial Ratios",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/3939424_a262.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/AtnCSz",
+    "udemy_url": "https://www.udemy.com/course/corporate-finance-2-financial-ratios/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "634",
+    "students": "54,573",
+    "duration": "Expand all sections",
+    "instructor": "Robert (Bob) Steele",
+    "language": "English",
+    "category": "Business",
+    "status": "OK"
   }
 ]

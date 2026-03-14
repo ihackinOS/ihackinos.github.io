@@ -6724,5 +6724,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 355,
+    "added_at": "2026-03-14 22:11:31",
+    "title": "Kubernetes for developers",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/1943926_e313.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/gIpGJw6QsI8r",
+    "udemy_url": "https://www.udemy.com/course/kubernetes-for-developers/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "1,137",
+    "students": "114,113",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

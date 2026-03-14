@@ -7389,5 +7389,24 @@
     "language": "** English (US)",
     "category": "** design",
     "status": "OK"
+  },
+  {
+    "id": 390,
+    "added_at": "2026-03-14 22:22:33",
+    "title": "PHP for Beginners: PHP Crash Course",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/3755422_4493_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/UycfiG",
+    "udemy_url": "https://www.udemy.com/course/learn-php-for-beginners-php-crash-course-2021/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "1,505",
+    "students": "161,217",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

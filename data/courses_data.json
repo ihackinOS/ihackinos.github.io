@@ -3893,5 +3893,24 @@
     "language": "** English (US)",
     "category": "** finance-and-accounting",
     "status": "OK"
+  },
+  {
+    "id": 206,
+    "added_at": "2026-03-14 19:45:15",
+    "title": "[NEW!] AWS Certified Solutions Architect Associate (SAA-C03)",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6899699_e59b_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/xgCGtg",
+    "udemy_url": "https://www.udemy.com/course/new-aws-certified-solutions-architect-associate-saa-c03/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.8",
+    "rating_count": "121",
+    "students": "2,126",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

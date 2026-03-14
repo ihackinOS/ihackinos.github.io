@@ -3513,5 +3513,24 @@
     "language": "** English (US)",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 186,
+    "added_at": "2026-03-14 19:39:18",
+    "title": "kids first steps in English",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4860824_cb5a.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/twe26BWonF",
+    "udemy_url": "https://www.udemy.com/course/very-easy-english-teaching-kids-english-level1/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "98",
+    "students": "18,816",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

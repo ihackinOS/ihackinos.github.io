@@ -1309,5 +1309,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 70,
+    "added_at": "2026-03-14 15:25:16",
+    "title": "GCP - Google Cloud Professional Data Engineer Certification",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4095980_4e90_18.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/hrAik00kX",
+    "udemy_url": "https://www.udemy.com/course/google-cloud-gcp-professional-data-engineer-certification/",
+    "price": "₫1,237,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "5,969",
+    "students": "41,255",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

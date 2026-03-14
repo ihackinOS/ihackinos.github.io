@@ -8415,5 +8415,24 @@
     "language": "English",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 444,
+    "added_at": "2026-03-15 06:27:34",
+    "title": "CompTIA A+ (220-1101) Core 1: Exam Prep & Practice Tests",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6491459_1b8a_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/FraoZK",
+    "udemy_url": "https://www.udemy.com/course/practice-test-comptia-a-plus-core-1-220-1101-2024/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "2",
+    "students": "5,310",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

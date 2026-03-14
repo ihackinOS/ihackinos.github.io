@@ -8795,5 +8795,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 464,
+    "added_at": "2026-03-15 06:43:33",
+    "title": "Microsoft Certified Associate Azure Administrator Exam 2026",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7066213_6d05.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/4E6ZiEU3g0",
+    "udemy_url": "https://www.udemy.com/course/microsoft-certified-associate-azure-administrator-exam-2026/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "",
+    "students": "100",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

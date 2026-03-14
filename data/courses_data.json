@@ -720,5 +720,24 @@
     "language": "English",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 39,
+    "added_at": "2026-03-14 15:16:39",
+    "title": "Log in to continue your learning journey",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/Jb8KNs7Tr",
+    "udemy_url": "https://www.udemy.com/course/medical-devices-and-regulatory-affairs/learn/lecture/37171306/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

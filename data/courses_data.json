@@ -1404,5 +1404,24 @@
     "language": "** English (US)",
     "category": "** finance-and-accounting",
     "status": "OK"
+  },
+  {
+    "id": 75,
+    "added_at": "2026-03-14 15:26:40",
+    "title": "Informe Ejecutivo de IA Generativa 2025: LLMs para Líderes",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6638045_b8f4_5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/FRvqH89yu",
+    "udemy_url": "https://www.udemy.com/course/informe-ejecutivo-de-ia-generativa-2025-llms-para-lideres/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "15",
+    "students": "166",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Spanish",
+    "category": "** development",
+    "status": "OK"
   }
 ]

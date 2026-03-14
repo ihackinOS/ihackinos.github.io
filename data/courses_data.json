@@ -6819,5 +6819,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 360,
+    "added_at": "2026-03-14 22:13:04",
+    "title": "Azure Container Apps: intro and deep dive",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5349256_ac7e.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/WLEoVmf",
+    "udemy_url": "https://www.udemy.com/course/azure-container-apps/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "471",
+    "students": "36,500",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

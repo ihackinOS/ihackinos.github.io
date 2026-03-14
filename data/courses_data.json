@@ -1214,5 +1214,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 65,
+    "added_at": "2026-03-14 15:23:50",
+    "title": "Business Analysis for Executives with Microsoft Copilot",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6936001_c79f.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Lq8ZwhEu",
+    "udemy_url": "https://www.udemy.com/course/business-analysis-for-executives-with-microsoft-copilot/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.8",
+    "rating_count": "19",
+    "students": "3,358",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

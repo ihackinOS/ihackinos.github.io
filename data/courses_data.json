@@ -8320,5 +8320,24 @@
     "language": "English",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 439,
+    "added_at": "2026-03-15 06:26:04",
+    "title": "Practice Test: AWS Solutions Architect Associate (SAA-C03)",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6590997_0e02.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/lBx7",
+    "udemy_url": "https://www.udemy.com/course/practice-test-aws-solutions-architect-associate-saa-c03-r/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "10",
+    "students": "8,239",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

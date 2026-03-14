@@ -5356,5 +5356,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 283,
+    "added_at": "2026-03-14 21:49:40",
+    "title": "Practice Exams: MS Azure DP-203 Certification & Case Studies",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6244083_0902_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/QB0awpEX4pD",
+    "udemy_url": "https://www.udemy.com/course/ms-dp-203-certification-practice-tests-case-studies/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "16",
+    "students": "1,281",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

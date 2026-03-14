@@ -4634,5 +4634,24 @@
     "language": "** English (US)",
     "category": "** design",
     "status": "OK"
+  },
+  {
+    "id": 245,
+    "added_at": "2026-03-14 19:56:41",
+    "title": "Master in Product Design, Development and Prototyping",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4492974_5673_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/oZ7RFRi",
+    "udemy_url": "https://www.udemy.com/course/learn-and-develop-winning-prototypes/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "136",
+    "students": "36,869",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

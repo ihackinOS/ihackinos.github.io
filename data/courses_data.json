@@ -7807,5 +7807,24 @@
     "language": "** English (US)",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 412,
+    "added_at": "2026-03-14 23:17:12",
+    "title": "JavaScript Projects Course Build 20 Projects in 20 Days",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5550650_5979_7.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/2hj6y",
+    "udemy_url": "https://www.udemy.com/course/javascript-projects-course-build-20-projects-in-20-days/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "404",
+    "students": "59,764",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

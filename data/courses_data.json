@@ -1499,5 +1499,24 @@
     "language": "** Spanish (Spain)",
     "category": "** office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 80,
+    "added_at": "2026-03-14 15:28:02",
+    "title": "The Complete Data Structures and Algorithms Course in Python",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/2648040_9f01_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/WBuj",
+    "udemy_url": "https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "11,207",
+    "students": "99,181",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

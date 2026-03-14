@@ -2259,5 +2259,24 @@
     "language": "** English (US)",
     "category": "** office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 120,
+    "added_at": "2026-03-14 15:39:28",
+    "title": "Unleash Your Full Potential: Learn English Now!",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6289829_fdcb_9.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ewQrq8B",
+    "udemy_url": "https://www.udemy.com/course/unleash-your-full-potential-learn-english-now/",
+    "price": "Free",
+    "is_free": true,
+    "rating": "4.2",
+    "rating_count": "142",
+    "students": "17,453",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "Language Learning",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

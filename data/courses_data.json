@@ -6876,5 +6876,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 363,
+    "added_at": "2026-03-14 22:13:59",
+    "title": "Microsoft Excel: Business Intelligence w/ Power Query & DAX",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/1137048_c1d7_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/JVDSUVnxwcF8",
+    "udemy_url": "https://www.udemy.com/course/microsoft-excel-power-query-power-pivot-dax/",
+    "price": "₫1,557,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "28,226",
+    "students": "130,310",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Spanish (Mexico)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

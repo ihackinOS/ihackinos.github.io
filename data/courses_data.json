@@ -8073,5 +8073,24 @@
     "language": "English",
     "category": "** design",
     "status": "OK"
+  },
+  {
+    "id": 426,
+    "added_at": "2026-03-15 06:22:01",
+    "title": "Máster en WordPress y ChatGPT, ¡Desde Cero Hasta Experto!",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5375708_7f55_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/V7oYuuJc9",
+    "udemy_url": "https://www.udemy.com/course/master-en-wordpress-y-chatgpt-desde-cero-hasta-experto/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "3.8",
+    "rating_count": "106",
+    "students": "25,288",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

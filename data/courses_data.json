@@ -8662,5 +8662,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 457,
+    "added_at": "2026-03-15 06:31:28",
+    "title": "AI-Powered Data & Product Masterclass",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6665293_55cd_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/pPrPc",
+    "udemy_url": "https://www.udemy.com/course/ai-powered-data-and-product-masterclass/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "53",
+    "students": "11,224",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

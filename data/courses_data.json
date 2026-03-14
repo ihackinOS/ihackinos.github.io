@@ -2886,5 +2886,24 @@
     "language": "** English (US)",
     "category": "** personal-development",
     "status": "OK"
+  },
+  {
+    "id": 153,
+    "added_at": "2026-03-14 19:29:38",
+    "title": "Crear un sistema de control de citas con PHP en Modelo MVC",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4973774_8998_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/k2mDw2",
+    "udemy_url": "https://www.udemy.com/course/crear-un-sistema-de-cotrol-de-citas-con-php-en-modelo-mvc/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "49",
+    "students": "1,406",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

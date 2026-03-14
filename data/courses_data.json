@@ -1062,5 +1062,24 @@
     "language": "English",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 57,
+    "added_at": "2026-03-14 15:21:35",
+    "title": "The Complete Teach-Yourself Drummer's Guide",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5374932_e219_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/KiM93VR7OsBI",
+    "udemy_url": "https://www.udemy.com/course/the-complete-teach-yourself-drummers-guide/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "345",
+    "students": "12,821",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** music",
+    "status": "OK"
   }
 ]

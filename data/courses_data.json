@@ -701,5 +701,24 @@
     "language": "** English (US)",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 38,
+    "added_at": "2026-03-14 15:16:23",
+    "title": "Microsoft Azure for Beginner (Vietnamese)",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6496415_59a3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/DlDxEzKMwk",
+    "udemy_url": "https://www.udemy.com/course/microsoft-azure-for-beginner-vietnamese/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "30",
+    "students": "200",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

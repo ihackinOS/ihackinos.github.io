@@ -36,5 +36,24 @@
     "language": "English",
     "category": "Marketing",
     "status": "OK"
+  },
+  {
+    "id": 3,
+    "added_at": "2026-03-14 15:06:48",
+    "title": "Google My Business. How to Master Powerful Tool for Company",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4954830_1656_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/yHBBuY",
+    "udemy_url": "https://www.udemy.com/course/google-my-business-how-to-master-powerful-tool-for-company/",
+    "price": "₫1,047,000",
+    "is_free": true,
+    "rating": "4.3",
+    "rating_count": "451",
+    "students": "57,628",
+    "duration": "Expand all sections",
+    "instructor": "Anton Voroniuk",
+    "language": "English",
+    "category": "Marketing",
+    "status": "OK"
   }
 ]

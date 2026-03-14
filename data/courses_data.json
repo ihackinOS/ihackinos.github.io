@@ -2392,5 +2392,24 @@
     "language": "** English (US)",
     "category": "** office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 127,
+    "added_at": "2026-03-14 15:41:29",
+    "title": "Delivery management+Agile Delivery+Project Delivery",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/646068_c479_6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/G6VX",
+    "udemy_url": "https://www.udemy.com/course/agile-project-management-scrum/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "741",
+    "students": "57,282",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

@@ -1423,5 +1423,24 @@
     "language": "** Spanish",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 76,
+    "added_at": "2026-03-14 15:26:56",
+    "title": "Microsoft PL-300 - Simulado Completo v2026",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6884533_140b_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/mcn9V",
+    "udemy_url": "https://www.udemy.com/course/microsoft-pl-300-simulado-completo/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.8",
+    "rating_count": "",
+    "students": "103",
+    "duration": "",
+    "instructor": "",
+    "language": "** Portuguese (Brazil)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

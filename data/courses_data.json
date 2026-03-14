@@ -3171,5 +3171,24 @@
     "language": "English",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 168,
+    "added_at": "2026-03-14 19:34:03",
+    "title": "Python Financial Analyst: Financial Analysis Zero to Advance",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5952632_e57a_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/QT2XoEGz7",
+    "udemy_url": "https://www.udemy.com/course/python-financial-analyst-python-for-finance/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "77",
+    "students": "451",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** finance-and-accounting",
+    "status": "OK"
   }
 ]

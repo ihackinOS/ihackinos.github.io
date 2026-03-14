@@ -1556,5 +1556,24 @@
     "language": "** English (US)",
     "category": "** finance-and-accounting",
     "status": "OK"
+  },
+  {
+    "id": 83,
+    "added_at": "2026-03-14 15:28:53",
+    "title": "Advanced Business Analysis (35 IIBA® PDUs)",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4798326_632d_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/FwVWFbw",
+    "udemy_url": "https://www.udemy.com/course/advanced-business-analysis/",
+    "price": "₫698,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "3,923",
+    "students": "20,506",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

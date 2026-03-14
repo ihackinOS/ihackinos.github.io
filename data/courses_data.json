@@ -3703,5 +3703,24 @@
     "language": "** Hindi",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 196,
+    "added_at": "2026-03-14 19:42:15",
+    "title": "Drupal For Beginners - Master Drupal Quickly",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5616788_4b45.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/2UfAB1B3zX",
+    "udemy_url": "https://www.udemy.com/course/drupal-for-beginners-course/",
+    "price": "Free",
+    "is_free": true,
+    "rating": "4.5",
+    "rating_count": "129",
+    "students": "28,590",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

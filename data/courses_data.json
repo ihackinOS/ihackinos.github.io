@@ -55,5 +55,24 @@
     "language": "English",
     "category": "Marketing",
     "status": "OK"
+  },
+  {
+    "id": 4,
+    "added_at": "2026-03-14 15:07:04",
+    "title": "Web Analytics with Similarweb: from Basic to PRO!",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4660298_09d5_6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/4eS5u2XerDYA",
+    "udemy_url": "https://www.udemy.com/course/web-analytics-with-similarweb-from-basic-to-pro/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "219",
+    "students": "50,623",
+    "duration": "Expand all sections",
+    "instructor": "Anton Voroniuk",
+    "language": "English",
+    "category": "Marketing",
+    "status": "OK"
   }
 ]

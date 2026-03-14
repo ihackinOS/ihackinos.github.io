@@ -872,5 +872,24 @@
     "language": "** Spanish (Mexico)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 47,
+    "added_at": "2026-03-14 15:18:48",
+    "title": "Industrial Biotechnology Online Course",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5821794_0271.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/lcyTrT",
+    "udemy_url": "https://www.udemy.com/course/industrial-biotechnology-online-course/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.4",
+    "rating_count": "144",
+    "students": "6,371",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

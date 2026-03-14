@@ -2088,5 +2088,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 111,
+    "added_at": "2026-03-14 15:36:53",
+    "title": "SAP Commerce Cloud Bootcamp 2026",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6154895_1b81_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/7JdGar6s",
+    "udemy_url": "https://www.udemy.com/course/sap-commerce-cloud-hybris/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "499",
+    "students": "20,350",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** office-productivity",
+    "status": "OK"
   }
 ]

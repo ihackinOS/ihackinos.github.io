@@ -891,5 +891,24 @@
     "language": "** English (US)",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 48,
+    "added_at": "2026-03-14 15:19:05",
+    "title": "GIS Software & Application Online Course",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5822666_d151.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/9gZNQ",
+    "udemy_url": "https://www.udemy.com/course/gis-software-application-online-course/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "129",
+    "students": "12,802",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

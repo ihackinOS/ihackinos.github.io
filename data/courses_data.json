@@ -473,5 +473,24 @@
     "language": "English",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 26,
+    "added_at": "2026-03-14 15:13:05",
+    "title": "Executive Certificate in Sales Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5992344_c0b5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ItNrmfyLPHlB",
+    "udemy_url": "https://www.udemy.com/course/executive-certificate-in-sales-management/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "186",
+    "students": "11,082",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

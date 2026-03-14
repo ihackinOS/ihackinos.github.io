@@ -1461,5 +1461,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 78,
+    "added_at": "2026-03-14 15:27:28",
+    "title": "Professional Certificate in Operations Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6111257_784b_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/kA5owsWJZ",
+    "udemy_url": "https://www.udemy.com/course/professional-certificate-in-operations-management/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "573",
+    "students": "14,031",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

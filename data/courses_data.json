@@ -3304,5 +3304,24 @@
     "language": "** English (US)",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 175,
+    "added_at": "2026-03-14 19:36:05",
+    "title": "The Beginner’s Free Website Masterclass (Urdu/Hindi)",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6937069_3e53_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/6sBtlluMYgI",
+    "udemy_url": "https://www.udemy.com/course/the-beginners-free-website-masterclass-urdu-hindi/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.1",
+    "rating_count": "3",
+    "students": "1,528",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "Urdu Language",
+    "category": "** design",
+    "status": "OK"
   }
 ]

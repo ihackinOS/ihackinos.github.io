@@ -2278,5 +2278,24 @@
     "language": "Language Learning",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 121,
+    "added_at": "2026-03-14 15:39:46",
+    "title": "The Complete JavaScript Course 2025: From Zero to Expert!",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/851712_fc61_6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/5hV3v",
+    "udemy_url": "https://www.udemy.com/course/the-complete-javascript-course/",
+    "price": "₫399,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "231,532",
+    "students": "1,019,284",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

@@ -3684,5 +3684,24 @@
     "language": "** Hindi",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 195,
+    "added_at": "2026-03-14 19:41:57",
+    "title": "Learn JavaScript Programming In Hindi",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/3569891_acf2_5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/hE44oOVyDc",
+    "udemy_url": "https://www.udemy.com/course/learn-javascript-step-by-step-in-hindi/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.4",
+    "rating_count": "1,555",
+    "students": "76,132",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Hindi",
+    "category": "** development",
+    "status": "OK"
   }
 ]

@@ -2715,5 +2715,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 144,
+    "added_at": "2026-03-14 19:26:58",
+    "title": "Certificate of Leadership Excellence in Business Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6180625_ba83.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/qcO1gcyMfwBE",
+    "udemy_url": "https://www.udemy.com/course/certificate-of-leadership-excellence-in-business-management/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "332",
+    "students": "12,722",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

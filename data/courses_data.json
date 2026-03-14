@@ -8472,5 +8472,24 @@
     "language": "** Hindi",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 447,
+    "added_at": "2026-03-15 06:28:28",
+    "title": "ISO 42005: AI Impact Assessment – Practical Implementation",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6965803_a4e1.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/3IS0FCEJM",
+    "udemy_url": "https://www.udemy.com/course/iso-42005-ai-impact-assessment-practical-implementation/",
+    "price": "₫698,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "6",
+    "students": "871",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

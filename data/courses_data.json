@@ -3779,5 +3779,24 @@
     "language": "** English (US)",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 200,
+    "added_at": "2026-03-14 19:43:26",
+    "title": "Ultimate AI Art Content Creation Course (Generative AI)",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5489108_0256_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/BDjxPMmLD9",
+    "udemy_url": "https://www.udemy.com/course/ultimate-ai-art-content-creation-course-2023/",
+    "price": "₫359,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "497",
+    "students": "29,941",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** marketing",
+    "status": "OK"
   }
 ]

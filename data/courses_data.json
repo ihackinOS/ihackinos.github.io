@@ -2582,5 +2582,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 137,
+    "added_at": "2026-03-14 15:44:22",
+    "title": "AZ-400: Microsoft Azure DevOps Solutions Practice Tests 2026",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5728758_9ba5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/VcBKaxLNsg",
+    "udemy_url": "https://www.udemy.com/course/az-400-microsoft-azure-devops-solutions-practice-exam-wpbq/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "7",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

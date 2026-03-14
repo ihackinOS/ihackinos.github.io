@@ -1081,5 +1081,24 @@
     "language": "** English (US)",
     "category": "** music",
     "status": "OK"
+  },
+  {
+    "id": 58,
+    "added_at": "2026-03-14 15:21:53",
+    "title": "Executive Certificate in Business Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6028692_bb85.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/y8WLbHi1hQW",
+    "udemy_url": "https://www.udemy.com/course/executive-certificate-in-business-management/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "284",
+    "students": "14,313",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

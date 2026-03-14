@@ -7693,5 +7693,24 @@
     "language": "** Spanish",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 406,
+    "added_at": "2026-03-14 22:27:33",
+    "title": "Network Mastery for Ethical Hackers",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5760192_580e_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/XHlwFWQN256",
+    "udemy_url": "https://www.udemy.com/course/network-mastery-for-ethical-hackers/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "1,164",
+    "students": "54,365",
+    "duration": "Networking",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

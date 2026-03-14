@@ -3152,5 +3152,24 @@
     "language": "** English (US)",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 167,
+    "added_at": "2026-03-14 19:33:46",
+    "title": "Le Changement Climatique : Causes, Conséquences et Solutions",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6628521_45e4_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/yD5ygCKL0I",
+    "udemy_url": "https://www.udemy.com/course/changement-climatique/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.9",
+    "rating_count": "7",
+    "students": "1,092",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

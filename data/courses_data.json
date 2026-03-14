@@ -2221,5 +2221,24 @@
     "language": "** English (US)",
     "category": "** office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 118,
+    "added_at": "2026-03-14 15:38:54",
+    "title": "Curso Completo de Mikrotik. Configuraciones y mucha Práctica",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5449088_93b5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/9PBamnHhz",
+    "udemy_url": "https://www.udemy.com/course/curso-completo-de-mikrotik-configuraciones-mucha-practica/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "239",
+    "students": "11,014",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Spanish (Spain)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

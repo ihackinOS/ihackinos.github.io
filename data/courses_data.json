@@ -6667,5 +6667,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 352,
+    "added_at": "2026-03-14 22:10:34",
+    "title": "Getting started with Azure Cloud",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4805730_6483_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/YTiaKtcQ8KR",
+    "udemy_url": "https://www.udemy.com/course/microsoft-azure-cloud/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "401",
+    "students": "63,858",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

@@ -4615,5 +4615,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 244,
+    "added_at": "2026-03-14 19:56:22",
+    "title": "Nano Banana Masterclass: A Pro Guide to AI Image Mastery",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6799777_a025_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/L1OdRm",
+    "udemy_url": "https://www.udemy.com/course/nano-banana-a-pro-guide-to-ai-image-generation-and-editing-mastery/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "75",
+    "students": "4,990",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** design",
+    "status": "OK"
   }
 ]

@@ -6990,5 +6990,24 @@
     "language": "** Spanish",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 369,
+    "added_at": "2026-03-14 22:15:52",
+    "title": "Desarrollo con Node.js. Aplicación, Testing y seguridad",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4846720_a6f5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/oa8Ooibno4",
+    "udemy_url": "https://www.udemy.com/course/desarrollo-con-nodejs-aplicacion-testing-y-seguridad/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "172",
+    "students": "21,185",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Spanish (Spain)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

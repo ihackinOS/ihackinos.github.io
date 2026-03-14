@@ -1860,5 +1860,24 @@
     "language": "** English (US)",
     "category": "** finance-and-accounting",
     "status": "OK"
+  },
+  {
+    "id": 99,
+    "added_at": "2026-03-14 15:33:27",
+    "title": "SAFe (Scaled Agile Framework) Overview",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5778316_fbd9.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/zIucRZ3",
+    "udemy_url": "https://www.udemy.com/course/safe-scaled-agile-framework/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "667",
+    "students": "21,952",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

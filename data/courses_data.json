@@ -3627,5 +3627,24 @@
     "language": "** English (US)",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 192,
+    "added_at": "2026-03-14 19:41:04",
+    "title": "Complete Wordpress Website Developer Course",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/1490124_3f2f_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/3Q7BUnv00",
+    "udemy_url": "https://www.udemy.com/course/the-complete-wordpress-developer-course-w/",
+    "price": "Free",
+    "is_free": true,
+    "rating": "4.4",
+    "rating_count": "4,450",
+    "students": "301,465",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

@@ -4349,5 +4349,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 230,
+    "added_at": "2026-03-14 19:52:12",
+    "title": "SAP Datasphere-BDC comprehensive training",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6805381_0144_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/yw1Z8",
+    "udemy_url": "https://www.udemy.com/course/sap-datasphere-bdc-comprehensive-training/",
+    "price": "₫849,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "59",
+    "students": "823",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

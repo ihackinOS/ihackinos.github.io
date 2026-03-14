@@ -4444,5 +4444,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 235,
+    "added_at": "2026-03-14 19:53:41",
+    "title": "Data Analyst: Professional Certificate in Data Analysis",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6300333_97a2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/YfCLG",
+    "udemy_url": "https://www.udemy.com/course/data-analyst-professional-certificate-in-data-analysis/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "1,525",
+    "students": "41,522",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

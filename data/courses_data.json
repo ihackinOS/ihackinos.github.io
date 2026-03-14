@@ -7370,5 +7370,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 389,
+    "added_at": "2026-03-14 22:22:11",
+    "title": "Modern Graphic Design MasterClass with AI Driven Tools",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/3406388_848f_5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/0VK1wqZwZrk",
+    "udemy_url": "https://www.udemy.com/course/ultimate-adobe-photoshop-cc-masterclass-basics-to-advanced/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.6",
+    "rating_count": "2,493",
+    "students": "209,725",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** design",
+    "status": "OK"
   }
 ]

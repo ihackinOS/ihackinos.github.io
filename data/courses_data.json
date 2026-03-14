@@ -283,5 +283,24 @@
     "language": "English",
     "category": "Finance & Accounting",
     "status": "OK"
+  },
+  {
+    "id": 16,
+    "added_at": "2026-03-14 15:10:21",
+    "title": "Professional Certificate in Customer Experience Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5979820_d261.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ZOy7ihS",
+    "udemy_url": "https://www.udemy.com/course/professional-certificate-in-customer-experience-management/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "603",
+    "students": "15,489",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

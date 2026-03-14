@@ -758,5 +758,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 41,
+    "added_at": "2026-03-14 15:17:11",
+    "title": "Stem Cell & Gene Therapy Online Course",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5820016_ee84.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/VrnFCLHh8",
+    "udemy_url": "https://www.udemy.com/course/stem-cell-gene-therapy-online-course/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "3.5",
+    "rating_count": "40",
+    "students": "5,018",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

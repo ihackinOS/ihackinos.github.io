@@ -1784,5 +1784,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 95,
+    "added_at": "2026-03-14 15:32:19",
+    "title": "Python Demonstrations For Practice Course",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/3518698_0aff.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/tdwR",
+    "udemy_url": "https://www.udemy.com/course/python-for-beginners-demonstration-course/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "1,584",
+    "students": "216,842",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "Variables, Data Types, Type Conversion, Functions, Statements and Expressions All Demonstrations",
+    "category": "** development",
+    "status": "OK"
   }
 ]

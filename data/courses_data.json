@@ -6401,5 +6401,24 @@
     "language": "** English (US)",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 338,
+    "added_at": "2026-03-14 22:06:24",
+    "title": "HTML5 Essentials and Advanced Interview Questions",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6028560_0ee9_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/kNAPCs",
+    "udemy_url": "https://www.udemy.com/course/html5-essentials-and-advanced-practices/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "19",
+    "students": "12,084",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

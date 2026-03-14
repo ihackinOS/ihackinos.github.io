@@ -1689,5 +1689,24 @@
     "language": "** English (US)",
     "category": "** finance-and-accounting",
     "status": "OK"
+  },
+  {
+    "id": 90,
+    "added_at": "2026-03-14 15:30:54",
+    "title": "Emotional Intelligence in Teams and Collaboration ( EQ )",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6418295_ddfe.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/NFuBG",
+    "udemy_url": "https://www.udemy.com/course/emotional-intelligence-in-teams-and-collaboration/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "740",
+    "students": "4,089",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

@@ -4330,5 +4330,24 @@
     "language": "English",
     "category": "** finance-and-accounting",
     "status": "OK"
+  },
+  {
+    "id": 229,
+    "added_at": "2026-03-14 19:51:55",
+    "title": "Terraform Zero to Hero with AWS Hands-On for Beginners-2026",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7072173_60ad.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/pSeFQG89ubR",
+    "udemy_url": "https://www.udemy.com/course/terraform-zero-to-hero-with-aws-hands-on-for-beginners-2026/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "",
+    "students": "99",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

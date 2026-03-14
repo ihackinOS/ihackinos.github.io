@@ -9042,5 +9042,24 @@
     "language": "English",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 477,
+    "added_at": "2026-03-15 06:47:40",
+    "title": "Python Course All Levels",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6961271_0971_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/l6lzzqf5pH",
+    "udemy_url": "https://www.udemy.com/course/python-course-all-levels/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "22",
+    "students": "6,038",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

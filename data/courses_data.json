@@ -8947,5 +8947,24 @@
     "language": "English",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 472,
+    "added_at": "2026-03-15 06:46:07",
+    "title": "NIST CSF Masterclass: Risk & Incident Response",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7041095_a529_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/d9Os40t",
+    "udemy_url": "https://www.udemy.com/course/nist-csf-masterclass-risk-incident-response/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "",
+    "students": "1,268",
+    "duration": "NIST CSF Masterclass: Risk & Incident Response",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

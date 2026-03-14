@@ -986,5 +986,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 53,
+    "added_at": "2026-03-14 15:20:28",
+    "title": "Medical Robotics Course",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5585178_10d6_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/XhSHW9O5vcY",
+    "udemy_url": "https://www.udemy.com/course/mastering-in-medical-robotics/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "110",
+    "students": "11,759",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

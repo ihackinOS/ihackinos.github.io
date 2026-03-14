@@ -5926,5 +5926,24 @@
     "language": "** Spanish",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 313,
+    "added_at": "2026-03-14 21:58:48",
+    "title": "Google Cloud Associate Engineer Certification Prep 2026",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7068637_9981.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/W19JmlaVp9S",
+    "udemy_url": "https://www.udemy.com/course/google-cloud-associate-engineer-certification-prep-2026/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.9",
+    "rating_count": "",
+    "students": "617",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

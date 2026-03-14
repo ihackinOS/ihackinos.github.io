@@ -4862,5 +4862,24 @@
     "language": "** English (US)",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 257,
+    "added_at": "2026-03-14 20:00:12",
+    "title": "Professional Certificate in SQL and SQL for Data Analysis",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6358693_a332.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/TrHpkkMs",
+    "udemy_url": "https://www.udemy.com/course/professional-certificate-in-sql-and-sql-for-data-analysis/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "672",
+    "students": "28,682",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

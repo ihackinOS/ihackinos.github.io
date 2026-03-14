@@ -2031,5 +2031,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 108,
+    "added_at": "2026-03-14 15:36:02",
+    "title": "Product Owner Certification",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6051031_9a6b_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Akpm7E2x",
+    "udemy_url": "https://www.udemy.com/course/a-csm-advanced-certified-scrum-master/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "709",
+    "students": "18,647",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

@@ -9156,5 +9156,24 @@
     "language": "English",
     "category": "** personal-development",
     "status": "OK"
+  },
+  {
+    "id": 483,
+    "added_at": "2026-03-15 06:49:29",
+    "title": "AI-Powered E-Commerce App with .NET 9, Angular 20 & RAG",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6878943_b303_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/rJnYne8jaC",
+    "udemy_url": "https://www.udemy.com/course/ai-powered-e-commerce-app-with-net-9-angular-20-rag/",
+    "price": "Free",
+    "is_free": true,
+    "rating": "4.8",
+    "rating_count": "125",
+    "students": "720",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

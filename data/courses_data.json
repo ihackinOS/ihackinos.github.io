@@ -2924,5 +2924,24 @@
     "language": "English",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 155,
+    "added_at": "2026-03-14 19:30:13",
+    "title": "Technical Report Writing",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/3105804_efc1_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/QeirR4ZSu",
+    "udemy_url": "https://www.udemy.com/course/reportwriting/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "3,589",
+    "students": "9,159",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "Other",
+    "status": "OK"
   }
 ]

@@ -9479,5 +9479,24 @@
     "language": "** English (India)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 500,
+    "added_at": "2026-03-15 06:54:44",
+    "title": "Think Like a Machine: Computer Architecture Unlocked",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6760561_3101.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/nVhHKnt58f",
+    "udemy_url": "https://www.udemy.com/course/think-like-a-machine-computer-architecture-unlocked/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "26",
+    "students": "8,401",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

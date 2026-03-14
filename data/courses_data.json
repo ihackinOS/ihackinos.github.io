@@ -3418,5 +3418,24 @@
     "language": "** English (US)",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 181,
+    "added_at": "2026-03-14 19:37:51",
+    "title": "Product Led Growth with Silicon Valley Veteran Dekker",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/3897284_822e_6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/8Nyite9KN",
+    "udemy_url": "https://www.udemy.com/course/product-led-growth/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "220",
+    "students": "16,443",
+    "duration": "Product Led Growth",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** marketing",
+    "status": "OK"
   }
 ]

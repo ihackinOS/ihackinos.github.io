@@ -1271,5 +1271,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 68,
+    "added_at": "2026-03-14 15:24:41",
+    "title": "Microsoft Project from Zero to Pro بروجكت من الصفر للاحتراف",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5879042_4292_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/cnF7asq7vG",
+    "udemy_url": "https://www.udemy.com/course/ms-project-from-zero-to-pro/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "124",
+    "students": "9,075",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Arabic",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

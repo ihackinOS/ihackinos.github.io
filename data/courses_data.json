@@ -7275,5 +7275,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 384,
+    "added_at": "2026-03-14 22:20:35",
+    "title": "NS3: Network Simulator for Research & Education",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6882649_11fc_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/P9fS",
+    "udemy_url": "https://www.udemy.com/course/ns3-network-simulator-for-research-education/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "54",
+    "students": "249",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

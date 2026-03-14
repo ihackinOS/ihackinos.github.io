@@ -6914,5 +6914,24 @@
     "language": "English",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 365,
+    "added_at": "2026-03-14 22:14:37",
+    "title": "Professional Certificate: Finance Data Analysis & Analytics",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6536711_5b57_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/6d2UQ8VT",
+    "udemy_url": "https://www.udemy.com/course/professional-certificate-finance-data-analysis-analytics/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "411",
+    "students": "18,324",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** finance-and-accounting",
+    "status": "OK"
   }
 ]

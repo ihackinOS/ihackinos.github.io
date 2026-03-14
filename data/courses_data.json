@@ -9593,5 +9593,24 @@
     "language": "English",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 506,
+    "added_at": "2026-03-15 06:56:30",
+    "title": "Business Analyst Certification",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5443154_98a0_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/kEux7kQBED0",
+    "udemy_url": "https://www.udemy.com/course/business-analyst-certification/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "154",
+    "students": "431",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

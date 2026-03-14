@@ -131,5 +131,24 @@
     "language": "English",
     "category": "Marketing",
     "status": "OK"
+  },
+  {
+    "id": 8,
+    "added_at": "2026-03-14 15:08:11",
+    "title": "Make a WordPress Website with Elementor",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5672294_292b_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/EljcuDfv",
+    "udemy_url": "https://www.udemy.com/course/make-a-wordpress-website-with-elementor/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "520",
+    "students": "42,737",
+    "duration": "Expand all sections",
+    "instructor": "Anton Voroniuk",
+    "language": "English",
+    "category": "Development",
+    "status": "OK"
   }
 ]

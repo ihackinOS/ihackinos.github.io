@@ -1746,5 +1746,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 93,
+    "added_at": "2026-03-14 15:31:45",
+    "title": "Stock Market Trading and Equity Markets Foundations Course",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/179824_7d69_9.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/LjKCH",
+    "udemy_url": "https://www.udemy.com/course/equity-products/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "109",
+    "students": "3,137",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** finance-and-accounting",
+    "status": "OK"
   }
 ]

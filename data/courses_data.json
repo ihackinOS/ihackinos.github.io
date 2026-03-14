@@ -6762,5 +6762,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 357,
+    "added_at": "2026-03-14 22:12:10",
+    "title": "Creación de API REST con Node Js, SQL Server y Swagger",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/3822938_2cac_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ylxAkdQK",
+    "udemy_url": "https://www.udemy.com/course/creacion-de-webservice-con-node-js-y-sql-server/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "505",
+    "students": "41,658",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

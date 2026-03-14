@@ -967,5 +967,24 @@
     "language": "** English (US)",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 52,
+    "added_at": "2026-03-14 15:20:12",
+    "title": "Entrepreneurship and Business Research in Biomedical",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5248380_9647.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/MAC6Tg",
+    "udemy_url": "https://www.udemy.com/course/entrepreneurship-and-business-research-in-biomedical/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.0",
+    "rating_count": "42",
+    "students": "7,167",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

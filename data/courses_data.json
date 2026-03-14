@@ -1518,5 +1518,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 81,
+    "added_at": "2026-03-14 15:28:19",
+    "title": "Diploma: Human Resources, Compensation & Benefits Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6111707_3082.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/FsHl7",
+    "udemy_url": "https://www.udemy.com/course/diploma-human-resources-compensation-benefits-management/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "416",
+    "students": "13,035",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

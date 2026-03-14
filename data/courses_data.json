@@ -1708,5 +1708,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 91,
+    "added_at": "2026-03-14 15:31:11",
+    "title": "Introdução à Gestão",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6118139_f59a.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/FKWPDRwPBMg6",
+    "udemy_url": "https://www.udemy.com/course/introducao-a-gestao/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.6",
+    "rating_count": "5",
+    "students": "1,685",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Portuguese (Portugal)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

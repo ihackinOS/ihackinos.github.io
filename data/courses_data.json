@@ -2696,5 +2696,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 143,
+    "added_at": "2026-03-14 15:46:04",
+    "title": "Certificado Profissional em Gestão de Projetos",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6166379_e3a9_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/uC25J17SD75M",
+    "udemy_url": "https://www.udemy.com/course/certificado-profissional-em-gestao-de-projetos/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.6",
+    "rating_count": "18",
+    "students": "1,910",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** business",
+    "status": "OK"
   }
 ]

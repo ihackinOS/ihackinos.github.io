@@ -1157,5 +1157,24 @@
     "language": "** English (US)",
     "category": "** personal-development",
     "status": "OK"
+  },
+  {
+    "id": 62,
+    "added_at": "2026-03-14 15:23:00",
+    "title": "The Ultimate Unity Game Developer Course: From Zero to Hero",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6535427_361b_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/TjLm6cHw9",
+    "udemy_url": "https://www.udemy.com/course/the-ultimate-unity-game-developer-course-from-zero-to-hero/",
+    "price": "₫698,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "35",
+    "students": "4,632",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

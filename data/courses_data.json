@@ -2734,5 +2734,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 145,
+    "added_at": "2026-03-14 19:27:15",
+    "title": "Code Fashionably: Retail Machine Learning for Business",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6947637_5d31_6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/xe4ICvXQOll",
+    "udemy_url": "https://www.udemy.com/course/code-fashionably-retail-machine-learning-for-business/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "5.0",
+    "rating_count": "5",
+    "students": "111",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

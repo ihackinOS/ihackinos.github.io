@@ -1176,5 +1176,24 @@
     "language": "English",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 63,
+    "added_at": "2026-03-14 15:23:17",
+    "title": "Professional Certificate in Regulatory Compliance",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6037222_7c09_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Ju7qmjI",
+    "udemy_url": "https://www.udemy.com/course/professional-certificate-in-regulatory-compliance-in-finance/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "1,162",
+    "students": "14,252",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** finance-and-accounting",
+    "status": "OK"
   }
 ]

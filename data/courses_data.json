@@ -4026,5 +4026,24 @@
     "language": "English",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 213,
+    "added_at": "2026-03-14 19:47:16",
+    "title": "Master Bacteriology :Hands-On Lab Skills for Beginners",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4335680_fad0_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/FCxFe0SHo",
+    "udemy_url": "https://www.udemy.com/course/practical-bacteriology-from-scratch/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.7",
+    "rating_count": "131",
+    "students": "20,111",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

@@ -5109,5 +5109,24 @@
     "language": "Language Learning",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 270,
+    "added_at": "2026-03-14 20:04:05",
+    "title": "Combating Bacterial Diseases in Poultry Farming:",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4744630_fef9_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/YYwkJ",
+    "udemy_url": "https://www.udemy.com/course/poultry-farming-bacterial-diseases-hindering-satisfying-prod/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "31",
+    "students": "10,743",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

@@ -796,5 +796,24 @@
     "language": "** English (India)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 43,
+    "added_at": "2026-03-14 15:17:43",
+    "title": "Financial Modeling Course",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6244613_e93e.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/EB8JkdRd5",
+    "udemy_url": "https://www.udemy.com/course/financial-modeling-online-course/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "598",
+    "students": "16,924",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** finance-and-accounting",
+    "status": "OK"
   }
 ]

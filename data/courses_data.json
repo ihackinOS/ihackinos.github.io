@@ -7446,5 +7446,24 @@
     "language": "** English (US)",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 393,
+    "added_at": "2026-03-14 22:23:28",
+    "title": "Montessori Masterclass: Your Complete Implementation Guide",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7051753_139b.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/IWFCNA",
+    "udemy_url": "https://www.udemy.com/course/montessori-masterclass/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "",
+    "students": "805",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

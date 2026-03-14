@@ -302,5 +302,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 17,
+    "added_at": "2026-03-14 15:10:37",
+    "title": "Build a Backend REST API with Node JS from Scratch",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4774978_448e.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/wQzSSgxv4Vw",
+    "udemy_url": "https://www.udemy.com/course/build-backend-api-node-js-and-react-frontend/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "657",
+    "students": "95,205",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

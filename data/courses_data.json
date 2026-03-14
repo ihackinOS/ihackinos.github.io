@@ -7408,5 +7408,24 @@
     "language": "English",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 391,
+    "added_at": "2026-03-14 22:22:51",
+    "title": "Modern Excel MasterClass and Google Sheets with AI ChatGPT",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6945227_9cb0_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/WGEOJ8mrrD",
+    "udemy_url": "https://www.udemy.com/course/modern-microsoft-excel-masterclass-and-google-sheets-with-ai-chatgpt/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "37",
+    "students": "5,356",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** office-productivity",
+    "status": "OK"
   }
 ]

@@ -6781,5 +6781,24 @@
     "language": "English",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 358,
+    "added_at": "2026-03-14 22:12:28",
+    "title": "APIREST: PHP, MySQL. Creación, Consumo, Despliegue en Heroku",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/3446212_312e_5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/N8C9aCm",
+    "udemy_url": "https://www.udemy.com/course/creacion-de-webservice-y-consumo-con-postman-php-y-mysql/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "432",
+    "students": "36,879",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Spanish (Spain)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

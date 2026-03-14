@@ -9517,5 +9517,24 @@
     "language": "** English (US)",
     "category": "** office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 502,
+    "added_at": "2026-03-15 06:55:19",
+    "title": "Building Amazon Style Full Stack Microservices",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6586129_b434.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/UfkW",
+    "udemy_url": "https://www.udemy.com/course/building-amazon-style-full-stack-microservices/",
+    "price": "Free",
+    "is_free": true,
+    "rating": "4.6",
+    "rating_count": "110",
+    "students": "1,847",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

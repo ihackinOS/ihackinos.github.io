@@ -1024,5 +1024,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 55,
+    "added_at": "2026-03-14 15:21:01",
+    "title": "Professional Certificate of IBM SPSS Statistics Expert",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6025730_fdd2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/dtSwr6",
+    "udemy_url": "https://www.udemy.com/course/professional-certificate-of-ibm-spss-statistics-expert/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "687",
+    "students": "22,143",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

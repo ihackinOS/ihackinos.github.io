@@ -7313,5 +7313,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 386,
+    "added_at": "2026-03-14 22:21:15",
+    "title": "Python for Automation: Automate Tasks, Excel, Web and Files",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6897205_937d.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/JbWo5FWcn",
+    "udemy_url": "https://www.udemy.com/course/python-for-automation-automate-tasks-excel-web-and-files/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.8",
+    "rating_count": "21",
+    "students": "7,679",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

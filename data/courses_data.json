@@ -397,5 +397,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 22,
+    "added_at": "2026-03-14 15:11:59",
+    "title": "Professional Certificate in Marketing & Marketing Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5972952_4743_5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/qYK7",
+    "udemy_url": "https://www.udemy.com/course/professional-certificate-in-marketing-and-marketing-management/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "357",
+    "students": "18,086",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

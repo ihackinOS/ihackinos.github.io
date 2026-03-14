@@ -549,5 +549,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 30,
+    "added_at": "2026-03-14 15:14:13",
+    "title": "Become HTML Hero",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5905702_72ec.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/VyNfl2khb",
+    "udemy_url": "https://www.udemy.com/course/become-html-hero/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "451",
+    "students": "25,056",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

@@ -853,5 +853,24 @@
     "language": "** English (US)",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 46,
+    "added_at": "2026-03-14 15:18:32",
+    "title": "Aprende JavaScript sin dolor",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4434694_d09f.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/N8abYekVJMd",
+    "udemy_url": "https://www.udemy.com/course/aprende-javascript-sin-dolor/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "54",
+    "students": "4,652",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Spanish (Mexico)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

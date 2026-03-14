@@ -7769,5 +7769,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 410,
+    "added_at": "2026-03-14 23:16:34",
+    "title": "Javascript Programming Course Build 100 Projects in 100 Days",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7023779_38cb_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/DOO5xIe3jXU",
+    "udemy_url": "https://www.udemy.com/course/javascript-programming-course-build-100-projects-in-100-days/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "21",
+    "students": "3,900",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

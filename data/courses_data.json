@@ -739,5 +739,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 40,
+    "added_at": "2026-03-14 15:16:55",
+    "title": "Pharmaceutical Sales and Marketing",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5568992_7364.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/8aNpgR3",
+    "udemy_url": "https://www.udemy.com/course/pharmaceutical-sales-and-marketing/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "3.6",
+    "rating_count": "81",
+    "students": "5,314",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

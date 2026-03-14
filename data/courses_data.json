@@ -264,5 +264,24 @@
     "language": "English",
     "category": "Business",
     "status": "OK"
+  },
+  {
+    "id": 15,
+    "added_at": "2026-03-14 15:10:04",
+    "title": "Corporate Finance #6 Management of Current Assets",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/3939436_72cf.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Fukz01Hy968",
+    "udemy_url": "https://www.udemy.com/course/corporate-finance-6-management-of-current-assets/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "638",
+    "students": "44,897",
+    "duration": "Expand all sections",
+    "instructor": "Robert (Bob) Steele",
+    "language": "English",
+    "category": "Finance & Accounting",
+    "status": "OK"
   }
 ]

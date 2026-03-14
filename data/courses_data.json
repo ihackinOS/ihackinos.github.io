@@ -416,5 +416,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 23,
+    "added_at": "2026-03-14 15:12:16",
+    "title": "Diploma Executivo em Liderança",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5990764_25b2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/a4m3FX6eymD",
+    "udemy_url": "https://www.udemy.com/course/diploma-executivo-em-lideranca/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.4",
+    "rating_count": "15",
+    "students": "2,796",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Portuguese (Portugal)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

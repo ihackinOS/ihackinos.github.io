@@ -8187,5 +8187,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 432,
+    "added_at": "2026-03-15 06:23:58",
+    "title": "DA0-002 CompTIA Data+ Practice Exams [2026]",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7073063_d069.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/vp2Pbh",
+    "udemy_url": "https://www.udemy.com/course/comptia-data-plus-practice-exams/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "5.0",
+    "rating_count": "23",
+    "students": "307",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

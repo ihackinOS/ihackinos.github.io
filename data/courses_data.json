@@ -8586,5 +8586,24 @@
     "language": "English",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 453,
+    "added_at": "2026-03-15 06:30:14",
+    "title": "AI-Powered Customer Experience (CX)",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6665295_a70e.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Chaz5wAX",
+    "udemy_url": "https://www.udemy.com/course/ai-powered-customer-experience/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "29",
+    "students": "5,988",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** marketing",
+    "status": "OK"
   }
 ]

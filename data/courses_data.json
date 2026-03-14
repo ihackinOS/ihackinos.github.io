@@ -5641,5 +5641,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 298,
+    "added_at": "2026-03-14 21:54:12",
+    "title": "Postgraduate Diploma in Fire Safety Management (PGDFSM)",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6669417_e4e2_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/uKAGXLT",
+    "udemy_url": "https://www.udemy.com/course/pgd-fire-safety-management/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "24",
+    "students": "1,517",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

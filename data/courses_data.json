@@ -6591,5 +6591,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 348,
+    "added_at": "2026-03-14 22:09:23",
+    "title": "Deploy Infra in the Cloud using Terraform",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/3637254_3d83_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/CsbpdAzQE5q",
+    "udemy_url": "https://www.udemy.com/course/deploy-infra-in-the-cloud-using-terraform/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "1,380",
+    "students": "82,632",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

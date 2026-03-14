@@ -1005,5 +1005,24 @@
     "language": "** English (US)",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 54,
+    "added_at": "2026-03-14 15:20:45",
+    "title": "Object Oriented Programming in C++",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5847668_f301.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/QxTgq",
+    "udemy_url": "https://www.udemy.com/course/object-oriented-programming-in-cpp/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "270",
+    "students": "1,659",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

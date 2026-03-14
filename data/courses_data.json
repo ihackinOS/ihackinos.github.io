@@ -1765,5 +1765,24 @@
     "language": "** English (US)",
     "category": "** finance-and-accounting",
     "status": "OK"
+  },
+  {
+    "id": 94,
+    "added_at": "2026-03-14 15:32:02",
+    "title": "HTML 5,Python,Flask Framework All In One Complete Course",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/3972018_b05f.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/LHEsGfglt",
+    "udemy_url": "https://www.udemy.com/course/html-5pythonflask-framework-all-in-one-complete-course/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "1,369",
+    "students": "137,248",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

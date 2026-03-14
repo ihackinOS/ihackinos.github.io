@@ -2183,5 +2183,24 @@
     "language": "** Spanish (Spain)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 116,
+    "added_at": "2026-03-14 15:38:20",
+    "title": "The Complete Python Bootcamp from Zero to Expert",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5663772_24d8_5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/5lOWBr94",
+    "udemy_url": "https://www.udemy.com/course/the-complete-python-bootcamp-from-zero-to-expert/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "728",
+    "students": "59,207",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

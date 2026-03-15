@@ -11626,5 +11626,24 @@
     "language": "** Hindi",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 613,
+    "added_at": "2026-03-15 09:21:48",
+    "title": "Excel for MIS & Reporting Professionals",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6712109_4498.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/BPQvHQr",
+    "udemy_url": "https://www.udemy.com/course/excel-for-mis-reporting-professionals/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "15",
+    "students": "300",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** office-productivity",
+    "status": "OK"
   }
 ]

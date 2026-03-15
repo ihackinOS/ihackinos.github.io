@@ -15331,5 +15331,24 @@
     "language": "** Spanish (Mexico)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 808,
+    "added_at": "2026-03-15 21:34:04",
+    "title": "Databricks Certified Machine Learning Professional - Exams",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6194085_d1f5_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/umoFP6cB1n",
+    "udemy_url": "https://www.udemy.com/course/databricks-certified-machine-learning-professional-exams/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "7",
+    "students": "4,308",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

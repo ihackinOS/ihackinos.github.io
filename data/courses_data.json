@@ -20423,5 +20423,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1076,
+    "added_at": "2026-03-16 00:43:15",
+    "title": "Six Sigma: Certified Lean Six Sigma Green Belt (Accredited)",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/1495884_ef52_9.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/sVFePwjm",
+    "udemy_url": "https://www.udemy.com/course/six-sigma-green-belt-training-certification-with-expertise-on-minitab/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "27,598",
+    "students": "105,667",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "Other",
+    "status": "OK"
   }
 ]

@@ -19112,5 +19112,24 @@
     "language": "English",
     "category": "** design",
     "status": "OK"
+  },
+  {
+    "id": 1007,
+    "added_at": "2026-03-16 00:21:09",
+    "title": "Desarrolla la Lógica de Programación con Pseint y algoritmos",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6873657_e742.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/98jPSb7mY",
+    "udemy_url": "https://www.udemy.com/course/desarrolla-la-logica-de-programacion-con-pseint-y-algoritmos/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.8",
+    "rating_count": "51",
+    "students": "6,399",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Spanish (Spain)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

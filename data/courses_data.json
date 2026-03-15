@@ -11208,5 +11208,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 591,
+    "added_at": "2026-03-15 09:14:59",
+    "title": "Mastering Tmux | Linux Terminal Productivity",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6589641_29f8_6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ozl9cXnR1z",
+    "udemy_url": "https://www.udemy.com/course/tmux-fundamentals/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.7",
+    "rating_count": "27",
+    "students": "5,014",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

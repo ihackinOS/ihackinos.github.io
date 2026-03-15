@@ -15578,5 +15578,24 @@
     "language": "** Spanish (Spain)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 821,
+    "added_at": "2026-03-15 21:38:08",
+    "title": "Arquitectura de Software y Patrones de Diseño de Software",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6691607_fd29_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/TE9I",
+    "udemy_url": "https://www.udemy.com/course/arquitectura-de-software-y-patrones-de-diseno/",
+    "price": "Free",
+    "is_free": true,
+    "rating": "4.6",
+    "rating_count": "33",
+    "students": "683",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

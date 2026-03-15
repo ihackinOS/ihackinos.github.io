@@ -13241,5 +13241,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 698,
+    "added_at": "2026-03-15 15:19:11",
+    "title": "Executive Diploma in Finance Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5277418_6388.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/rIu4db4",
+    "udemy_url": "https://www.udemy.com/course/financemanagement/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "926",
+    "students": "35,702",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** finance-and-accounting",
+    "status": "OK"
   }
 ]

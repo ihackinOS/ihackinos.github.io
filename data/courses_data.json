@@ -17573,5 +17573,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 926,
+    "added_at": "2026-03-15 23:56:04",
+    "title": "Corporate Governance Professional Certification (CGPC)",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5497370_fad5_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/S8Bt",
+    "udemy_url": "https://www.udemy.com/course/corporate-governance-certification/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.6",
+    "rating_count": "229",
+    "students": "14,774",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

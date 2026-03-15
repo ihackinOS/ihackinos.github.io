@@ -14552,5 +14552,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 767,
+    "added_at": "2026-03-15 21:21:01",
+    "title": "Prompt Engineering Professional Certification",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5332784_f44c_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/QhBvq",
+    "udemy_url": "https://www.udemy.com/course/prompt-engineering-expert/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "811",
+    "students": "43,474",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

@@ -20556,5 +20556,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 1083,
+    "added_at": "2026-03-16 01:27:45",
+    "title": "Build a User Web App from Scratch with Vanilla PHP 8+",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4636182_459e_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/sjxQRRUX",
+    "udemy_url": "https://www.udemy.com/course/create-real-world-php-webapp-from-scratch/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "315",
+    "students": "83,697",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

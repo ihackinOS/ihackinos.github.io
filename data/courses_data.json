@@ -12975,5 +12975,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 684,
+    "added_at": "2026-03-15 15:14:51",
+    "title": "HTML and CSS for Beginners From Basic to Advance",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4815794_822f_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/bPhY88J",
+    "udemy_url": "https://www.udemy.com/course/html-and-css-for-beginners-from-basic-to-advance/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "1,336",
+    "students": "47,172",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

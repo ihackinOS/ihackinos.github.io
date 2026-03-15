@@ -10296,5 +10296,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 543,
+    "added_at": "2026-03-15 07:11:02",
+    "title": "Programming for Scientific Research with Python and R",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6005490_d61b_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/9vc9",
+    "udemy_url": "https://www.udemy.com/course/programming-for-scientific-research/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "184",
+    "students": "26,970",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

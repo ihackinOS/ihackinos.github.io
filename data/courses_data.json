@@ -11265,5 +11265,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 594,
+    "added_at": "2026-03-15 09:15:59",
+    "title": "Become an Awesome Instructional Designer",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/633444_b736_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/1GNWZj5K1k83",
+    "udemy_url": "https://www.udemy.com/course/become-an-awesome-instructional-designer/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "987",
+    "students": "15,705",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** personal-development",
+    "status": "OK"
   }
 ]

@@ -12348,5 +12348,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 651,
+    "added_at": "2026-03-15 15:04:39",
+    "title": "Learn T-Shirt Design with Adobe Illustrator",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5380122_bcb1.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/aPa5mWfj",
+    "udemy_url": "https://www.udemy.com/course/learn-t-shirt-design-with-adobe-photoshop-and-illustrator/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "131",
+    "students": "33,596",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** design",
+    "status": "OK"
   }
 ]

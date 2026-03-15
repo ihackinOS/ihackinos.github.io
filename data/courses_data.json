@@ -11056,5 +11056,24 @@
     "language": "** French (France)",
     "category": "** personal-development",
     "status": "OK"
+  },
+  {
+    "id": 583,
+    "added_at": "2026-03-15 09:12:30",
+    "title": "Professional Diploma in Digitalization of Retail Banking",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4480366_71d4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/jHXyTRs5uM3I",
+    "udemy_url": "https://www.udemy.com/course/digitisation/",
+    "price": "₫1,047,000",
+    "is_free": true,
+    "rating": "4.2",
+    "rating_count": "419",
+    "students": "39,670",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** business",
+    "status": "OK"
   }
 ]

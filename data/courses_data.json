@@ -10562,5 +10562,24 @@
     "language": "** English (US)",
     "category": "** photography-and-video",
     "status": "OK"
+  },
+  {
+    "id": 557,
+    "added_at": "2026-03-15 07:20:01",
+    "title": "Python Django Full Stack Development: Build Modern Web App",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6576145_939d.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/0r0g8S",
+    "udemy_url": "https://www.udemy.com/course/python-django-full-stack-development-build-modern-web-app/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "220",
+    "students": "19,261",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

@@ -15635,5 +15635,24 @@
     "language": "** English (US)",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 824,
+    "added_at": "2026-03-15 21:39:03",
+    "title": "PHP for Beginners: PDO Crash Course",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/3855420_74ef_5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/aPmmB1SdQ",
+    "udemy_url": "https://www.udemy.com/course/php-with-pdo-2021-the-ultimate-pdo-crash-course/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "429",
+    "students": "87,910",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

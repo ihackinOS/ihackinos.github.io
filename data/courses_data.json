@@ -14039,5 +14039,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 740,
+    "added_at": "2026-03-15 15:32:09",
+    "title": "Introduction In Cyber Attack For Beginners",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6525331_92c4_7.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/QmPh3TNi",
+    "udemy_url": "https://www.udemy.com/course/cyber-kill-chain-from-attack-to-defense-in-cybersecurity/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "261",
+    "students": "24,565",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

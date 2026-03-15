@@ -18789,5 +18789,24 @@
     "language": "** French (France)",
     "category": "** personal-development",
     "status": "OK"
+  },
+  {
+    "id": 990,
+    "added_at": "2026-03-16 00:15:50",
+    "title": "Complete jQuery Course: Learn From Beginner To Advanced",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5816906_3215_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/KgSRNU",
+    "udemy_url": "https://www.udemy.com/course/complete-jquery-course-learn-from-beginner-to-advanced/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "84",
+    "students": "28,301",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

@@ -22209,5 +22209,24 @@
     "language": "English",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 1170,
+    "added_at": "2026-03-16 01:55:00",
+    "title": "Google Cloud Certified Professional ML Engineer Exam [2026]",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/8S5GfrSzvAnv",
+    "udemy_url": "https://www.udemy.com/course/google-cloud-certified-professional-ml-engineer-mock-exam/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

@@ -16357,5 +16357,24 @@
     "language": "** German",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 862,
+    "added_at": "2026-03-15 21:51:00",
+    "title": "Active Directory: Deploying and managing Certificate Service",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/2625950_7829_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/5GPZ9Jq8r",
+    "udemy_url": "https://www.udemy.com/course/active-directory-deploying-and-managing-certificates-adcs/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "224",
+    "students": "9,383",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

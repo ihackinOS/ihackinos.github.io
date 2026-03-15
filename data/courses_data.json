@@ -10676,5 +10676,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 563,
+    "added_at": "2026-03-15 07:21:55",
+    "title": "Mastering Microsoft Project",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6791305_0f54_5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/9RBCzFafeIQC",
+    "udemy_url": "https://www.udemy.com/course/microsoft-project-f/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "33",
+    "students": "3,571",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** business",
+    "status": "OK"
   }
 ]

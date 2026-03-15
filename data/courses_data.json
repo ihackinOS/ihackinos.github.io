@@ -22057,5 +22057,24 @@
     "language": "** Spanish",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 1162,
+    "added_at": "2026-03-16 01:52:30",
+    "title": "Advanced Diploma in Technology Management",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/OWlCW",
+    "udemy_url": "https://www.udemy.com/course/mini-mba-in-technology-management-for-cio-cto/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

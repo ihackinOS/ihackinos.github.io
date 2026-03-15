@@ -20100,5 +20100,24 @@
     "language": "** Hindi",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 1059,
+    "added_at": "2026-03-16 00:37:23",
+    "title": "Trabajando con datos en la Web",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/356578_d1b9_6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/EztAFn1ns9nk",
+    "udemy_url": "https://www.udemy.com/course/trabajando-con-datos-en-la-web/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "143",
+    "students": "6,651",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Spanish",
+    "category": "** development",
+    "status": "OK"
   }
 ]

@@ -13944,5 +13944,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 735,
+    "added_at": "2026-03-15 15:30:38",
+    "title": "PCEA Certified Entry-Level Automation Specialist with Python",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6812029_e437_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/akxe",
+    "udemy_url": "https://www.udemy.com/course/pcea-certified-entry-level-automation-specialist-python/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "",
+    "students": "1,887",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

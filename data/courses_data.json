@@ -18979,5 +18979,24 @@
     "language": "** English (US)",
     "category": "** office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 1000,
+    "added_at": "2026-03-16 00:18:59",
+    "title": "Ansible Zero to Hero 2026 | Complete DevOps Automation Hands",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7078407_580a.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/EE7yCr",
+    "udemy_url": "https://www.udemy.com/course/ansible-zero-to-hero-2026-complete-devops-automation-hands/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "5.0",
+    "rating_count": "",
+    "students": "100",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

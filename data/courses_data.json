@@ -10239,5 +10239,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 540,
+    "added_at": "2026-03-15 07:10:07",
+    "title": "Executive Certificate in Strategic Relationship Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7021735_f1cd.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/N9dUDoRMG",
+    "udemy_url": "https://www.udemy.com/course/executive-certificate-in-strategic-relationship-management/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "3",
+    "students": "1,509",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** business",
+    "status": "OK"
   }
 ]

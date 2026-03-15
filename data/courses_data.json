@@ -15008,5 +15008,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 791,
+    "added_at": "2026-03-15 21:28:43",
+    "title": "AI Networking Certified Professional NCP-AIN [Exams 2026]",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6499667_fce2_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/XELpWs",
+    "udemy_url": "https://www.udemy.com/course/certified-professional-ai-networking-exams/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "2.8",
+    "rating_count": "4",
+    "students": "1,829",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

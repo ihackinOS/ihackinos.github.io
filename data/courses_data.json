@@ -13051,5 +13051,24 @@
     "language": "English",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 688,
+    "added_at": "2026-03-15 15:16:06",
+    "title": "Machine Learning & Python Data Science for Business and AI",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6813871_421c_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Pdkr4mp",
+    "udemy_url": "https://www.udemy.com/course/machine-learning-python-data-science-for-business-and-ai/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "50",
+    "students": "9,532",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

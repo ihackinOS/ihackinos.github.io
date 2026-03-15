@@ -17953,5 +17953,24 @@
     "language": "** Hindi",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 946,
+    "added_at": "2026-03-16 00:02:18",
+    "title": "BIM | Structural Steel Detailing Course | Zero to Hero",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7026721_ca96_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/B31k7Z",
+    "udemy_url": "https://www.udemy.com/course/bim-structural-steel-detailing-course-zero-to-hero/",
+    "price": "₫399,000",
+    "is_free": false,
+    "rating": "3.5",
+    "rating_count": "2",
+    "students": "1,146",
+    "duration": "BIM | Structural Steel Detailing Course | Zero to Hero",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** design",
+    "status": "OK"
   }
 ]

@@ -10410,5 +10410,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 549,
+    "added_at": "2026-03-15 07:17:34",
+    "title": "Redash Masterclass: Dashboards, SQL & On-Prem Deployment",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6964669_44c5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/VadhDapd",
+    "udemy_url": "https://www.udemy.com/course/redash-masterclass-dashboards-sql-on-prem-deployment/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.5",
+    "rating_count": "2",
+    "students": "2,175",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

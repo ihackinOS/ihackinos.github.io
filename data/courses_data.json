@@ -15597,5 +15597,24 @@
     "language": "English",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 822,
+    "added_at": "2026-03-15 21:38:27",
+    "title": "Certificación en Python: Certifícate como Programador PCEP",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5184792_dee1_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Wz8NA1G6cgfw",
+    "udemy_url": "https://www.udemy.com/course/certificacion-python-pcep/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "362",
+    "students": "15,401",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Spanish (Spain)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

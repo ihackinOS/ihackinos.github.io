@@ -21126,5 +21126,24 @@
     "language": "** German",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1113,
+    "added_at": "2026-03-16 01:37:10",
+    "title": "Microsoft Office All-in-One: Excel, Word and PowerPoint",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6893859_5377_5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/FTnGHPRF",
+    "udemy_url": "https://www.udemy.com/course/microsoft-office-microsoft-excel/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.9",
+    "rating_count": "10",
+    "students": "2,269",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** office-productivity",
+    "status": "OK"
   }
 ]

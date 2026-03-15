@@ -18238,5 +18238,24 @@
     "language": "English",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 961,
+    "added_at": "2026-03-16 00:06:56",
+    "title": "Blue Prism Developer Certification Mock Exam Test [2026]",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6128965_f2e6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/4P5DLFuagpy",
+    "udemy_url": "https://www.udemy.com/course/blue-prism-developer-certification-mock-exam-test/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.6",
+    "rating_count": "4",
+    "students": "1,501",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

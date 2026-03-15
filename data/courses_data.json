@@ -19891,5 +19891,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1048,
+    "added_at": "2026-03-16 00:33:54",
+    "title": "Fintech Innovations: AI, Blockchain & Digital Payments",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6643717_dfca_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/L3Ch9XfZ",
+    "udemy_url": "https://www.udemy.com/course/fintech-innovations/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "241",
+    "students": "6,558",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** finance-and-accounting",
+    "status": "OK"
   }
 ]

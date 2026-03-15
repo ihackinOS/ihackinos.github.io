@@ -9859,5 +9859,24 @@
     "language": "English",
     "category": "** photography-and-video",
     "status": "OK"
+  },
+  {
+    "id": 520,
+    "added_at": "2026-03-15 07:00:45",
+    "title": "MS Excel Fundamentals: The Complete Beginner's Guide",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6185255_14ed_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Hm0qwfMPU",
+    "udemy_url": "https://www.udemy.com/course/ms-excel-fundamentals-the-complete-beginners-guide/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "84",
+    "students": "5,031",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** office-productivity",
+    "status": "OK"
   }
 ]

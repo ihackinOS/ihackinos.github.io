@@ -14666,5 +14666,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 773,
+    "added_at": "2026-03-15 21:23:05",
+    "title": "Desarrolla juegos HTML5 con canvas",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/63194_53a5_8.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/1gDg6Dga",
+    "udemy_url": "https://www.udemy.com/course/desarrolla-juegos-html5-con-canvas/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "88",
+    "students": "7,548",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

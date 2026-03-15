@@ -15293,5 +15293,24 @@
     "language": "** English (US)",
     "category": "** office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 806,
+    "added_at": "2026-03-15 21:33:27",
+    "title": "Master Java, Python, C & C++: All-in-One Programming Course",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6173817_8c19_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/9gHZ6sFV",
+    "udemy_url": "https://www.udemy.com/course/master-java-python-c-c-all-in-one-programming-course/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "329",
+    "students": "28,385",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

@@ -11721,5 +11721,24 @@
     "language": "** English (US)",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 618,
+    "added_at": "2026-03-15 09:23:20",
+    "title": "AWS Certified Cloud Practitioner Mock Exams CLF-C02 2026",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/2590994_5a2b_7.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/cDbBHtAI54mq",
+    "udemy_url": "https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-tests-clf-c02/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "3,743",
+    "students": "18,327",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

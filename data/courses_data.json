@@ -11113,5 +11113,24 @@
     "language": "** English (US)",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 586,
+    "added_at": "2026-03-15 09:13:25",
+    "title": "Professional Scrum Product Owner I (PSPO I) Practice | 2026",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6547903_8825.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Apoe",
+    "udemy_url": "https://www.udemy.com/course/professional-scrum-product-owner-i-pspo-i-practice-test/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "54",
+    "students": "6,592",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

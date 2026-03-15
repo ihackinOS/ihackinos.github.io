@@ -15673,5 +15673,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 826,
+    "added_at": "2026-03-15 21:39:40",
+    "title": "Master in Agile HR (Human Resources Management- HRM)",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6191867_7646.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/CYpsJ",
+    "udemy_url": "https://www.udemy.com/course/master-in-agile-hr-human-resources-management/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.3",
+    "rating_count": "113",
+    "students": "9,112",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

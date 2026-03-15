@@ -19302,5 +19302,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 1017,
+    "added_at": "2026-03-16 00:24:13",
+    "title": "ASP.NET Core 8 Web API: Clean architecture + Azure services",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5775224_683b.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Ggw84ZncAnIP",
+    "udemy_url": "https://www.udemy.com/course/aspnet-core-web-api-clean-architecture-azure/",
+    "price": "Free",
+    "is_free": true,
+    "rating": "4.5",
+    "rating_count": "1,070",
+    "students": "6,024",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

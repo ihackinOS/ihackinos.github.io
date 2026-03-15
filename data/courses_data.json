@@ -20271,5 +20271,24 @@
     "language": "** English (US)",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 1068,
+    "added_at": "2026-03-16 00:40:14",
+    "title": "Cursor AI Beginner to Pro: Build Production Web Apps with AI",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6550795_c69d_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/9miOTta9",
+    "udemy_url": "https://www.udemy.com/course/learn-cursor-ai/",
+    "price": "₫698,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "915",
+    "students": "6,606",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

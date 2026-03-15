@@ -15027,5 +15027,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 792,
+    "added_at": "2026-03-15 21:29:01",
+    "title": "CrowdStrike Certified Falcon Hunter (CCFH) [Exams 2026]",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6376299_1d73_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/qvWaEOfyKLr2",
+    "udemy_url": "https://www.udemy.com/course/crowdstrike-certified-falcon-hunter-ccfh-exams/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.4",
+    "rating_count": "7",
+    "students": "2,740",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

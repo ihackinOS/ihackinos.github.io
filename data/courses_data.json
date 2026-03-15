@@ -17592,5 +17592,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 927,
+    "added_at": "2026-03-15 23:56:22",
+    "title": "Java Training Complete Course for Java Beginners All in One",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4970728_bae9.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/A2lCEO8f",
+    "udemy_url": "https://www.udemy.com/course/java-training-complete-course-2022/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "1,635",
+    "students": "90,630",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

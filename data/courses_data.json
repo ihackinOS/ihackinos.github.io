@@ -11132,5 +11132,24 @@
     "language": "English",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 587,
+    "added_at": "2026-03-15 09:13:44",
+    "title": "Reactivity with Signals in Angular v19+",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6636705_c8de_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/v78yx4UiR",
+    "udemy_url": "https://www.udemy.com/course/signals-in-angular-v19/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.2",
+    "rating_count": "15",
+    "students": "3,228",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

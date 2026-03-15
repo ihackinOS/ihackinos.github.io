@@ -21487,5 +21487,24 @@
     "language": "English",
     "category": "** health-and-fitness",
     "status": "OK"
+  },
+  {
+    "id": 1132,
+    "added_at": "2026-03-16 01:43:09",
+    "title": "Business Administration",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/IsEEVOvM9",
+    "udemy_url": "https://www.udemy.com/course/micro-mba-in-business-administration/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** business",
+    "status": "OK"
   }
 ]

@@ -20879,5 +20879,24 @@
     "language": "** Hindi",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 1100,
+    "added_at": "2026-03-16 01:33:07",
+    "title": "Executive Diploma in Technology Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5659378_0fba_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/8M8rVWwu",
+    "udemy_url": "https://www.udemy.com/course/executive-diploma-in-technology-management/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "366",
+    "students": "22,479",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

@@ -20670,5 +20670,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1089,
+    "added_at": "2026-03-16 01:29:39",
+    "title": "C++ And PHP Complete Course for C++ and PHP Beginners",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5049552_545e.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/HRNsvXi04h",
+    "udemy_url": "https://www.udemy.com/course/c-and-php-complete-course-2023/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "354",
+    "students": "59,207",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

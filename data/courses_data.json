@@ -10087,5 +10087,24 @@
     "language": "English",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 532,
+    "added_at": "2026-03-15 07:07:37",
+    "title": "Graphic Design Masterclass: Master Illustrator & Photoshop",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5832228_0be6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/j0AGwES",
+    "udemy_url": "https://www.udemy.com/course/graphic-design-masterclass-master-illustrator-photoshop/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "332",
+    "students": "32,630",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** design",
+    "status": "OK"
   }
 ]

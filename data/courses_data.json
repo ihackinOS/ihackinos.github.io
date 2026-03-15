@@ -21734,5 +21734,24 @@
     "language": "English",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 1145,
+    "added_at": "2026-03-16 01:47:13",
+    "title": "SQL практикум на базе MySQL (полный курс)",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/dX6g1y3kZnmH",
+    "udemy_url": "https://www.udemy.com/course/sql-mysql-course-ru/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

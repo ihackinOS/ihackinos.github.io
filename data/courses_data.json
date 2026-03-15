@@ -21259,5 +21259,24 @@
     "language": "** English (US)",
     "category": "** health-and-fitness",
     "status": "OK"
+  },
+  {
+    "id": 1120,
+    "added_at": "2026-03-16 01:39:24",
+    "title": "Financial Accounting & Bookkeeping: Beginners to Advanced.",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/Qpd6IP",
+    "udemy_url": "https://www.udemy.com/course/financial-accounting-bookkeeping-beginners-to-advanced/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** finance-and-accounting",
+    "status": "OK"
   }
 ]

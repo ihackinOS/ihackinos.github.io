@@ -10049,5 +10049,24 @@
     "language": "** English (US)",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 530,
+    "added_at": "2026-03-15 07:06:59",
+    "title": "Machine Learning Unsupervised - Practice Questions 2026",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7074765_5788_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ZYyKGjBzZu",
+    "udemy_url": "https://www.udemy.com/course/machine-learning-unsupervised-questions/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "100",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

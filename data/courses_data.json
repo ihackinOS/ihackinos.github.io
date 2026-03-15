@@ -13868,5 +13868,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 731,
+    "added_at": "2026-03-15 15:29:24",
+    "title": "Accelerated Data Science (NCA-ADS) Associate [Exams 2026]",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7053971_0438_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/bzHCr8m",
+    "udemy_url": "https://www.udemy.com/course/accelerated-data-science-associate/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "",
+    "students": "335",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

@@ -17991,5 +17991,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 948,
+    "added_at": "2026-03-16 00:02:55",
+    "title": "Practical HTML, CSS, JS: 10 Real-World Projects for Practice",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5437534_25fa_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/gcOgFUjQ",
+    "udemy_url": "https://www.udemy.com/course/10-html-css-js-projects-html5-css3-and-vanilla-javascript/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "402",
+    "students": "43,008",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Hindi",
+    "category": "** development",
+    "status": "OK"
   }
 ]

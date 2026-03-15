@@ -13697,5 +13697,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 722,
+    "added_at": "2026-03-15 15:26:40",
+    "title": "Programación en C++ de cero con estructuras de datos y POO",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5127236_8148.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Xq1Gs4JLpv",
+    "udemy_url": "https://www.udemy.com/course/programacion-en-c-plus-plus-con-estructuras-de-datos/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "489",
+    "students": "3,279",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Spanish (Spain)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

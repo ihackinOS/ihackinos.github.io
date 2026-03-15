@@ -18808,5 +18808,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 991,
+    "added_at": "2026-03-16 00:16:10",
+    "title": "Complete Python Course: Learn From Beginner To Advanced",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5854076_b7ff.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/90q5Q",
+    "udemy_url": "https://www.udemy.com/course/complete-python-course-learn-from-beginner-to-advanced/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "771",
+    "students": "35,543",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

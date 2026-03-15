@@ -15749,5 +15749,24 @@
     "language": "** English (US)",
     "category": "** finance-and-accounting",
     "status": "OK"
+  },
+  {
+    "id": 830,
+    "added_at": "2026-03-15 21:40:58",
+    "title": "Master in Integrated Operations & Supply Chain Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5788288_4b6f_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/qi0lh",
+    "udemy_url": "https://www.udemy.com/course/master-in-operations-supply-chain-management-moscm-course/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "325",
+    "students": "17,628",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

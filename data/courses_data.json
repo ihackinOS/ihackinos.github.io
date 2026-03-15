@@ -14267,5 +14267,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 752,
+    "added_at": "2026-03-15 15:35:46",
+    "title": "Databricks Certified Generative AI Engineer Associate Exams",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6777935_db36_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/h6YCPzWJn",
+    "udemy_url": "https://www.udemy.com/course/generative-ai-engineer-associate/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "",
+    "students": "6",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

@@ -18675,5 +18675,24 @@
     "language": "English",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 984,
+    "added_at": "2026-03-16 00:13:58",
+    "title": "Agile Crash Course for Beginners",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/3840638_1f08_6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/g60ZkG31R0",
+    "udemy_url": "https://www.udemy.com/course/agile-bootcamp/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "1,139",
+    "students": "30,558",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** business",
+    "status": "OK"
   }
 ]

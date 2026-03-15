@@ -21088,5 +21088,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 1111,
+    "added_at": "2026-03-16 01:36:33",
+    "title": "Evaluación de Riesgos y Ciberseguridad de la IA para Empresa",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6610087_da11_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/mMoV0XJu",
+    "udemy_url": "https://www.udemy.com/course/evaluacion-de-riesgos-y-ciberseguridad-de-la-ia-para-empresa/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "84",
+    "students": "3,485",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Spanish (Spain)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

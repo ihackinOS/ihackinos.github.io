@@ -12766,5 +12766,24 @@
     "language": "** English (US)",
     "category": "** personal-development",
     "status": "OK"
+  },
+  {
+    "id": 673,
+    "added_at": "2026-03-15 15:11:26",
+    "title": "Master Full Stack Web Development With Games and Application",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6616915_f73a_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/AYXTzYoZA",
+    "udemy_url": "https://www.udemy.com/course/master-full-stack-web-development-with-games-and-application/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "229",
+    "students": "21,920",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

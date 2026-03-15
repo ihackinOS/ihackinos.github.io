@@ -21012,5 +21012,24 @@
     "language": "** Spanish (Spain)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1107,
+    "added_at": "2026-03-16 01:35:19",
+    "title": "Arduino : Fully Hands on Learning Experience",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6887065_e064_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Camng",
+    "udemy_url": "https://www.udemy.com/course/arduino-fully-hands-on-learning-experience/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "2",
+    "students": "518",
+    "duration": "Arduino Programming",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

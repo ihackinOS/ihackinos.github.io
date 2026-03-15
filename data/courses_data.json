@@ -17041,5 +17041,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 898,
+    "added_at": "2026-03-15 22:02:13",
+    "title": "AI in Healthcare: A-Z Guide on Tech, Applications & Ethics",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6905893_f165.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/llJsctJONVx",
+    "udemy_url": "https://www.udemy.com/course/ai-in-healthcare-a-z-guide-on-tech-applications-ethics/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "35",
+    "students": "5,571",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

@@ -20689,5 +20689,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 1090,
+    "added_at": "2026-03-16 01:29:58",
+    "title": "CSS, Bootstrap And JavaScript And Python Stack Course",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4447554_32c0_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/5ygYl3FXqiM",
+    "udemy_url": "https://www.udemy.com/course/css-bootstrap-and-javascript-and-python-stack-course/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "1,232",
+    "students": "124,853",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "Write CSS Scripts And Understanding Concepts",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

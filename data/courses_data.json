@@ -13716,5 +13716,24 @@
     "language": "** Spanish (Spain)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 723,
+    "added_at": "2026-03-15 15:26:58",
+    "title": "User Experience Design Professional Certification",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5293600_d66d.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/G4agzY",
+    "udemy_url": "https://www.udemy.com/course/ux_ui_expert/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.5",
+    "rating_count": "675",
+    "students": "33,810",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** design",
+    "status": "OK"
   }
 ]

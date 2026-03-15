@@ -20708,5 +20708,24 @@
     "language": "Write CSS Scripts And Understanding Concepts",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 1091,
+    "added_at": "2026-03-16 01:30:17",
+    "title": "Python Development & Data Science: Variables and Data Types",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5644182_a2eb.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/LqqSOyZWy",
+    "udemy_url": "https://www.udemy.com/course/python-development-data-science-variables-and-data-types/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "896",
+    "students": "52,911",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

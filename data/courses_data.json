@@ -18713,5 +18713,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 986,
+    "added_at": "2026-03-16 00:14:36",
+    "title": "API Crash Course: How to Create, Test, & Document your APIs",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4007248_3585_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ZjX3JZM8RrF",
+    "udemy_url": "https://www.udemy.com/course/api-course/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "3,412",
+    "students": "38,275",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

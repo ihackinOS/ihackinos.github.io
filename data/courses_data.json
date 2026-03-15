@@ -22038,5 +22038,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 1161,
+    "added_at": "2026-03-16 01:52:11",
+    "title": "Universidad de Elementor Pro, ¡Desde Cero Hasta Experto!",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/30O7tWsavRch",
+    "udemy_url": "https://www.udemy.com/course/universidad-de-elementor-pro-desde-cero-hasta-experto/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** Spanish",
+    "category": "** development",
+    "status": "OK"
   }
 ]

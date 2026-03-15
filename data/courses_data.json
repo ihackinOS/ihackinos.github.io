@@ -17706,5 +17706,24 @@
     "language": "English",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 933,
+    "added_at": "2026-03-15 23:58:16",
+    "title": "Executive Diploma in Business Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5517586_8ec9.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/yZBvRlikGe",
+    "udemy_url": "https://www.udemy.com/course/executive-diploma-in-business-management/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "737",
+    "students": "31,031",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

@@ -19910,5 +19910,24 @@
     "language": "** English (US)",
     "category": "** finance-and-accounting",
     "status": "OK"
+  },
+  {
+    "id": 1049,
+    "added_at": "2026-03-16 00:34:13",
+    "title": "Professional Diploma in Agile and Project Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5589912_8cbe_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/EZAvBbHJFO",
+    "udemy_url": "https://www.udemy.com/course/professional-diploma-in-agile-and-project-management/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "1,281",
+    "students": "39,057",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

@@ -21620,5 +21620,24 @@
     "language": "** English (US)",
     "category": "** design",
     "status": "OK"
+  },
+  {
+    "id": 1139,
+    "added_at": "2026-03-16 01:45:20",
+    "title": "Linux Command Line: From Zero to Hero",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/Ncsbq",
+    "udemy_url": "https://www.udemy.com/course/the-basics-of-linux-command-line/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

@@ -14894,5 +14894,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 785,
+    "added_at": "2026-03-15 21:26:52",
+    "title": "CrowdStrike Certified Identity Specialist CCIS [Exams 2026]",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6367959_1198_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/9pbaKTgjFv",
+    "udemy_url": "https://www.udemy.com/course/crowdstrike-certified-identity-specialist-ccis-exams/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "6",
+    "students": "2,028",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

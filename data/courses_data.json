@@ -15103,5 +15103,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 796,
+    "added_at": "2026-03-15 21:30:15",
+    "title": "The Complete Microsoft Excel Data Analysis Bootcamp",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6141449_679d_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/lcDo",
+    "udemy_url": "https://www.udemy.com/course/the-complete-microsoft-excel-data-analysis-bootcamp/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "160",
+    "students": "12,465",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** office-productivity",
+    "status": "OK"
   }
 ]

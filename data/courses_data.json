@@ -14685,5 +14685,24 @@
     "language": "English",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 774,
+    "added_at": "2026-03-15 21:23:24",
+    "title": "Palo Alto Networks Certified XSIAM Engineer [Exams 2026]",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6767517_899e_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/fCjo",
+    "udemy_url": "https://www.udemy.com/course/palo-alto-networks-xsiam-engineer-exams/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.6",
+    "rating_count": "4",
+    "students": "965",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

@@ -15236,5 +15236,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 803,
+    "added_at": "2026-03-15 21:32:30",
+    "title": "NumPy Programming Mastery: Learn Python for Data Analysis",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6172073_37a4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/xHWwXGZP",
+    "udemy_url": "https://www.udemy.com/course/numpy-programming-mastery-learn-python-for-data-analysis/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "176",
+    "students": "21,884",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

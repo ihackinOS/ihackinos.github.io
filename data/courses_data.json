@@ -21050,5 +21050,24 @@
     "language": "** Spanish (Venezuela)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 1109,
+    "added_at": "2026-03-16 01:35:56",
+    "title": "Programación con Claude la IA Generativa para Desarrollo Web",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6468857_a89f.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ylNYIG",
+    "udemy_url": "https://www.udemy.com/course/programacion-con-claude-la-ia-generativa-para-desarrollo-web/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "81",
+    "students": "10,063",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

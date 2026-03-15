@@ -18846,5 +18846,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 993,
+    "added_at": "2026-03-16 00:16:48",
+    "title": "Advanced Diploma in Innovations and Digital Transformation",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5544090_702e.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/zIEI4rlp",
+    "udemy_url": "https://www.udemy.com/course/mini-mba-in-innovations-and-digital-transformation/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "403",
+    "students": "34,427",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

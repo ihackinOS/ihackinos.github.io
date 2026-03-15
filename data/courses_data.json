@@ -19150,5 +19150,24 @@
     "language": "** English (US)",
     "category": "** personal-development",
     "status": "OK"
+  },
+  {
+    "id": 1009,
+    "added_at": "2026-03-16 00:21:45",
+    "title": "Active Directory: Advanced AD DS infrastructure management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/2353392_2c0e_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/KLzkMQExc",
+    "udemy_url": "https://www.udemy.com/course/active-directory-advanced-ad-ds-infrastructure-management/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "71",
+    "students": "387",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

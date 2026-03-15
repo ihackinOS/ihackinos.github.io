@@ -19397,5 +19397,24 @@
     "language": "** English (US)",
     "category": "** design",
     "status": "OK"
+  },
+  {
+    "id": 1022,
+    "added_at": "2026-03-16 00:25:47",
+    "title": "Python Development Essentials",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5561902_78cd.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/pyiIiRx",
+    "udemy_url": "https://www.udemy.com/course/python-development-essentials/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "560",
+    "students": "43,717",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

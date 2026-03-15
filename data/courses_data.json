@@ -16851,5 +16851,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 888,
+    "added_at": "2026-03-15 21:59:04",
+    "title": "Crea tus Aplicaciones sin Código (No code) con FlutterFlow",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5753514_914f_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/v8vgj",
+    "udemy_url": "https://www.udemy.com/course/crea-tus-aplicaciones-sin-codigo-no-code-con-flutterflow/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "46",
+    "students": "11,727",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Spanish (Spain)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

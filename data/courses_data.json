@@ -18694,5 +18694,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 985,
+    "added_at": "2026-03-16 00:14:17",
+    "title": "Test Automation for Complete Beginners",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4827766_4e71.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ZX88",
+    "udemy_url": "https://www.udemy.com/course/test-automation-for-beginners/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "788",
+    "students": "20,245",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

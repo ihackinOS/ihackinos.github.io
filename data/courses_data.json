@@ -13678,5 +13678,24 @@
     "language": "** English (US)",
     "category": "** lifestyle",
     "status": "OK"
+  },
+  {
+    "id": 721,
+    "added_at": "2026-03-15 15:26:21",
+    "title": "AWS Certified Generative AI Developer Professional – Exams",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6876159_4578.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ijCi7",
+    "udemy_url": "https://www.udemy.com/course/aws-certified-generative-ai-developer-professional-exams/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.3",
+    "rating_count": "9",
+    "students": "524",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

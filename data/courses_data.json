@@ -17554,5 +17554,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 925,
+    "added_at": "2026-03-15 23:55:46",
+    "title": "Executive Diploma in Corporate Entrepreneurship",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5488004_27fc.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/wYbyphyxLxR",
+    "udemy_url": "https://www.udemy.com/course/corporate-entrepreneurship/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.4",
+    "rating_count": "313",
+    "students": "25,013",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** business",
+    "status": "OK"
   }
 ]

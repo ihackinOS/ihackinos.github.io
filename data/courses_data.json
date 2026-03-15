@@ -19074,5 +19074,24 @@
     "language": "** English (US)",
     "category": "** office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 1005,
+    "added_at": "2026-03-16 00:20:32",
+    "title": "Web3 Development Essentials",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5544558_1473_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/eKZJXG",
+    "udemy_url": "https://www.udemy.com/course/web3-development-essentials/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "450",
+    "students": "37,256",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** finance-and-accounting",
+    "status": "OK"
   }
 ]

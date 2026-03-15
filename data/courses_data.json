@@ -12291,5 +12291,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 648,
+    "added_at": "2026-03-15 15:03:45",
+    "title": "Data Science Time Series Analysis - Practice Questions 2026",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7074535_c5eb_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/t9ay2",
+    "udemy_url": "https://www.udemy.com/course/data-science-time-series-analysis-questions/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "99",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

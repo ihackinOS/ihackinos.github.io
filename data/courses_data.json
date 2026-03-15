@@ -10277,5 +10277,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 542,
+    "added_at": "2026-03-15 07:10:43",
+    "title": "Essentials for ArcPy: Python for Geospatial Automation",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6483073_0db5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Nxb6GEBcWM",
+    "udemy_url": "https://www.udemy.com/course/essentials-for-arcpy/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "44",
+    "students": "13,539",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

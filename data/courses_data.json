@@ -10391,5 +10391,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 548,
+    "added_at": "2026-03-15 07:17:15",
+    "title": "PHP with MySQL: Build Complete Forum with Admin Panel",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5219650_cb8e.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/jVFYluFwQ1e",
+    "udemy_url": "https://www.udemy.com/course/php-with-mysql-2023-build-complete-forum-with-admin-panel/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "206",
+    "students": "35,828",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

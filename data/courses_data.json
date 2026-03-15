@@ -14780,5 +14780,24 @@
     "language": "** English (US)",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 779,
+    "added_at": "2026-03-15 21:24:56",
+    "title": "Palo Alto Networks Network Security Professional - Exams",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6476761_27d3_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/bHI55m25Y",
+    "udemy_url": "https://www.udemy.com/course/palo-alto-networks-network-security-generalist-exams/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "15",
+    "students": "1,584",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

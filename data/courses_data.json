@@ -10467,5 +10467,24 @@
     "language": "** English (US)",
     "category": "** finance-and-accounting",
     "status": "OK"
+  },
+  {
+    "id": 552,
+    "added_at": "2026-03-15 07:18:29",
+    "title": "Mastering C# Learn Building Games, Application, Softwares",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6457969_889b_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/CRSS",
+    "udemy_url": "https://www.udemy.com/course/mastering-c-learn-building-games-application-softwares/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "147",
+    "students": "20,903",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

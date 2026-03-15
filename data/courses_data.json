@@ -17117,5 +17117,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 902,
+    "added_at": "2026-03-15 22:03:30",
+    "title": "Agile Professional Certification",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5470222_803d_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/KVUeY",
+    "udemy_url": "https://www.udemy.com/course/agile-certified-professional/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "362",
+    "students": "26,302",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

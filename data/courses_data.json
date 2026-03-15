@@ -18371,5 +18371,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 968,
+    "added_at": "2026-03-16 00:09:03",
+    "title": "AZ-801 Configuring Windows Server Hybrid Advanced Services",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4780506_5902_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/69qsPD4tc3MH",
+    "udemy_url": "https://www.udemy.com/course/az-801-configuring-windows-server-hybrid-advanced-services-i/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "708",
+    "students": "7,269",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

@@ -20081,5 +20081,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1058,
+    "added_at": "2026-03-16 00:37:04",
+    "title": "Android Very Basic App Development Course with Java in Hindi",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5465660_437e_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ghdXQt",
+    "udemy_url": "https://www.udemy.com/course/android-very-basic-app-development-course-with-java-in-hindi/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "125",
+    "students": "24,267",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Hindi",
+    "category": "** development",
+    "status": "OK"
   }
 ]

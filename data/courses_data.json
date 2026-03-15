@@ -17079,5 +17079,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 900,
+    "added_at": "2026-03-15 22:02:51",
+    "title": "CentOS Linux and Ubuntu Linux: Managing Packages",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/1436610_e625_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/qObFC6b5N9",
+    "udemy_url": "https://www.udemy.com/course/centos-and-ubuntu-managing-packages/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "137",
+    "students": "28,618",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

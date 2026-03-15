@@ -17877,5 +17877,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 942,
+    "added_at": "2026-03-16 00:01:04",
+    "title": "The Complete C++ Programming Course from Basic to Expert",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5806946_7fdc.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/HmuKGDVTKy",
+    "udemy_url": "https://www.udemy.com/course/complete-c-plus-programming-course-from-basic-to-expert/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "430",
+    "students": "31,843",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

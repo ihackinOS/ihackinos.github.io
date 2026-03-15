@@ -20955,5 +20955,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 1104,
+    "added_at": "2026-03-16 01:34:21",
+    "title": "PHP with MySQL: Build 8 PHP and MySQL Projects",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4931232_fc3a.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Wf9GRamUdkSH",
+    "udemy_url": "https://www.udemy.com/course/php-with-mysql-2022-build-php-and-mysql-projects/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "251",
+    "students": "44,654",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

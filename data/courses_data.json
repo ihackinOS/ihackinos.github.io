@@ -18124,5 +18124,24 @@
     "language": "Learn How To Create Models, Views & Templates",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 955,
+    "added_at": "2026-03-16 00:05:04",
+    "title": "Microsoft Excel : Mastering Data Analysis with Pivot Table",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6014988_095c_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/k5ULs",
+    "udemy_url": "https://www.udemy.com/course/microsoft-excel-mastering-data-analysis-with-pivot-table/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "174",
+    "students": "15,979",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** office-productivity",
+    "status": "OK"
   }
 ]

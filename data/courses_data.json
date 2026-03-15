@@ -18200,5 +18200,24 @@
     "language": "** English (US)",
     "category": "** office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 959,
+    "added_at": "2026-03-16 00:06:18",
+    "title": "Data Science Deep Learning - Practice Questions 2026",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7073171_f363_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/KNAVWRXSz",
+    "udemy_url": "https://www.udemy.com/course/data-science-deep-learning-questions/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "100",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

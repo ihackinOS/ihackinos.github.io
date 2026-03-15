@@ -21867,5 +21867,24 @@
     "language": "English",
     "category": "** design",
     "status": "OK"
+  },
+  {
+    "id": 1152,
+    "added_at": "2026-03-16 01:49:23",
+    "title": "CSS And JavaScript Complete Course For Beginners",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/CWY8144k6",
+    "udemy_url": "https://www.udemy.com/course/css-and-javascript-complete-course-for-beginners/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

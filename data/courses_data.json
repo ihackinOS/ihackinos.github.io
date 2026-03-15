@@ -15141,5 +15141,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 798,
+    "added_at": "2026-03-15 21:30:53",
+    "title": "Microsoft Office: Excel, Word, PowerPoint and Teams for Pro",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6134619_4f29_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/sfK26",
+    "udemy_url": "https://www.udemy.com/course/microsoft-office-excel-word-powerpoint-and-teams-for-pro/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "151",
+    "students": "13,605",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** office-productivity",
+    "status": "OK"
   }
 ]

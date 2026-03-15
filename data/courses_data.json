@@ -12956,5 +12956,24 @@
     "language": "** English (US)",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 683,
+    "added_at": "2026-03-15 15:14:33",
+    "title": "ChatGPT Masterclass: The Complete Guide",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7014381_6453_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/01s2Vn",
+    "udemy_url": "https://www.udemy.com/course/chatgpt-masterclass-the-complete-guide-u/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.4",
+    "rating_count": "5",
+    "students": "1,621",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

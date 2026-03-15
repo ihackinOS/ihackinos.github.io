@@ -10182,5 +10182,24 @@
     "language": "** English (US)",
     "category": "** design",
     "status": "OK"
+  },
+  {
+    "id": 537,
+    "added_at": "2026-03-15 07:09:09",
+    "title": "Learn DaVinci Resolve: The Complete Video Editing Bootcamp",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5917508_5906.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/po87WYG",
+    "udemy_url": "https://www.udemy.com/course/learn-davinci-resolve-the-complete-video-editing-bootcamp/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.6",
+    "rating_count": "165",
+    "students": "32,541",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** photography-and-video",
+    "status": "OK"
   }
 ]

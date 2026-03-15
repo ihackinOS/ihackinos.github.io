@@ -14058,5 +14058,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 741,
+    "added_at": "2026-03-15 15:32:27",
+    "title": "AWS Certified CloudOps Engineer Associate [Exams 2026]",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6820991_6a5e.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/c4y6aW9APJ",
+    "udemy_url": "https://www.udemy.com/course/aws-certified-cloudops-engineer-associate-exams/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "5.0",
+    "rating_count": "2",
+    "students": "1,660",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

@@ -20860,5 +20860,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1099,
+    "added_at": "2026-03-16 01:32:49",
+    "title": "Learn Chess in Hindi : Zero to Master Level",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5385730_0e13.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/YAnJjkRVmMCE",
+    "udemy_url": "https://www.udemy.com/course/learn-chess-in-hindi-zero-to-master-level/",
+    "price": "₫399,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "148",
+    "students": "21,695",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Hindi",
+    "category": "** development",
+    "status": "OK"
   }
 ]

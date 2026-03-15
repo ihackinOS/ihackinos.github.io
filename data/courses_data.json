@@ -12804,5 +12804,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 675,
+    "added_at": "2026-03-15 15:12:04",
+    "title": "AI Masteclass - ChatGPT Gemini Midjourney Stable Diffusion",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6077171_4afb_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/mnOOfaQri",
+    "udemy_url": "https://www.udemy.com/course/ai-masteclass-chatgpt-gemini-midjourney-stable-diffusion/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "169",
+    "students": "28,683",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** design",
+    "status": "OK"
   }
 ]

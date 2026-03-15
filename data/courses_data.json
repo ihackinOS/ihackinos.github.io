@@ -17820,5 +17820,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 939,
+    "added_at": "2026-03-16 00:00:07",
+    "title": "Python And Django Framework And HTML 5 Stack Complete Course",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4972370_1c04.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/NlF9mS2Rr",
+    "udemy_url": "https://www.udemy.com/course/python-and-django-framework-and-html-5-complete-course-2022/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "1,220",
+    "students": "105,950",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

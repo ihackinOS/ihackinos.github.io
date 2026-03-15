@@ -18903,5 +18903,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 996,
+    "added_at": "2026-03-16 00:17:45",
+    "title": "Mastering C & C++ Programming: From Fundamentals to Advanced",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5809104_b3c5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/HWJhdbQch",
+    "udemy_url": "https://www.udemy.com/course/mastering-c-c-plus-programming-from-fundamentals-to-advanced/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "292",
+    "students": "33,757",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

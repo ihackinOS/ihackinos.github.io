@@ -20366,5 +20366,43 @@
     "language": "** French (France)",
     "category": "** personal-development",
     "status": "OK"
+  },
+  {
+    "id": 1073,
+    "added_at": "2026-03-16 00:41:48",
+    "title": "Executive Diploma of Chief Digital Officer",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5627171_e24f_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/FJqs1q5QO",
+    "udemy_url": "https://www.udemy.com/course/executive-diploma-of-chief-digital-officer/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.4",
+    "rating_count": "210",
+    "students": "18,002",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
+  },
+  {
+    "id": 1074,
+    "added_at": "2026-03-16 00:42:26",
+    "title": "Electrical Safety Awareness — Preventing Electrical Hazards",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7068155_d4b7.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/UlbfV0NBZ4c",
+    "udemy_url": "https://www.udemy.com/course/electrical-safety-awareness-preventing-electrical-hazards/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "5.0",
+    "rating_count": "1",
+    "students": "102",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** health-and-fitness",
+    "status": "OK"
   }
 ]

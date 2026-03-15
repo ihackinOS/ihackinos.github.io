@@ -20822,5 +20822,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 1097,
+    "added_at": "2026-03-16 01:32:10",
+    "title": "Todo HTML5 y CSS3, de novato a experto",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/364022_bc05_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/HHmBRXL",
+    "udemy_url": "https://www.udemy.com/course/todo-html5-y-css3-de-novato-a-experto/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "360",
+    "students": "19,084",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

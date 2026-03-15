@@ -12652,5 +12652,24 @@
     "language": "English",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 667,
+    "added_at": "2026-03-15 15:09:33",
+    "title": "Adobe Photoshop Course from Basic to Advacned for Graphics",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5346430_f677.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/LOMxJq",
+    "udemy_url": "https://www.udemy.com/course/adobe-photoshop-course-from-basic-to-advacned-for-graphics/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.8",
+    "rating_count": "549",
+    "students": "58,100",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** design",
+    "status": "OK"
   }
 ]

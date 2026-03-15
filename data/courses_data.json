@@ -10847,5 +10847,24 @@
     "language": "** English (US)",
     "category": "** personal-development",
     "status": "OK"
+  },
+  {
+    "id": 572,
+    "added_at": "2026-03-15 07:54:15",
+    "title": "AI Agentic Engineering: Zero to Hero Masterclass 2026",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7067729_47b4_5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/CWABb9jOV4Y",
+    "udemy_url": "https://www.udemy.com/course/ai-engineer-course/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "3",
+    "students": "145",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

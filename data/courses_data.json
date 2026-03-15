@@ -12880,5 +12880,24 @@
     "language": "** English (US)",
     "category": "** office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 679,
+    "added_at": "2026-03-15 15:13:18",
+    "title": "Complete PCEP Python Certification Course Beginner Friendly",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6922633_a6ea.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/vDS0NCJ",
+    "udemy_url": "https://www.udemy.com/course/complete-pcep-python-certification-course-beginner-friendly/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "37",
+    "students": "6,353",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

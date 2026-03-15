@@ -15730,5 +15730,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 829,
+    "added_at": "2026-03-15 21:40:39",
+    "title": "Finance and Accounting Fundamentals for non finance students",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6138655_59e8.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/KpHAq",
+    "udemy_url": "https://www.udemy.com/course/finance-and-accounting-fundamentals/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "138",
+    "students": "12,262",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** finance-and-accounting",
+    "status": "OK"
   }
 ]

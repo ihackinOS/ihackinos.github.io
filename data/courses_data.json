@@ -12538,5 +12538,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 661,
+    "added_at": "2026-03-15 15:07:42",
+    "title": "C++ Interview Preparation Questions [2026]",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5671870_2fcb.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/28h64a",
+    "udemy_url": "https://www.udemy.com/course/cpp-programming-mcq-/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "",
+    "students": "2,839",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

@@ -13393,5 +13393,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 706,
+    "added_at": "2026-03-15 15:21:42",
+    "title": "Python Complete Course: with 30+ Hands-on Tasks and Solution",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/2948290_00a8_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/v0Rmh",
+    "udemy_url": "https://www.udemy.com/course/learning-python-for-beginners-1-data-types-input-format/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "849",
+    "students": "72,090",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

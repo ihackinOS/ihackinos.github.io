@@ -21069,5 +21069,24 @@
     "language": "English",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 1110,
+    "added_at": "2026-03-16 01:36:14",
+    "title": "AI Essentials: Introduction to Artificial Intelligence",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5681724_5f41.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/3y1oc8M",
+    "udemy_url": "https://www.udemy.com/course/ai-essentials-introduction-to-artificial-intelligence/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "993",
+    "students": "41,294",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

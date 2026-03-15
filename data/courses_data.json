@@ -11037,5 +11037,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 582,
+    "added_at": "2026-03-15 09:12:11",
+    "title": "Log in to continue your learning journey",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/S67yHo",
+    "udemy_url": "https://www.udemy.com/course/manageyourtime/learn/lecture/4770560/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** French (France)",
+    "category": "** personal-development",
+    "status": "OK"
   }
 ]

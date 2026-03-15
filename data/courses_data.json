@@ -12234,5 +12234,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 645,
+    "added_at": "2026-03-15 15:02:51",
+    "title": "Executive Diploma in Marketing Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5203406_e09f_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/60a8VS",
+    "udemy_url": "https://www.udemy.com/course/marketing-management-principles/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "619",
+    "students": "35,944",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** marketing",
+    "status": "OK"
   }
 ]

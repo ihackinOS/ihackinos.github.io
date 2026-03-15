@@ -11949,5 +11949,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 630,
+    "added_at": "2026-03-15 09:27:03",
+    "title": "The Complete Business Analysis Fundamentals Course + CERT",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/1638006_9393_5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/64YnrdCb9uGn",
+    "udemy_url": "https://www.udemy.com/course/business-analysis-certification/",
+    "price": "₫1,447,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "9,040",
+    "students": "45,494",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

@@ -12253,5 +12253,24 @@
     "language": "English",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 646,
+    "added_at": "2026-03-15 15:03:09",
+    "title": "Essential Microsoft PowerPoint Course for Everyone",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5346438_96d4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/OplY7",
+    "udemy_url": "https://www.udemy.com/course/essential-microsoft-powerpoint-course-for-everyone/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "494",
+    "students": "48,845",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** office-productivity",
+    "status": "OK"
   }
 ]

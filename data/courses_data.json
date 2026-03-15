@@ -18048,5 +18048,24 @@
     "language": "** English (US)",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 951,
+    "added_at": "2026-03-16 00:03:50",
+    "title": "Learn AngularJS Course for Beginners to Advanced",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5800130_dfbb.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/u2Ds9jrKJ",
+    "udemy_url": "https://www.udemy.com/course/learn-angular-js-course-zero-to-hero/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "150",
+    "students": "31,188",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

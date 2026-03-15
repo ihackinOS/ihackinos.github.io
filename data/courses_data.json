@@ -14818,5 +14818,24 @@
     "language": "English",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 781,
+    "added_at": "2026-03-15 21:25:37",
+    "title": "Multimodal Generative AI (NCA-GENM) [Exams 2026]",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6124341_30a2_5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/6yTRhe4H",
+    "udemy_url": "https://www.udemy.com/course/certified-associate-gen-ai-multimodal/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "14",
+    "students": "2,509",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

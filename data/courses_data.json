@@ -18067,5 +18067,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 952,
+    "added_at": "2026-03-16 00:04:09",
+    "title": "Curso Completo de Bases de Datos. Aprende SQL y MySQL",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4110826_7f58_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/M2hc",
+    "udemy_url": "https://www.udemy.com/course/curso-completo-de-bases-de-datos-sql-y-mysql/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "1,524",
+    "students": "21,697",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Spanish (Spain)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

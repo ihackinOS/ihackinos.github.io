@@ -12728,5 +12728,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 671,
+    "added_at": "2026-03-15 15:10:48",
+    "title": "Online Course Creation: 10 Key Steps from Idea to Launch",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5896636_100c.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/lRF2YMd8Ea",
+    "udemy_url": "https://www.udemy.com/course/online-course-creation-10-key-steps-from-idea-to-launch/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "45",
+    "students": "21,224",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

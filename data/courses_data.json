@@ -10524,5 +10524,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 555,
+    "added_at": "2026-03-15 07:19:24",
+    "title": "Python Web Developer Masterclass - Build 6 Website",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6285393_3aad.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Jepqg3ygwTbx",
+    "udemy_url": "https://www.udemy.com/course/python-web-developer-masterclass-build-6-website/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "181",
+    "students": "25,924",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

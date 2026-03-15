@@ -19036,5 +19036,24 @@
     "language": "** English (US)",
     "category": "** office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 1003,
+    "added_at": "2026-03-16 00:19:55",
+    "title": "PHP with MySQL: Build 7 PHP and MySQL Projects",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5010434_6d6a_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ljdBZIiuSDMt",
+    "udemy_url": "https://www.udemy.com/course/php-with-mysql-2023-build-7-php-and-mysql-projects/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "203",
+    "students": "43,369",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

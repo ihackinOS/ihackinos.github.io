@@ -17687,5 +17687,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 932,
+    "added_at": "2026-03-15 23:57:57",
+    "title": "WordPress Practice Tests & Interview Questions (Basic/Adv)",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4580890_0cb3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ifBV4JAmH",
+    "udemy_url": "https://www.udemy.com/course/wordpress-practice-tests-and-interview-questions-basic-advanced/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "91",
+    "students": "31,637",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

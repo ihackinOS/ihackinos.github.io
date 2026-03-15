@@ -13963,5 +13963,24 @@
     "language": "English",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 736,
+    "added_at": "2026-03-15 15:30:56",
+    "title": "Python Development Professional Certification",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5316984_bf40.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/AC7FPjH",
+    "udemy_url": "https://www.udemy.com/course/python_development/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "925",
+    "students": "44,615",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

@@ -13317,5 +13317,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 702,
+    "added_at": "2026-03-15 15:20:27",
+    "title": "Financial Analyst Professional Certification",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5281700_ecdf.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/C6F0",
+    "udemy_url": "https://www.udemy.com/course/financial-analyst/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "731",
+    "students": "29,286",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** finance-and-accounting",
+    "status": "OK"
   }
 ]

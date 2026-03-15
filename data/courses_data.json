@@ -11455,5 +11455,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 604,
+    "added_at": "2026-03-15 09:19:04",
+    "title": "Ultimate Argo Bootcamp by School of Devops® | 6 Projects",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6147733_2fe4_7.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/eJPvf",
+    "udemy_url": "https://www.udemy.com/course/ultimate-argo-bootcamp-by-school-of-devops/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "59",
+    "students": "13,653",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

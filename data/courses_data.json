@@ -10486,5 +10486,24 @@
     "language": "English",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 553,
+    "added_at": "2026-03-15 07:18:47",
+    "title": "Flutter Masterclass - Your Complete Guide to App Development",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6285311_bd70_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/lyw36",
+    "udemy_url": "https://www.udemy.com/course/flutter-masterclass-your-complete-guide-to-app-development/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "287",
+    "students": "30,505",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

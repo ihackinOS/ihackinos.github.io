@@ -10353,5 +10353,24 @@
     "language": "Your First Flutter App",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 546,
+    "added_at": "2026-03-15 07:11:58",
+    "title": "Microsoft Excel Training - Beginner to Expert Level in Hindi",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/810648_06b8_5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Ozq27zqYsk",
+    "udemy_url": "https://www.udemy.com/course/excel-training-in-hindi/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "145",
+    "students": "1,595",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Hindi",
+    "category": "** office-productivity",
+    "status": "OK"
   }
 ]

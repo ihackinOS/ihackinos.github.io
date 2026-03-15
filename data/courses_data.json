@@ -21962,5 +21962,24 @@
     "language": "English",
     "category": "** design",
     "status": "OK"
+  },
+  {
+    "id": 1157,
+    "added_at": "2026-03-16 01:50:57",
+    "title": "Java And C++ And PHP Crash Course All in One For Beginners",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/vW3ljSbrVbf",
+    "udemy_url": "https://www.udemy.com/course/java-and-c-and-php-crash-course-for-beginners/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

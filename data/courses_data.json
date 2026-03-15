@@ -15350,5 +15350,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 809,
+    "added_at": "2026-03-15 21:34:23",
+    "title": "DVWA for Ethical Hackers: Master Web App Attacks",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6559419_4b55_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/FgkpHAV7",
+    "udemy_url": "https://www.udemy.com/course/dvwa-for-ethical-hackers-master-web-app-attacks/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "33",
+    "students": "6,344",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

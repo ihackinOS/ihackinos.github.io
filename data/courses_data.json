@@ -11189,5 +11189,24 @@
     "language": "English",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 590,
+    "added_at": "2026-03-15 09:14:41",
+    "title": "Prisma ORM Crash Course for Web Developers",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6802763_eaad.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/5venDP3wxPUf",
+    "udemy_url": "https://www.udemy.com/course/prisma-orm-fundamentals/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "3.8",
+    "rating_count": "10",
+    "students": "3,012",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

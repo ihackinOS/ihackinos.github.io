@@ -15255,5 +15255,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 804,
+    "added_at": "2026-03-15 21:32:49",
+    "title": "Google Cloud Productivity: Docs, Forms, Sheets and Slides",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6183277_79af_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/3kye2hYESyPv",
+    "udemy_url": "https://www.udemy.com/course/google-cloud-productivity-docs-forms-sheets-and-slides/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "30",
+    "students": "8,219",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** office-productivity",
+    "status": "OK"
   }
 ]

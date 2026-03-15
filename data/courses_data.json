@@ -16604,5 +16604,24 @@
     "language": "** English (US)",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 875,
+    "added_at": "2026-03-15 21:55:02",
+    "title": "RDBMS Interview Preparation Questions 2026",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5690536_c3fa.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Cbb1hlqYXy",
+    "udemy_url": "https://www.udemy.com/course/rdbms-mcq/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "2.7",
+    "rating_count": "2",
+    "students": "4,721",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

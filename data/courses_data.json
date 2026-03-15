@@ -12519,5 +12519,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 660,
+    "added_at": "2026-03-15 15:07:24",
+    "title": "Advanced Wordpress Course for Professionals",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5346432_a2d4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/P4kPX3n",
+    "udemy_url": "https://www.udemy.com/course/advanced-wordpress-course-for-professionals/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "518",
+    "students": "58,341",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

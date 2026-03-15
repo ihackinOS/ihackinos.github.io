@@ -11436,5 +11436,24 @@
     "language": "** English (US)",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 603,
+    "added_at": "2026-03-15 09:18:46",
+    "title": "Crystal Agile Framework : A Complete Guide",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5132816_7503_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/hTVR2n",
+    "udemy_url": "https://www.udemy.com/course/crystal-agile-framework-a-complete-guide/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "107",
+    "students": "19,550",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

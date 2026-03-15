@@ -11873,5 +11873,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 626,
+    "added_at": "2026-03-15 09:25:50",
+    "title": "Excel - Microsoft Excel Course Beginner to Expert",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4758504_f0ea_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/aHPcH56vIrp",
+    "udemy_url": "https://www.udemy.com/course/excel-microsoft-excel-course-beginner-to-expert-2022/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "2,056",
+    "students": "85,410",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** office-productivity",
+    "status": "OK"
   }
 ]

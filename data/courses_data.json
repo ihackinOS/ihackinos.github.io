@@ -9878,5 +9878,24 @@
     "language": "** English (US)",
     "category": "** office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 521,
+    "added_at": "2026-03-15 07:01:03",
+    "title": "Web Development Bootcamp with HTML CSS PHP MySQL Wordpress",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5427554_4eab_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/DXkeYYEqGo5a",
+    "udemy_url": "https://www.udemy.com/course/web-development-bootcamp-with-html-css-php-mysql-wordpress/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "877",
+    "students": "52,602",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

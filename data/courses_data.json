@@ -15920,5 +15920,24 @@
     "language": "English",
     "category": "** design",
     "status": "OK"
+  },
+  {
+    "id": 839,
+    "added_at": "2026-03-15 21:43:49",
+    "title": "Java Programming Masterclass: From Beginner to Expert",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5808482_6376.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/GEaa1i",
+    "udemy_url": "https://www.udemy.com/course/java-programming-masterclass-from-beginner-to-expert/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.8",
+    "rating_count": "11",
+    "students": "25",
+    "duration": "Introduction",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

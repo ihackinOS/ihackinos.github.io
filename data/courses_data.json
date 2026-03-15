@@ -10258,5 +10258,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 541,
+    "added_at": "2026-03-15 07:10:25",
+    "title": "SAP UI5 & Fiori Essentials: Beginner's Complete Walkthrough",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6627955_1f42_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/m30o3Sd3",
+    "udemy_url": "https://www.udemy.com/course/sap-ui5-fiori-essentials-beginners-complete-walkthrough/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.7",
+    "rating_count": "16",
+    "students": "4,416",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

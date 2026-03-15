@@ -21848,5 +21848,24 @@
     "language": "** English (US)",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 1151,
+    "added_at": "2026-03-16 01:49:05",
+    "title": "Complete Course in Creo Parametric",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/58GVxEym",
+    "udemy_url": "https://www.udemy.com/course/complete-course-in-creo-parametric/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** design",
+    "status": "OK"
   }
 ]

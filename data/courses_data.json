@@ -19986,5 +19986,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1053,
+    "added_at": "2026-03-16 00:35:28",
+    "title": "Introduction à la Gestion des Ressources Humaines",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5590566_74cb.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/wBeBgShF3",
+    "udemy_url": "https://www.udemy.com/course/introduction-a-la-gestion-des-ressources-humaines/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.2",
+    "rating_count": "169",
+    "students": "12,176",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** French (France)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

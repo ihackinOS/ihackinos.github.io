@@ -21031,5 +21031,24 @@
     "language": "English",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 1108,
+    "added_at": "2026-03-16 01:35:37",
+    "title": "Seguridad en la Nube",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5426858_843b_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/sBRO6LZU52Eh",
+    "udemy_url": "https://www.udemy.com/course/seguridad-en-la-nube/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "27",
+    "students": "4,166",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Spanish (Venezuela)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

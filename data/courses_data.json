@@ -15901,5 +15901,24 @@
     "language": "** English (US)",
     "category": "** office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 838,
+    "added_at": "2026-03-15 21:43:29",
+    "title": "Adobe Premiere Pro for Content Creators and YouTubers",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7052725_356f.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/CJmigpdY4P",
+    "udemy_url": "https://www.udemy.com/course/adobe-premiere-pro-for-content-creators-and-youtubers/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.5",
+    "rating_count": "5",
+    "students": "1,553",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "English",
+    "category": "** design",
+    "status": "OK"
   }
 ]

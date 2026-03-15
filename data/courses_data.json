@@ -15312,5 +15312,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 807,
+    "added_at": "2026-03-15 21:33:46",
+    "title": "Aprende MySQL sin dolor (con phpMyAdmin)",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/150082_eace_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/zwXdXNNk",
+    "udemy_url": "https://www.udemy.com/course/aprende-mysql-sin-dolor/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "334",
+    "students": "11,136",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** Spanish (Mexico)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

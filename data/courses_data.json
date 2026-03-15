@@ -14286,5 +14286,24 @@
     "language": "English",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 753,
+    "added_at": "2026-03-15 15:36:05",
+    "title": "ChatGPT Expert Professional Certification",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5324986_c09a.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/DlCVk4zefFmZ",
+    "udemy_url": "https://www.udemy.com/course/chatgpt_expert/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "830",
+    "students": "41,095",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

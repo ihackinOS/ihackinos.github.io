@@ -15122,5 +15122,24 @@
     "language": "** English (US)",
     "category": "** office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 797,
+    "added_at": "2026-03-15 21:30:34",
+    "title": "Complete Guide to NumPy, Pandas, SciPy, Matplotlib & Seaborn",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6708323_257b_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/XdrDo",
+    "udemy_url": "https://www.udemy.com/course/complete-guide-to-numpy-pandas-scipy-matplotlib-seaborn/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "66",
+    "students": "11,846",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

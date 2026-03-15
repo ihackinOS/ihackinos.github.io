@@ -15806,5 +15806,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 833,
+    "added_at": "2026-03-15 21:41:54",
+    "title": "Master in Marketing Strategy and Marketing Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5118472_625b_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/VlyX",
+    "udemy_url": "https://www.udemy.com/course/marketing-strategy-excellence/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "527",
+    "students": "32,151",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** marketing",
+    "status": "OK"
   }
 ]

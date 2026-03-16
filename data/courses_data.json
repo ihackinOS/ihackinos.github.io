@@ -8605,5 +8605,24 @@
     "language": "English (US)",
     "category": "marketing",
     "status": "OK"
+  },
+  {
+    "id": 454,
+    "added_at": "2026-03-16 20:41:30",
+    "title": "Report Writing Made Simple",
+    "headline": "Writing a report step by step. Planning to proofing - for a polished, professional, persuasive business report.",
+    "image": "https://img-c.udemycdn.com/course/480x270/470846_7c0e_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/xtZ7QIaV",
+    "udemy_url": "https://www.udemy.com/course/report-writing/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "9,474",
+    "students": "31,227",
+    "duration": "Expand all sections",
+    "instructor": "Clare Lynch",
+    "language": "English",
+    "category": "Other",
+    "status": "OK"
   }
 ]

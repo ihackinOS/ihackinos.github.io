@@ -9080,5 +9080,24 @@
     "language": "English (US)",
     "category": "marketing",
     "status": "OK"
+  },
+  {
+    "id": 479,
+    "added_at": "2026-03-16 20:51:01",
+    "title": "ChatGPT & AI Tools: From Beginner to Pro + Unlimited Prompts",
+    "headline": "Master ChatGPT & top AI tools with practical prompts for text, images, audio, and productivity.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6807993_9e76_5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/bpcKROFCuyoM",
+    "udemy_url": "https://www.udemy.com/course/chatgpt-ai-tools-from-beginner-to-pro-unlimited-prompts/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "48",
+    "students": "5,976",
+    "duration": "Expand all sections",
+    "instructor": "Md. Nomiruzzaman",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

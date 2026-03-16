@@ -1100,5 +1100,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 59,
+    "added_at": "2026-03-16 12:08:55",
+    "title": "Claude Code Power User: Architecting AI-Native Dev Workflows",
+    "headline": "Master CLAUDEmd, Skills, Planning Mode, and Automation to Turn Claude Code into Your Project Co-Pilot",
+    "image": "https://img-c.udemycdn.com/course/480x270/7068011_e93d.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Zi2oRHck7",
+    "udemy_url": "https://www.udemy.com/course/claude-code-power-user-architecting-ai-native-dev-workflows/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "2",
+    "students": "1,170",
+    "duration": "Expand all sections",
+    "instructor": "School of AI",
+    "language": "English",
+    "category": "development",
+    "status": "OK"
   }
 ]

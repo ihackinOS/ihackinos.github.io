@@ -23368,5 +23368,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1231,
+    "added_at": "2026-03-16 11:06:53",
+    "title": "Python for OOP: The A-to-Z OOP Python Programming Course",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/vOQH",
+    "udemy_url": "https://www.udemy.com/course/python-for-object-oriented-programming/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

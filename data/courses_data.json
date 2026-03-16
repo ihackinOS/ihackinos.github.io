@@ -10486,5 +10486,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 553,
+    "added_at": "2026-03-16 22:27:10",
+    "title": "Cost Accounting: Fundamentals to Advanced with Excel Cases.",
+    "headline": "Learn Cost Accounting, management accounting and managerial accounting.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6588653_0c5f.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/nhw1SDLAI1E",
+    "udemy_url": "https://www.udemy.com/course/cost-accounting-from-fundamentals-to-advanced-analysis/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "37",
+    "students": "7,148",
+    "duration": "Expand all sections",
+    "instructor": "Financial Analysts",
+    "language": "English (US)",
+    "category": "finance-and-accounting",
+    "status": "OK"
   }
 ]

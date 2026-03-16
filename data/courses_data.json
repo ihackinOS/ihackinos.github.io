@@ -10125,5 +10125,24 @@
     "language": "English (US)",
     "category": "design",
     "status": "OK"
+  },
+  {
+    "id": 534,
+    "added_at": "2026-03-16 22:19:46",
+    "title": "Salesforce Admin & Developer Skills from Scratch",
+    "headline": "Master Salesforce Admin & Developer skills with Apex, automation, security, integrations and a wide range of core topics",
+    "image": "https://img-c.udemycdn.com/course/480x270/6672613_07ad.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/0QhxXCOpD",
+    "udemy_url": "https://www.udemy.com/course/salesforce-admin-training-from-basics-to-advanced-skills/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "44",
+    "students": "8,229",
+    "duration": "Expand all sections",
+    "instructor": "ZK Tutorials",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

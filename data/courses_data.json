@@ -9422,5 +9422,24 @@
     "language": "English (US)",
     "category": "teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 497,
+    "added_at": "2026-03-16 20:57:41",
+    "title": "Become Digital Electronics Master",
+    "headline": "Engineer's Playground",
+    "image": "https://img-c.udemycdn.com/course/480x270/4590894_f3f2_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/oOSnbQkrUx",
+    "udemy_url": "https://www.udemy.com/course/digital-electronics-from-basic-to-advance/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "135",
+    "students": "16,972",
+    "duration": "Expand all sections",
+    "instructor": "infusion X",
+    "language": "English (US)",
+    "category": "teaching-and-academics",
+    "status": "OK"
   }
 ]

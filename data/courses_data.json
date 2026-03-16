@@ -8890,5 +8890,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 469,
+    "added_at": "2026-03-16 20:47:12",
+    "title": "WebHack for Ethical Hacking Ultimate Defensive Skills",
+    "headline": "Ethical Hacking Essentials: Defensive Strategies for Modern Web Apps",
+    "image": "https://img-c.udemycdn.com/course/480x270/6959693_0d25_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/KpxiyQ8nCT",
+    "udemy_url": "https://www.udemy.com/course/webhack-for-ethical-hacking-ultimate-defensive-skills-h/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "24",
+    "students": "6,879",
+    "duration": "Expand all sections",
+    "instructor": "Syed Muhammad Hatim Javaid",
+    "language": "English",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

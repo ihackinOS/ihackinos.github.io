@@ -24774,5 +24774,24 @@
     "language": "** English (US)",
     "category": "** office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 1305,
+    "added_at": "2026-03-16 11:30:24",
+    "title": "HTML5 Masterclass: Build Modern and Mobile Friendly Websites",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/STGVEZ",
+    "udemy_url": "https://www.udemy.com/course/html5-masterclass-build-modern-and-mobile-friendly-websites/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

@@ -10144,5 +10144,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 535,
+    "added_at": "2026-03-16 22:20:09",
+    "title": "Vibe Coding with Vercel v0: From Idea to MVP in a Weekend",
+    "headline": "Step-by-Step Guide to Creating, Deploying, and Scaling Your First MVP Without Coding",
+    "image": "https://img-c.udemycdn.com/course/480x270/6781561_c943.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/cL1zzrTmW1N",
+    "udemy_url": "https://www.udemy.com/course/vercel-v0-no-code-mvp-build-ship-in-a-weekend/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "68",
+    "students": "9,124",
+    "duration": "Expand all sections",
+    "instructor": "Anton Voroniuk",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

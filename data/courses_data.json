@@ -24451,5 +24451,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1288,
+    "added_at": "2026-03-16 11:25:03",
+    "title": "MySQL for Beginners:  A Complete Training for beginnners",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/UfMJHOr8n",
+    "udemy_url": "https://www.udemy.com/course/mysql-for-beginners-a-complete-mysql-training-for-beginnners/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

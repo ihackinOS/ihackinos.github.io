@@ -2240,5 +2240,24 @@
     "language": "Spanish (Spain)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 119,
+    "added_at": "2026-03-16 12:29:39",
+    "title": "Microsoft Excel Data Analysis for Business & Finance",
+    "headline": "Excel Data Analysis: Learn to clean, analyze and visualize financial & business data using Excel’s most powerful tools.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6753031_9256_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/cXB8KvjrJG9",
+    "udemy_url": "https://www.udemy.com/course/microsoft-excel-data-analysis-for-business-finance/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "77",
+    "students": "7,141",
+    "duration": "Expand all sections",
+    "instructor": "Skillify Academy",
+    "language": "English (US)",
+    "category": "office-productivity",
+    "status": "OK"
   }
 ]

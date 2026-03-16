@@ -1062,5 +1062,24 @@
     "language": "English (US)",
     "category": "teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 57,
+    "added_at": "2026-03-16 12:08:15",
+    "title": "The Complete Teach-Yourself Drummer's Guide",
+    "headline": "The Smart Way To Learn Drums. Learn to play the drums in your own time and at your own pace. Even during lock downs.",
+    "image": "https://img-c.udemycdn.com/course/480x270/5374932_e219_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/KiM93VR7OsBI",
+    "udemy_url": "https://www.udemy.com/course/the-complete-teach-yourself-drummers-guide/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "345",
+    "students": "12,824",
+    "duration": "Expand all sections",
+    "instructor": "Tom Jackson",
+    "language": "English (US)",
+    "category": "music",
+    "status": "OK"
   }
 ]

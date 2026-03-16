@@ -23482,5 +23482,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 1237,
+    "added_at": "2026-03-16 11:08:46",
+    "title": "Secure Python & Django: Build Hack-Proof Web Applications",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/1gAg4w48",
+    "udemy_url": "https://www.udemy.com/course/secure-code-python-django-build-hack-proof-web-applications/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

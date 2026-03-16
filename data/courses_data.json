@@ -22741,5 +22741,24 @@
     "language": "English",
     "category": "** office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 1198,
+    "added_at": "2026-03-16 08:49:37",
+    "title": "AI Operating Systems: Designing Autonomous Architectures",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/HryMLHJVk2",
+    "udemy_url": "https://www.udemy.com/course/master-claude-code-build-ai-operating-systems-workflows/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

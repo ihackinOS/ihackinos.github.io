@@ -10752,5 +10752,24 @@
     "language": "Hindi",
     "category": "teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 567,
+    "added_at": "2026-03-16 22:32:24",
+    "title": "Curso Completo sobre Desarrollo desde 0 a Experto.+50 Horas.",
+    "headline": "Todas las tecnologías que debes conocer para trabajar como Desarrollador: Programación, Linux, Cloud, Seguridad inf. etc",
+    "image": "https://img-c.udemycdn.com/course/480x270/2535300_6b1a_14.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/7OOjki",
+    "udemy_url": "https://www.udemy.com/course/master-desarrollo-pablo-tilotta-alvaro-chirou-python-golang-hacking/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "860",
+    "students": "44,192",
+    "duration": "Expand all sections",
+    "instructor": "Pablo Tilotta - +214k students",
+    "language": "Spanish (Spain)",
+    "category": "development",
+    "status": "OK"
   }
 ]

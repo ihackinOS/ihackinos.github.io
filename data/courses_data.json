@@ -9270,5 +9270,24 @@
     "language": "English (US)",
     "category": "personal-development",
     "status": "OK"
+  },
+  {
+    "id": 489,
+    "added_at": "2026-03-16 20:54:46",
+    "title": "AWS Data Engineer Associate DEA-C01 Practice Exams 2026",
+    "headline": "Master AWS Data Services, Analytics, ETL, and Security to Ace the DEA-C01 Exam",
+    "image": "https://img-c.udemycdn.com/course/480x270/6447351_c182_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/58s8m",
+    "udemy_url": "https://www.udemy.com/course/aws-data-engineer-associate-dea-c01-practice-exam/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.9",
+    "rating_count": "39",
+    "students": "1,168",
+    "duration": "",
+    "instructor": "Nex Arc",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

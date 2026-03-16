@@ -23007,5 +23007,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1212,
+    "added_at": "2026-03-16 11:00:59",
+    "title": "CSS, Bootstrap ,JavaScript, PHP Full Stack Crash Course",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/6G7nbq8udn",
+    "udemy_url": "https://www.udemy.com/course/css-bootstrap-javascript-php-full-stack-crash-course/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

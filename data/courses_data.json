@@ -3361,5 +3361,24 @@
     "language": "English",
     "category": "personal-development",
     "status": "OK"
+  },
+  {
+    "id": 178,
+    "added_at": "2026-03-16 17:39:18",
+    "title": "Marketing Psychology & Neuromarketing with Dekker",
+    "headline": "Marketing Psychology: Consumer Behavior | Consumer Psychology | Psychological Marketing | Neuromarketing Persuasion",
+    "image": "https://img-c.udemycdn.com/course/480x270/3867304_d9db_9.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/YqtLadTJ",
+    "udemy_url": "https://www.udemy.com/course/product-marketing-psychology/",
+    "price": "₫1,067,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "881",
+    "students": "48,551",
+    "duration": "Expand all sections",
+    "instructor": "Dekker the Marketer",
+    "language": "English (US)",
+    "category": "marketing",
+    "status": "OK"
   }
 ]

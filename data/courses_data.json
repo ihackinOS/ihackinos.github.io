@@ -10980,5 +10980,24 @@
     "language": "Spanish",
     "category": "design",
     "status": "OK"
+  },
+  {
+    "id": 579,
+    "added_at": "2026-03-17 04:34:41",
+    "title": "Python And Flask Framework Complete Course For Beginners",
+    "headline": "Beginner to Expert Python And Flask. Learn Python And Flask Course for Beginner Python Developer to Create Applications",
+    "image": "https://img-c.udemycdn.com/course/480x270/3378022_637b.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/i45D8",
+    "udemy_url": "https://www.udemy.com/course/python-for-beginners-course-/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "2,198",
+    "students": "282,326",
+    "duration": "Expand all sections",
+    "instructor": "Horizon Tech",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

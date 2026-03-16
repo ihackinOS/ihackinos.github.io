@@ -3171,5 +3171,24 @@
     "language": "English",
     "category": "teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 168,
+    "added_at": "2026-03-16 17:35:45",
+    "title": "Python Financial Analyst: Financial Analysis Zero to Advance",
+    "headline": "Master Finance using Python: Python Financial data manipulation, visualization, modeling, and driving business impact.",
+    "image": "https://img-c.udemycdn.com/course/480x270/5952632_e57a_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/QT2XoEGz7",
+    "udemy_url": "https://www.udemy.com/course/python-financial-analyst-python-for-finance/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "77",
+    "students": "451",
+    "duration": "Expand all sections",
+    "instructor": "Temotec Academy",
+    "language": "English",
+    "category": "finance-and-accounting",
+    "status": "OK"
   }
 ]

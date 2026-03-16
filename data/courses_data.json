@@ -6876,5 +6876,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 363,
+    "added_at": "2026-03-16 19:56:43",
+    "title": "Microsoft Excel: Business Intelligence w/ Power Query & DAX",
+    "headline": "Master Excel Power Query, Power Pivot &amp; DAX for advanced data analysis &amp; business intelligence w/ a top Excel instructor",
+    "image": "https://img-c.udemycdn.com/course/480x270/1137048_c1d7_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/JVDSUVnxwcF8",
+    "udemy_url": "https://www.udemy.com/course/microsoft-excel-power-query-power-pivot-dax/",
+    "price": "₫1,557,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "28,232",
+    "students": "130,331",
+    "duration": "Expand all sections",
+    "instructor": "Maven Analytics • 1,500,000 Learners",
+    "language": "English",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

@@ -4672,5 +4672,24 @@
     "language": "English (US)",
     "category": "personal-development",
     "status": "OK"
+  },
+  {
+    "id": 247,
+    "added_at": "2026-03-16 18:56:12",
+    "title": "Gestão de Empresas e Empreendedorismo",
+    "headline": "Geração de Ideias, Planeamento Empresarial, Financiar o seu Negócio, Considerações Jurídicas, Marketing e Vendas",
+    "image": "https://img-c.udemycdn.com/course/480x270/6336195_214a.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Gfqr2cou8w6w",
+    "udemy_url": "https://www.udemy.com/course/gestao-de-empresas-e-empreendedorismo/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.5",
+    "rating_count": "5",
+    "students": "1,437",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "Portuguese (Portugal)",
+    "category": "business",
+    "status": "OK"
   }
 ]

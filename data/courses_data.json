@@ -10771,5 +10771,24 @@
     "language": "Spanish (Spain)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 568,
+    "added_at": "2026-03-17 04:30:32",
+    "title": "Executive Certificate in ESG Strategy & Corporate Governance",
+    "headline": "Master ESG strategic integration, ESG risk mitigation, and global reporting frameworks to drive corporate resilience",
+    "image": "https://img-c.udemycdn.com/course/480x270/7072197_f0fe_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/o7TvBXjA0L",
+    "udemy_url": "https://www.udemy.com/course/executive-certificate-in-esg-strategy-corporate-governance/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "0",
+    "students": "204",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

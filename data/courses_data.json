@@ -6610,5 +6610,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 349,
+    "added_at": "2026-03-16 19:51:37",
+    "title": "Practical Kubernetes Guide",
+    "headline": "Learn Kubernetes Best Practices related to Security, DevOps, Scalability, Administration, Deployment and Operations.",
+    "image": "https://img-c.udemycdn.com/course/480x270/3362318_7f77_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/mmefHsXxrWdx",
+    "udemy_url": "https://www.udemy.com/course/kubernetes-best-practices/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "737",
+    "students": "102,737",
+    "duration": "Expand all sections",
+    "instructor": "Houssem Dellai",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

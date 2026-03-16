@@ -24508,5 +24508,24 @@
     "language": "English",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 1291,
+    "added_at": "2026-03-16 11:26:01",
+    "title": "Aprende SQL SERVER desde cero. Crea tu propia base de datos",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/WdsdmHv",
+    "udemy_url": "https://www.udemy.com/course/aprende-sql-server-desde-cero-crea-tu-propia-base-de-datos/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

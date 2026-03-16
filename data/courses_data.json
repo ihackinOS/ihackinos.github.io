@@ -10467,5 +10467,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 552,
+    "added_at": "2026-03-16 22:26:47",
+    "title": "Executive Certificate in Strategic Leadership",
+    "headline": "Strategic Leadership & Emotional Intelligence in Business and Management: Master Modern Management and Influence",
+    "image": "https://img-c.udemycdn.com/course/480x270/7025461_220b.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/yW7MVY9b9Mqa",
+    "udemy_url": "https://www.udemy.com/course/executive-certificate-in-strategic-leadership/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "12",
+    "students": "1,706",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

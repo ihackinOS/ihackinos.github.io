@@ -6591,5 +6591,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 348,
+    "added_at": "2026-03-16 19:51:11",
+    "title": "Deploy Infra in the Cloud using Terraform",
+    "headline": "Learn how to apply Infrastructure as Code (IaC) with Terraform. Covers Web Apps, Database, VM, Kubernetes and Azure.",
+    "image": "https://img-c.udemycdn.com/course/480x270/3637254_3d83_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/CsbpdAzQE5q",
+    "udemy_url": "https://www.udemy.com/course/deploy-infra-in-the-cloud-using-terraform/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "1,382",
+    "students": "82,639",
+    "duration": "Expand all sections",
+    "instructor": "Houssem Dellai",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

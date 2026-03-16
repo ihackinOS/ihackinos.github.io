@@ -23767,5 +23767,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 1252,
+    "added_at": "2026-03-16 11:13:26",
+    "title": "The Complete JavaScript Developer: Learn Modern JavaScript",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/A3FBJ",
+    "udemy_url": "https://www.udemy.com/course/the-complete-javascript-developer-learn-modern-javascript/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

@@ -8111,5 +8111,24 @@
     "language": "English (US)",
     "category": "office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 428,
+    "added_at": "2026-03-16 20:31:36",
+    "title": "We can’t find the page you’re looking for",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6978545_57e3_2.jpg",
+    "enroll_url": "https://cuty.io/HlkzE",
+    "udemy_url": "https://www.udemy.com/course/comptia-a-core-2-220-1202-practice-exams-2026/",
+    "price": "",
+    "is_free": false,
+    "rating": "0",
+    "rating_count": "0",
+    "students": "0",
+    "duration": "",
+    "instructor": "",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

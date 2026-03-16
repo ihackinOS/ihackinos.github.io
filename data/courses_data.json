@@ -4159,5 +4159,24 @@
     "language": "English",
     "category": "teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 220,
+    "added_at": "2026-03-16 18:46:21",
+    "title": "Python,Flask Framework And Django Course For Beginners",
+    "headline": "Python Complete Course With Python Framework Django And Python Framework Flask Framework Learn Beginner To Advance",
+    "image": "https://img-c.udemycdn.com/course/480x270/3330326_a986.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/bUPkA9bGZ",
+    "udemy_url": "https://www.udemy.com/course/python-and-flask-and-django-course-for-beginners/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "1,014",
+    "students": "126,225",
+    "duration": "Expand all sections",
+    "instructor": "Horizon Tech",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

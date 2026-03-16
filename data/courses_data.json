@@ -169,5 +169,24 @@
     "language": "English",
     "category": "Marketing",
     "status": "OK"
+  },
+  {
+    "id": 10,
+    "added_at": "2026-03-16 11:52:04",
+    "title": "Content Marketing Masterclass: Create Content That Sells",
+    "headline": "Master content marketing to grow your business: content creation, promotion, copywriting, SEO, email marketing, & more!",
+    "image": "https://img-c.udemycdn.com/course/480x270/1667390_68bd_5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/P9Bii4a",
+    "udemy_url": "https://www.udemy.com/course/content-marketing-masterclass/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "5,493",
+    "students": "24,631",
+    "duration": "Expand all sections",
+    "instructor": "Brad Merrill",
+    "language": "English",
+    "category": "Marketing",
+    "status": "OK"
   }
 ]

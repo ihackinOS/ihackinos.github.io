@@ -10790,5 +10790,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 569,
+    "added_at": "2026-03-17 04:31:06",
+    "title": "SOLIDWORKS CSWA Exam Sample - Part Design",
+    "headline": "A guided walkthrough of CSWA exam sample – Part Design",
+    "image": "https://img-c.udemycdn.com/course/480x270/6993267_8937_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/TBTTe9Xwx5p",
+    "udemy_url": "https://www.udemy.com/course/solidworks-cswa-exam-sample-part-design/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.9",
+    "rating_count": "4",
+    "students": "1,016",
+    "duration": "Expand all sections",
+    "instructor": "Alen Oletic",
+    "language": "English (US)",
+    "category": "teaching-and-academics",
+    "status": "OK"
   }
 ]

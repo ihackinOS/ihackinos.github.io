@@ -23254,5 +23254,24 @@
     "language": "English",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 1225,
+    "added_at": "2026-03-16 11:05:02",
+    "title": "Become Master in UiPath World",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/QKwQDYdXFmV7",
+    "udemy_url": "https://www.udemy.com/course/become-master-in-uipath-world/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

@@ -2620,5 +2620,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 139,
+    "added_at": "2026-03-16 14:56:49",
+    "title": "Java File Handling & IO Streams - Practice Questions 2026",
+    "headline": "Java File Handling & IO Streams 120 unique high-quality test questions with detailed explanations!",
+    "image": "https://img-c.udemycdn.com/course/480x270/7005829_4c95_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/V15NVw",
+    "udemy_url": "https://www.udemy.com/course/java-file-handling-io-streams-questions/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "0",
+    "students": "836",
+    "duration": "",
+    "instructor": "Jitendra Suryavanshi",
+    "language": "English",
+    "category": "development",
+    "status": "OK"
   }
 ]

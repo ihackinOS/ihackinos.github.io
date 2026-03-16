@@ -24470,5 +24470,24 @@
     "language": "English",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 1289,
+    "added_at": "2026-03-16 11:25:23",
+    "title": "Angular for Beginners: From Basics to Advanced Projects",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/x3LseIZgKE",
+    "udemy_url": "https://www.udemy.com/course/angular-for-beginners-from-basics-to-advanced-projects/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

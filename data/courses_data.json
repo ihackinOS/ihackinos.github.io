@@ -9593,5 +9593,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 506,
+    "added_at": "2026-03-16 21:01:05",
+    "title": "We can’t find the page you’re looking for",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5751944_e20a_3.jpg",
+    "enroll_url": "https://cuty.io/B8U1HH",
+    "udemy_url": "https://www.udemy.com/course/business-analyst-ba-for-practitioners-ba-thuc-chien/",
+    "price": "",
+    "is_free": false,
+    "rating": "0",
+    "rating_count": "0",
+    "students": "0",
+    "duration": "",
+    "instructor": "",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

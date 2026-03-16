@@ -8757,5 +8757,24 @@
     "language": "English (US)",
     "category": "office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 462,
+    "added_at": "2026-03-16 20:44:30",
+    "title": "रिस्क मैनेजमेंट में प्रोफेशनल सर्टिफिकेट",
+    "headline": "Risk Management (Hindi), Mitigation Strategy, Mindful Business, Data Security, ERM, ISO 31000, COSO, Analysis, PMP",
+    "image": "https://img-c.udemycdn.com/course/480x270/6607221_b17e_5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/5b69PE1vY9G3",
+    "udemy_url": "https://www.udemy.com/course/risk-management-in-hindi/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.7",
+    "rating_count": "9",
+    "students": "1,593",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "Hindi",
+    "category": "business",
+    "status": "OK"
   }
 ]

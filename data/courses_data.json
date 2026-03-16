@@ -10638,5 +10638,24 @@
     "language": "English (US)",
     "category": "marketing",
     "status": "OK"
+  },
+  {
+    "id": 561,
+    "added_at": "2026-03-16 22:30:12",
+    "title": "The Web3 CFO Masterclass: Mastering FinOps & Accounting",
+    "headline": "From Big 4 principles to AI-assisted dashboards: A practical guide to crypto ledgers, token migrations, and management",
+    "image": "https://img-c.udemycdn.com/course/480x270/7034147_6e16.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/lLRKEoicn",
+    "udemy_url": "https://www.udemy.com/course/the-web3-cfo-masterclass-mastering-finops-accounting/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "1.8",
+    "rating_count": "2",
+    "students": "1,235",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "finance-and-accounting",
+    "status": "OK"
   }
 ]

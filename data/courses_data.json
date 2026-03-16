@@ -10239,5 +10239,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 540,
+    "added_at": "2026-03-16 22:22:10",
+    "title": "The Complete Tableau BI Masterclass 2025: Beginner to Pro",
+    "headline": "Master Data Analysis and Visualization in Tableau from scratch. Build interactive dashboards and advance your BI career",
+    "image": "https://img-c.udemycdn.com/course/480x270/6856781_c5d9.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/C8E5VKT",
+    "udemy_url": "https://www.udemy.com/course/tableau-bi-masterclass-create-actionable-dashboards/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "57",
+    "students": "10,747",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English",
+    "category": "business",
+    "status": "OK"
   }
 ]

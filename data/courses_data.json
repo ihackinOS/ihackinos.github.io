@@ -739,5 +739,24 @@
     "language": "en_US",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 40,
+    "added_at": "2026-03-16 12:02:16",
+    "title": "Pharmaceutical Sales and Marketing",
+    "headline": "Navigating the Pharmaceutical Sales Landscape: Strategies for Success",
+    "image": "https://img-c.udemycdn.com/course/480x270/5568992_7364.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/8aNpgR3",
+    "udemy_url": "https://www.udemy.com/course/pharmaceutical-sales-and-marketing/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "3.6",
+    "rating_count": "81",
+    "students": "5,341",
+    "duration": "Expand all sections",
+    "instructor": "Learntoupgrade Online",
+    "language": "English",
+    "category": "business",
+    "status": "OK"
   }
 ]

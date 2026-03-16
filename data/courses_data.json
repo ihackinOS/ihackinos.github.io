@@ -6572,5 +6572,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 347,
+    "added_at": "2026-03-16 19:50:52",
+    "title": "Learn Infra as Code with Azure Bicep",
+    "headline": "All you need to know to be successful with Cloud Automation and Cloud DevOps.",
+    "image": "https://img-c.udemycdn.com/course/480x270/4609994_38fd_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/xKSqxtSPFZat",
+    "udemy_url": "https://www.udemy.com/course/learn-azure-bicep/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.8",
+    "rating_count": "241",
+    "students": "48,908",
+    "duration": "Expand all sections",
+    "instructor": "Houssem Dellai",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

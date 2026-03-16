@@ -1727,5 +1727,24 @@
     "language": "Portuguese (Portugal)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 92,
+    "added_at": "2026-03-16 12:20:15",
+    "title": "AI for Product Managers: Product Innovation with ChatGPT",
+    "headline": "How to use Generative AI for product management: best prompts, roadmaps, methodologies, and real-world ChatGPT workflows",
+    "image": "https://img-c.udemycdn.com/course/480x270/6664333_61ec_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/cCD5f",
+    "udemy_url": "https://www.udemy.com/course/product-innovation-with-chatgpt/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "32",
+    "students": "3,309",
+    "duration": "Expand all sections",
+    "instructor": "Starweaver Team",
+    "language": "English",
+    "category": "business",
+    "status": "OK"
   }
 ]

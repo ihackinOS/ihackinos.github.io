@@ -8833,5 +8833,24 @@
     "language": "English",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 466,
+    "added_at": "2026-03-16 20:45:58",
+    "title": "Practical Digital Marketing for Small Business",
+    "headline": "Learn simple, proven, and measurable tactics to attract customers from Facebook, YouTube, Twitter, and more.",
+    "image": "https://img-c.udemycdn.com/course/480x270/7026223_f739_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/gZXV4Jd",
+    "udemy_url": "https://www.udemy.com/course/practical-digital-marketing-for-small-business/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "5.0",
+    "rating_count": "3",
+    "students": "14",
+    "duration": "Expand all sections",
+    "instructor": "Glory Tshokama",
+    "language": "English (US)",
+    "category": "marketing",
+    "status": "OK"
   }
 ]

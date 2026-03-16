@@ -10847,5 +10847,24 @@
     "language": "English (US)",
     "category": "finance-and-accounting",
     "status": "OK"
+  },
+  {
+    "id": 572,
+    "added_at": "2026-03-17 04:32:09",
+    "title": "Microsoft Copilot Studio : Future of AI Agents",
+    "headline": "Become master in Microsoft Copilot Studio, Microsoft Copilot Studio: Low-Code AI Agent Development",
+    "image": "https://img-c.udemycdn.com/course/480x270/7009905_dc6e_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/JZXcaIKXrvL",
+    "udemy_url": "https://www.udemy.com/course/mastering-microsoft-copilot-studio-future-of-ai-agents/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "34",
+    "students": "556",
+    "duration": "Expand all sections",
+    "instructor": "Learning Technologies [75000+ Students] Across the globe",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

@@ -7351,5 +7351,24 @@
     "language": "English (US)",
     "category": "photography-and-video",
     "status": "OK"
+  },
+  {
+    "id": 388,
+    "added_at": "2026-03-16 20:05:56",
+    "title": "Practical SQL with SQLite",
+    "headline": "Query, analyse, and manage data using SQL — no setup, no paid tools",
+    "image": "https://img-c.udemycdn.com/course/480x270/6571313_89db.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/SzC8l3X",
+    "udemy_url": "https://www.udemy.com/course/practical-sql-query-and-manage-databases/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "274",
+    "students": "19,456",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

@@ -7047,5 +7047,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 372,
+    "added_at": "2026-03-16 20:00:03",
+    "title": "Learn Python Programming Masterclass",
+    "headline": "This Python For Beginners Course Teaches You The Python Language Fast. Includes Python Online Training With Python 3",
+    "image": "https://img-c.udemycdn.com/course/480x270/629302_8a2d_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/11h3zp4xx",
+    "udemy_url": "https://www.udemy.com/course/python-the-complete-python-developer-course/",
+    "price": "₫1,527,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "105,414",
+    "students": "439,437",
+    "duration": "Expand all sections",
+    "instructor": "Tim Buchalka",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

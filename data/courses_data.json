@@ -9821,5 +9821,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 518,
+    "added_at": "2026-03-16 21:05:43",
+    "title": "Decision Making Psychology & Emotional Intelligence",
+    "headline": "Master cognitive biases, master emotional intelligence (EQ), behavioural economics to make confident, rational decisions",
+    "image": "https://img-c.udemycdn.com/course/480x270/6802433_3851.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/LWBqjQwW5",
+    "udemy_url": "https://www.udemy.com/course/decision-making-psychology-emotional-intelligence/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "28",
+    "students": "5,534",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English",
+    "category": "business",
+    "status": "OK"
   }
 ]

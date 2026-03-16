@@ -1575,5 +1575,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 84,
+    "added_at": "2026-03-16 12:17:29",
+    "title": "Mortgage Backed Securities (MBS): Basic to Advanced",
+    "headline": "Financial Markets | MBS | Asset Securitization | Mortgage Loans | Cash Flows | CMOs | PAC Bond Tranches",
+    "image": "https://img-c.udemycdn.com/course/480x270/180372_3341_7.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/DXmDUK",
+    "udemy_url": "https://www.udemy.com/course/mortgage-backed-securities/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "1,423",
+    "students": "6,403",
+    "duration": "Expand all sections",
+    "instructor": "Starweaver Team",
+    "language": "English (US)",
+    "category": "finance-and-accounting",
+    "status": "OK"
   }
 ]

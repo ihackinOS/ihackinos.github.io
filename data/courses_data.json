@@ -8320,5 +8320,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 439,
+    "added_at": "2026-03-16 20:35:47",
+    "title": "We can’t find the page you’re looking for",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/1162310_5ee3_4.jpg",
+    "enroll_url": "https://cuty.io/V2Hv",
+    "udemy_url": "https://www.udemy.com/course/practice-test-aws-certified-solutions-architect-associate/",
+    "price": "",
+    "is_free": false,
+    "rating": "0",
+    "rating_count": "0",
+    "students": "0",
+    "duration": "",
+    "instructor": "",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

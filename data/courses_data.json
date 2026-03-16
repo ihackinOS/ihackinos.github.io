@@ -22893,5 +22893,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1206,
+    "added_at": "2026-03-16 10:58:00",
+    "title": "Executive Diploma in Business Management and Administration",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/zPJjphaJ",
+    "udemy_url": "https://www.udemy.com/course/executive-diploma-in-business-management-and-administration/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

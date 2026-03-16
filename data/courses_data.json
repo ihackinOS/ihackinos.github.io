@@ -3741,5 +3741,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 198,
+    "added_at": "2026-03-16 17:46:39",
+    "title": "Drupal For Absolute Beginners (2025)",
+    "headline": "The Most Comprehensive Course To Start Learning Latest And Greatest Drupal From Scratch",
+    "image": "https://img-c.udemycdn.com/course/480x270/1894054_b286_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/pHngHh6ljC",
+    "udemy_url": "https://www.udemy.com/course/drupal-masterclass/",
+    "price": "Free",
+    "is_free": true,
+    "rating": "4.5",
+    "rating_count": "1,101",
+    "students": "109,377",
+    "duration": "Expand all sections",
+    "instructor": "Shubham Saurav",
+    "language": "English",
+    "category": "development",
+    "status": "OK"
   }
 ]

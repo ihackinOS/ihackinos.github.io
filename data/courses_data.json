@@ -3893,5 +3893,24 @@
     "language": "English (US)",
     "category": "finance-and-accounting",
     "status": "OK"
+  },
+  {
+    "id": 206,
+    "added_at": "2026-03-16 18:41:18",
+    "title": "We can’t find the page you’re looking for",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/2196488_8fc7_10.jpg",
+    "enroll_url": "https://cuty.io/UGfiT",
+    "udemy_url": "https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/",
+    "price": "",
+    "is_free": false,
+    "rating": "0",
+    "rating_count": "0",
+    "students": "0",
+    "duration": "",
+    "instructor": "",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

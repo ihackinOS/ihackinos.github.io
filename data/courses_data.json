@@ -9764,5 +9764,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 515,
+    "added_at": "2026-03-16 21:04:31",
+    "title": "AI for Product Management & Innovation",
+    "headline": "AI for Product Management: Master GENAI tools for Dynamic Product Management and Innovation",
+    "image": "https://img-c.udemycdn.com/course/480x270/6629477_5d18_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/uGYO8qo6",
+    "udemy_url": "https://www.udemy.com/course/ai-for-product-management-innovation/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "428",
+    "students": "14,974",
+    "duration": "Expand all sections",
+    "instructor": "Vipesh Singla , MBA, Certified SAFe Agile Coach",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

@@ -22779,5 +22779,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1200,
+    "added_at": "2026-03-16 08:50:15",
+    "title": "3D Printing Masterclass: Beginner to Pro with Complete Start",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/zMCMUcoB",
+    "udemy_url": "https://www.udemy.com/course/3d-printing-masterclass-beginner-to-pro-with-complete-start/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** design",
+    "status": "OK"
   }
 ]

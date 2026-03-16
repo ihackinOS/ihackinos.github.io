@@ -1309,5 +1309,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 70,
+    "added_at": "2026-03-16 12:12:47",
+    "title": "We can’t find the page you’re looking for",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5139142_a59c_6.jpg",
+    "enroll_url": "https://cuty.io/1nEeh",
+    "udemy_url": "https://www.udemy.com/course/gcp-professional-dataengineer-certification-a-complete-guide/",
+    "price": "",
+    "is_free": false,
+    "rating": "0",
+    "rating_count": "0",
+    "students": "0",
+    "duration": "",
+    "instructor": "",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

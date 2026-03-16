@@ -7408,5 +7408,24 @@
     "language": "You will have some significant PHP skills under your belt by the end of the course",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 391,
+    "added_at": "2026-03-16 20:07:04",
+    "title": "Modern Excel MasterClass and Google Sheets with AI ChatGPT",
+    "headline": "Microsoft Excel MasterClass and Google Sheets guide with ChatGPT for AI driven productivity and workflow automation",
+    "image": "https://img-c.udemycdn.com/course/480x270/6945227_9cb0_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/WGEOJ8mrrD",
+    "udemy_url": "https://www.udemy.com/course/modern-microsoft-excel-masterclass-and-google-sheets-with-ai-chatgpt/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "39",
+    "students": "5,356",
+    "duration": "Introduction",
+    "instructor": "Sustoab Soren",
+    "language": "English (US)",
+    "category": "office-productivity",
+    "status": "OK"
   }
 ]

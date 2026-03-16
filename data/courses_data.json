@@ -568,5 +568,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 31,
+    "added_at": "2026-03-16 11:59:19",
+    "title": "We can’t find the page you’re looking for",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4117130_2057_5.jpg",
+    "enroll_url": "https://cuty.io/5s6G5E",
+    "udemy_url": "https://www.udemy.com/course/certificate-course-in-drug-regulatory-affairs-dra/",
+    "price": "",
+    "is_free": false,
+    "rating": "0",
+    "rating_count": "0",
+    "students": "0",
+    "duration": "",
+    "instructor": "",
+    "language": "English (US)",
+    "category": "teaching-and-academics",
+    "status": "OK"
   }
 ]

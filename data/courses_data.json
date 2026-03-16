@@ -2012,5 +2012,24 @@
     "language": "English",
     "category": "Other",
     "status": "OK"
+  },
+  {
+    "id": 107,
+    "added_at": "2026-03-16 12:25:21",
+    "title": "We can’t find the page you’re looking for",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5946070_1233_3.jpg",
+    "enroll_url": "https://cuty.io/AU5SbeaSF0A",
+    "udemy_url": "https://www.udemy.com/course/advanced-certified-scrum-master/",
+    "price": "",
+    "is_free": false,
+    "rating": "0",
+    "rating_count": "0",
+    "students": "0",
+    "duration": "",
+    "instructor": "",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

@@ -24641,5 +24641,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1298,
+    "added_at": "2026-03-16 11:28:12",
+    "title": "n8n AUTOMATION: Agentic AI + AI Automation +ChatGPT+Gen AI",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/QUtgYydE9",
+    "udemy_url": "https://www.udemy.com/course/n8n-agentic-ai-and-automation/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

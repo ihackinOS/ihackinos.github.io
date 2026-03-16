@@ -8092,5 +8092,24 @@
     "language": "English",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 427,
+    "added_at": "2026-03-16 20:31:15",
+    "title": "We can’t find the page you’re looking for",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6940591_a193.jpg",
+    "enroll_url": "https://cuty.io/JKDeyu",
+    "udemy_url": "https://www.udemy.com/course/become-a-thought-leader-in-your-industry/",
+    "price": "",
+    "is_free": false,
+    "rating": "0",
+    "rating_count": "0",
+    "students": "0",
+    "duration": "",
+    "instructor": "",
+    "language": "English (US)",
+    "category": "office-productivity",
+    "status": "OK"
   }
 ]

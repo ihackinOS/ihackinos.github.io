@@ -8187,5 +8187,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 432,
+    "added_at": "2026-03-16 20:33:03",
+    "title": "DA0-002 CompTIA Data+ Practice Exams [2026]",
+    "headline": "Master Data Analysis, Visualization, Statistical Methods & Governance to Ace the DA0-002 Exam",
+    "image": "https://img-c.udemycdn.com/course/480x270/7073063_d069.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/vp2Pbh",
+    "udemy_url": "https://www.udemy.com/course/comptia-data-plus-practice-exams/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "5.0",
+    "rating_count": "24",
+    "students": "308",
+    "duration": "",
+    "instructor": "Nex Arc",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

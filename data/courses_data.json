@@ -10049,5 +10049,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 530,
+    "added_at": "2026-03-16 22:18:08",
+    "title": "Certificate in Neuromarketing & Consumer Psychology",
+    "headline": "Master Cognitive Biases, Behavioral Economics, and the Science of Persuasion to Drive Strategic Decisions.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6832413_cdc2_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/WVwXZLbyEDe",
+    "udemy_url": "https://www.udemy.com/course/certificate-in-neuromarketing-consumer-psychology/",
+    "price": "₫1,047,000",
+    "is_free": true,
+    "rating": "4.6",
+    "rating_count": "52",
+    "students": "4,554",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English",
+    "category": "marketing",
+    "status": "OK"
   }
 ]

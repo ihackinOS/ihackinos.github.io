@@ -9213,5 +9213,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 486,
+    "added_at": "2026-03-16 20:53:41",
+    "title": "Logistics & Supply Chain Bootcamp 5.0: Sustainable & AI",
+    "headline": "AI in Supply Chain, Sustainable Logistics, Predictive Analytics, Digital Twins, Blockchain Transparency, LaaS, Bootcamp",
+    "image": "https://img-c.udemycdn.com/course/480x270/6649697_87ab_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/jPoUQ0kkPxY",
+    "udemy_url": "https://www.udemy.com/course/logistics-supply-chain-bootcamp-sustainable-ai/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "3.8",
+    "rating_count": "14",
+    "students": "1,918",
+    "duration": "Expand all sections",
+    "instructor": "Dr. José Prabhu J",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

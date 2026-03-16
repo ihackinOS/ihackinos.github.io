@@ -9137,5 +9137,24 @@
     "language": "English",
     "category": "marketing",
     "status": "OK"
+  },
+  {
+    "id": 482,
+    "added_at": "2026-03-16 20:52:08",
+    "title": "We can’t find the page you’re looking for",
+    "headline": "",
+    "image": "https://s.udemycdn.com/meta/default-meta-image-v2.png",
+    "enroll_url": "https://cuty.io/JZGBaArvwR",
+    "udemy_url": "https://www.udemy.com/course/wastewater-operator-mcq-mastery-course/",
+    "price": "",
+    "is_free": false,
+    "rating": "0",
+    "rating_count": "0",
+    "students": "0",
+    "duration": "",
+    "instructor": "",
+    "language": "English (US)",
+    "category": "personal-development",
+    "status": "OK"
   }
 ]

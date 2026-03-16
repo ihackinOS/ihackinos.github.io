@@ -10923,5 +10923,24 @@
     "language": "English (US)",
     "category": "marketing",
     "status": "OK"
+  },
+  {
+    "id": 576,
+    "added_at": "2026-03-17 04:33:36",
+    "title": "The Product Management for AI & Data Science Course",
+    "headline": "The Complete Course for Becoming a Successful Product Manager in the Field of AI &amp; Data Science",
+    "image": "https://img-c.udemycdn.com/course/480x270/3399936_7f53_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/sgHZzM",
+    "udemy_url": "https://www.udemy.com/course/the-product-management-for-data-science-ai-course/",
+    "price": "₫1,497,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "9,654",
+    "students": "44,252",
+    "duration": "Expand all sections",
+    "instructor": "365 Careers",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

@@ -24223,5 +24223,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1276,
+    "added_at": "2026-03-16 11:21:17",
+    "title": "Modern Web Development with JavaScript, jQuery & TypeScript",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/BI9x",
+    "udemy_url": "https://www.udemy.com/course/modern-web-development-with-javascript-jquery-typescript/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

@@ -2411,5 +2411,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 128,
+    "added_at": "2026-03-16 14:52:50",
+    "title": "GIT, GitLab, GitHub Fundamentals for Software Developers",
+    "headline": "GIT, GitLab, GitHub Fundamentals for Software Developers, Basics of Work, Command Line, GUI, Intro to GIT for Beginners",
+    "image": "https://img-c.udemycdn.com/course/480x270/6131097_b544_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/v9Xp0fKAXxj5",
+    "udemy_url": "https://www.udemy.com/course/git-gitlab-github-fundamentals-for-software-developers/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "1,028",
+    "students": "45,904",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

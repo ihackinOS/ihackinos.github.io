@@ -9156,5 +9156,24 @@
     "language": "English (US)",
     "category": "personal-development",
     "status": "OK"
+  },
+  {
+    "id": 483,
+    "added_at": "2026-03-16 20:52:35",
+    "title": "AI-Powered E-Commerce App with .NET 9, Angular 20 & RAG",
+    "headline": "Build a full-stack AI-enabled store with Semantic Search, Chatbot, and RAG integration using .NET 9, Angular 20 & Azure",
+    "image": "https://img-c.udemycdn.com/course/480x270/6878943_b303_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/rJnYne8jaC",
+    "udemy_url": "https://www.udemy.com/course/ai-powered-e-commerce-app-with-net-9-angular-20-rag/",
+    "price": "Free",
+    "is_free": true,
+    "rating": "4.7",
+    "rating_count": "125",
+    "students": "725",
+    "duration": "Expand all sections",
+    "instructor": "Rahul Sahay",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

@@ -7788,5 +7788,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 411,
+    "added_at": "2026-03-16 20:17:08",
+    "title": "Digital Marketing Foundations for Beginners",
+    "headline": "Build Strong Skills in SEO, SEM, Social Media, and Content Strategy",
+    "image": "https://img-c.udemycdn.com/course/480x270/6859743_82aa_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/aXSc",
+    "udemy_url": "https://www.udemy.com/course/digital-marketing-foundations-for-beginners/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "31",
+    "students": "5,852",
+    "duration": "Expand all sections",
+    "instructor": "Ritu Singh",
+    "language": "English (US)",
+    "category": "marketing",
+    "status": "OK"
   }
 ]

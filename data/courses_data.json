@@ -22665,5 +22665,24 @@
     "language": "English",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 1194,
+    "added_at": "2026-03-16 08:48:22",
+    "title": "Mastering Procurement and Supply Chain Management",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6118667_2363_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/CpJr",
+    "udemy_url": "https://www.udemy.com/course/procurementandscm/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "74",
+    "students": "1,740",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

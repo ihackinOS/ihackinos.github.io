@@ -23387,5 +23387,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 1232,
+    "added_at": "2026-03-16 11:07:11",
+    "title": "TailwindCSS from A to Z: Master TailwindCSS Quickly",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/AwcWAIJUKYAl",
+    "udemy_url": "https://www.udemy.com/course/learn-tailwind-css-quickly/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

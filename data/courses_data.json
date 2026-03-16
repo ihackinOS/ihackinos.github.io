@@ -6705,5 +6705,24 @@
     "language": "English (US)",
     "category": "marketing",
     "status": "OK"
+  },
+  {
+    "id": 354,
+    "added_at": "2026-03-16 19:53:29",
+    "title": "Learn Azure DevOps CI/CD pipelines",
+    "headline": "Create CI/CD pipelines for Java, .NET, NodeJs, Docker, Terraform, Nuget, Kubernetes, SQL Server, Bicep and ARM templates",
+    "image": "https://img-c.udemycdn.com/course/480x270/2327618_60d3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/zTlXKf0HB2ug",
+    "udemy_url": "https://www.udemy.com/course/azure-devops-ci-cd-pipelines/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "4,188",
+    "students": "129,701",
+    "duration": "Expand all sections",
+    "instructor": "Houssem Dellai",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

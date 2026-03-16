@@ -10733,5 +10733,24 @@
     "language": "Hindi",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 566,
+    "added_at": "2026-03-16 22:32:06",
+    "title": "Building Estimation Masterclass: G+11 High-Rise Projects",
+    "headline": "Learn Quantity Surveying, Building Estimation, BOQ, Rate Analysis & BBS for G+11 High-Rise Projects with Practical Case",
+    "image": "https://img-c.udemycdn.com/course/480x270/6833151_ef77.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/5xbHialaQ4aT",
+    "udemy_url": "https://www.udemy.com/course/quantity-surveying-for-g11-high-rise-buildings-estimation/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "24",
+    "students": "2,536",
+    "duration": "Expand all sections",
+    "instructor": "FAISAL ATHAR",
+    "language": "Hindi",
+    "category": "teaching-and-academics",
+    "status": "OK"
   }
 ]

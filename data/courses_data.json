@@ -24546,5 +24546,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1293,
+    "added_at": "2026-03-16 11:26:38",
+    "title": "Mastering OpenCV: A Practical Guide to Computer Vision",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/QsM4d",
+    "udemy_url": "https://www.udemy.com/course/mastering-opencv-a-practical-guide-to-computer-vision/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

@@ -22931,5 +22931,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1208,
+    "added_at": "2026-03-16 10:59:33",
+    "title": "Professional Diploma in Social Media Marketing & Copywriting",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/GrPTBV6wYdnq",
+    "udemy_url": "https://www.udemy.com/course/professional-diploma-in-social-media-marketing-copywriting/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** marketing",
+    "status": "OK"
   }
 ]

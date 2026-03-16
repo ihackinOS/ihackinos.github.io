@@ -2506,5 +2506,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 133,
+    "added_at": "2026-03-16 14:54:46",
+    "title": "Linux Essentials Practice Exams: From Zero to Proficiency",
+    "headline": "Learn by Doing: Practice Shell, Users, Directories & More Through Real Questions",
+    "image": "https://img-c.udemycdn.com/course/480x270/6823951_2898.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/rHK5Vk1KjBh",
+    "udemy_url": "https://www.udemy.com/course/linux-essentials-practice-exams-from-zero-to-proficiency/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "0",
+    "students": "11",
+    "duration": "",
+    "instructor": "Okay Exam",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

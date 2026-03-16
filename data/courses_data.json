@@ -7731,5 +7731,24 @@
     "language": "en_US",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 408,
+    "added_at": "2026-03-16 20:13:20",
+    "title": "Kali Linux for Ethical Hackers",
+    "headline": "Master Kali Linux: Metasploit, Burp Suite, Nmap, Hydra, SET, SQLMap, John & More",
+    "image": "https://img-c.udemycdn.com/course/480x270/5677236_c927_6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/1NNs",
+    "udemy_url": "https://www.udemy.com/course/mastering-kali-linux-for-ethical-hackers/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "963",
+    "students": "67,866",
+    "duration": "Expand all sections",
+    "instructor": "Cyber Twinkle",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

@@ -1252,5 +1252,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 67,
+    "added_at": "2026-03-16 12:11:45",
+    "title": "AI Literacy for All Employees",
+    "headline": "Learn the basics of AI and how to use it effectively in your daily work",
+    "image": "https://img-c.udemycdn.com/course/480x270/6955225_c34e.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/IWqHdOKEoZ38",
+    "udemy_url": "https://www.udemy.com/course/ai-literacy-for-all-employees-v/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "190",
+    "students": "3,731",
+    "duration": "Expand all sections",
+    "instructor": "Anton Voroniuk",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

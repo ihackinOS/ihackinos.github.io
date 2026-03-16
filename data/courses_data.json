@@ -4710,5 +4710,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 249,
+    "added_at": "2026-03-16 18:56:59",
+    "title": "User Interviews & User Onboarding",
+    "headline": "Boost product success and retention with expert user interview methods and impactful user onboarding flows.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6355705_fa84.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/7PAMLJPG5Rg",
+    "udemy_url": "https://www.udemy.com/course/user-interviews-and-user-onboarding/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "31",
+    "students": "7,429",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

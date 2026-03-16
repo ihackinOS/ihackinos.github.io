@@ -24318,5 +24318,24 @@
     "language": "** English (US)",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 1281,
+    "added_at": "2026-03-16 11:22:52",
+    "title": "Data-Centric Machine Learning with Python: Hands-On Guide",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/u8mHZWO",
+    "udemy_url": "https://www.udemy.com/course/data-centric-machine-learning-with-python-hands-on-guide/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

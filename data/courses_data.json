@@ -23558,5 +23558,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1241,
+    "added_at": "2026-03-16 11:10:02",
+    "title": "Learn React by Building the Simplest App from Scratch",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/B4KNalhF",
+    "udemy_url": "https://www.udemy.com/course/build-a-simple-react-app-from-scratch/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

@@ -24489,5 +24489,24 @@
     "language": "English",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 1290,
+    "added_at": "2026-03-16 11:25:42",
+    "title": "Curso de C# desde Cero: Aprende Programación con Ejemplos",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/WMojzVPkE",
+    "udemy_url": "https://www.udemy.com/course/aprende-c-desde-0-primeros-pasos-con-este-lenguaje/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

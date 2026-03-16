@@ -9916,5 +9916,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 523,
+    "added_at": "2026-03-16 21:53:03",
+    "title": "We can’t find the page you’re looking for",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/7074619_32b5_2.jpg",
+    "enroll_url": "https://cuty.io/2UGavhumj",
+    "udemy_url": "https://www.udemy.com/course/machine-learning-nlp-questions/",
+    "price": "",
+    "is_free": false,
+    "rating": "0",
+    "rating_count": "0",
+    "students": "0",
+    "duration": "",
+    "instructor": "",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

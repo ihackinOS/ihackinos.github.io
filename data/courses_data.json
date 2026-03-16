@@ -23045,5 +23045,24 @@
     "language": "English",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 1214,
+    "added_at": "2026-03-16 11:01:37",
+    "title": "Master in Data Analysis and Analytics",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/UOIe2nAaV6P",
+    "udemy_url": "https://www.udemy.com/course/master-in-data-analysis-and-analytics/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** business",
+    "status": "OK"
   }
 ]

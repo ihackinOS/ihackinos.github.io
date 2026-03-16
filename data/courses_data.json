@@ -1366,5 +1366,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 73,
+    "added_at": "2026-03-16 12:13:47",
+    "title": "Global Wealth Management: Account Opening, Onboarding, KYC",
+    "headline": "Global Wealth Management and Private Banking: Account Opening, Onboarding, KYC, Compliance. by MTF Institute",
+    "image": "https://img-c.udemycdn.com/course/480x270/6054509_54ef.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/jyRje",
+    "udemy_url": "https://www.udemy.com/course/global-wealth-management-account-opening-onboarding-kyc/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "340",
+    "students": "11,523",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "finance-and-accounting",
+    "status": "OK"
   }
 ]

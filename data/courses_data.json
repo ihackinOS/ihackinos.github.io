@@ -22342,5 +22342,24 @@
     "language": "English",
     "category": "** it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 1177,
+    "added_at": "2026-03-16 08:43:01",
+    "title": "Clinical Embryology Techniques",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/mLXFQUbRZQ",
+    "udemy_url": "https://www.udemy.com/course/clinical-embryology-techniques/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

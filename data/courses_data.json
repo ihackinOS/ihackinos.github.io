@@ -7883,5 +7883,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 416,
+    "added_at": "2026-03-16 20:19:11",
+    "title": "Digital Marketing Mastery 2.0",
+    "headline": "A Complete Roadmap to Email, Analytics, E-commerce, Automation & Future-Ready Marketing Skills",
+    "image": "https://img-c.udemycdn.com/course/480x270/6927127_699b.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/O7LXYunJM",
+    "udemy_url": "https://www.udemy.com/course/digital-marketing-mastery-20/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "12",
+    "students": "5,039",
+    "duration": "Expand all sections",
+    "instructor": "Ritu Singh",
+    "language": "English",
+    "category": "marketing",
+    "status": "OK"
   }
 ]

@@ -23634,5 +23634,24 @@
     "language": "English",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 1245,
+    "added_at": "2026-03-16 11:11:16",
+    "title": "Build a Robust RESTful API with PHP 8, from Scratch!",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5377010_fb30_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/vkuBAFh44cJo",
+    "udemy_url": "https://www.udemy.com/course/build-modern-php-api/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "339",
+    "students": "66,754",
+    "duration": "Expand all sections",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

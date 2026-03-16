@@ -3342,5 +3342,24 @@
     "language": "English (US)",
     "category": "personal-development",
     "status": "OK"
+  },
+  {
+    "id": 177,
+    "added_at": "2026-03-16 17:38:59",
+    "title": "Tech Career Readiness & Assessment Tests",
+    "headline": "Subject Readiness for Gen AI Engineer, AI Engineer, Data Scientist, Solution Architect and Product Manager Interview",
+    "image": "https://img-c.udemycdn.com/course/480x270/6975213_5ed0_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/vyi2lyuX0gPM",
+    "udemy_url": "https://www.udemy.com/course/technology-career-readiness-assessment-tests/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "0",
+    "students": "1,504",
+    "duration": "",
+    "instructor": "Arun Singhal B-Tech, MBA (IIM-B),Unilever, J&J, Danone, IIMU, Cello",
+    "language": "English",
+    "category": "personal-development",
+    "status": "OK"
   }
 ]

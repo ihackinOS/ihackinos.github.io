@@ -23425,5 +23425,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1234,
+    "added_at": "2026-03-16 11:07:48",
+    "title": "Video Editing for Beginners: The Ultimate CapCut Masterclass",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/bFyiwqvDdyGp",
+    "udemy_url": "https://www.udemy.com/course/video-editing-for-beginners-the-ultimate-capcut-masterclass/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** photography-and-video",
+    "status": "OK"
   }
 ]

@@ -5736,5 +5736,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 303,
+    "added_at": "2026-03-16 19:17:23",
+    "title": "Professional Diploma in Executive Assistance and Management",
+    "headline": "Master Executive Assistance: Training in Office Administration, Time Management, Communication and Leadership Skills",
+    "image": "https://img-c.udemycdn.com/course/480x270/6241145_65cb_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/bCJ3ucUF",
+    "udemy_url": "https://www.udemy.com/course/executive-assistance-and-management/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "67",
+    "students": "921",
+    "duration": "Expand all sections",
+    "instructor": "Md. Aliful Islam",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

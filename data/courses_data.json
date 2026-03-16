@@ -5660,5 +5660,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 299,
+    "added_at": "2026-03-16 19:15:53",
+    "title": "Executive Diploma in Human Resources Management (HRM)",
+    "headline": "Elevate Your Human Resources Skills, Master HR Strategies, and Drive Organizational Success with an Diploma in HRM",
+    "image": "https://img-c.udemycdn.com/course/480x270/6241287_860d_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ttS43NxM",
+    "udemy_url": "https://www.udemy.com/course/humanresourceshrm/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "66",
+    "students": "4,054",
+    "duration": "Expand all sections",
+    "instructor": "Md. Aliful Islam",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

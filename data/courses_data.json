@@ -2829,5 +2829,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 150,
+    "added_at": "2026-03-16 17:29:20",
+    "title": "Professional Diploma in Strategic Supply Chain Management",
+    "headline": "Master Strategic Supply Chain Management: Optimize Logistics, Procurement and Risk for Business Growth",
+    "image": "https://img-c.udemycdn.com/course/480x270/6482983_b140_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/3TvA8dyIP",
+    "udemy_url": "https://www.udemy.com/course/strategic-scm/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "26",
+    "students": "3,014",
+    "duration": "Expand all sections",
+    "instructor": "Md. Aliful Islam",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

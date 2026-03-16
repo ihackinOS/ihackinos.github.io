@@ -23843,5 +23843,24 @@
     "language": "** English (US)",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 1256,
+    "added_at": "2026-03-16 11:14:42",
+    "title": "Diseño responsivo con cajas flexibles CSS3",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/65VxZh8",
+    "udemy_url": "https://www.udemy.com/course/diseno-responsivo-con-cajas-flexibles-css3/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** Spanish",
+    "category": "** development",
+    "status": "OK"
   }
 ]

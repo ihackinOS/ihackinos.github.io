@@ -9004,5 +9004,24 @@
     "language": "English",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 475,
+    "added_at": "2026-03-16 20:49:32",
+    "title": "Python Practicando. Desde 0 hasta Desarrollador en Python",
+    "headline": "Aprende Python, donde iniciamos desde 0, sin conocimientos previos hasta desarrollar aplicaciones con mucha practica!",
+    "image": "https://img-c.udemycdn.com/course/480x270/2297910_788e_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/FUh19vz6",
+    "udemy_url": "https://www.udemy.com/course/aprende-el-lenguaje-de-programacion-python3-practicando/",
+    "price": "₫389,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "22,893",
+    "students": "264,568",
+    "duration": "Expand all sections",
+    "instructor": "Alvaro Chirou",
+    "language": "English",
+    "category": "development",
+    "status": "OK"
   }
 ]

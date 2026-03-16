@@ -9403,5 +9403,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 496,
+    "added_at": "2026-03-16 20:57:18",
+    "title": "The Modern Physics Blueprint: Learn to Think Like Physicist",
+    "headline": "(Engineer's Playground: Into the atoms, Radiation, Dual Nature, Nucleii & Semiconductors)",
+    "image": "https://img-c.udemycdn.com/course/480x270/4642722_5e28.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/XfxwFC7g",
+    "udemy_url": "https://www.udemy.com/course/lets-learn-modern-physics/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "17",
+    "students": "10,707",
+    "duration": "Expand all sections",
+    "instructor": "infusion X",
+    "language": "English (US)",
+    "category": "teaching-and-academics",
+    "status": "OK"
   }
 ]

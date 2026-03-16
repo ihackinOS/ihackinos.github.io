@@ -24128,5 +24128,24 @@
     "language": "English",
     "category": "** office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 1271,
+    "added_at": "2026-03-16 11:19:34",
+    "title": "Canva for Graphic Design & Social Media Marketing",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://www.udemy.com/course/canva-for-graphic-design-social-media-marketing/",
+    "udemy_url": "https://www.udemy.com/course/canva-for-graphic-design-social-media-marketing/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** marketing",
+    "status": "OK"
   }
 ]

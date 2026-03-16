@@ -23653,5 +23653,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 1246,
+    "added_at": "2026-03-16 11:11:35",
+    "title": "Mastering Kibana: ELK Stack Visualization & Analytics",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/29f2v82n",
+    "udemy_url": "https://www.udemy.com/course/mastering-kibana-elk-stack-visualization-analytics/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** marketing",
+    "status": "OK"
   }
 ]

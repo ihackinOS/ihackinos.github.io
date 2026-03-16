@@ -2164,5 +2164,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 115,
+    "added_at": "2026-03-16 12:28:15",
+    "title": "Programador Java en 37 Días Con práctica de Entrevista y más",
+    "headline": "Libro GRATUITO del Curso Java. Aprende desde 0, con 5 Proyectos para tu Portafolio, con Sping y prepara tu entrevista.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6053079_7cfe_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/u8Y93B5yf",
+    "udemy_url": "https://www.udemy.com/course/programador-java-en-37-dias-con-practica-de-entrevista-y-mas/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "96",
+    "students": "12,460",
+    "duration": "Expand all sections",
+    "instructor": "Alvaro Chirou",
+    "language": "Spanish (Spain)",
+    "category": "development",
+    "status": "OK"
   }
 ]

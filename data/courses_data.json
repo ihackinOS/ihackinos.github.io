@@ -4596,5 +4596,24 @@
     "language": "Italian",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 243,
+    "added_at": "2026-03-16 18:54:37",
+    "title": "Excellence in Crisis Management & BCP",
+    "headline": "Learn crisis planning, communication, intervention. Business continuity with public relations, Tabletop communications",
+    "image": "https://img-c.udemycdn.com/course/480x270/6488113_e061_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/vxOqa",
+    "udemy_url": "https://www.udemy.com/course/excellence-in-crisis-management-bcp/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "16",
+    "students": "5,563",
+    "duration": "Expand all sections",
+    "instructor": "Arun Singhal B-Tech, MBA (IIM-B),Unilever, J&J, Danone, IIMU, Cello",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

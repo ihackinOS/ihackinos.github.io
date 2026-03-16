@@ -7978,5 +7978,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 421,
+    "added_at": "2026-03-16 20:21:14",
+    "title": "Android Apps Development in Hindi and Build 10 Applications",
+    "headline": "Android App Development & Android Studio, Build 10 different Android apps, Learn Android development in Hindi",
+    "image": "https://img-c.udemycdn.com/course/480x270/5456544_a494.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/D7vdGgJftDmi",
+    "udemy_url": "https://www.udemy.com/course/learn-android-app-development-in-hindi-build-10-application/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "471",
+    "students": "38,116",
+    "duration": "Expand all sections",
+    "instructor": "Vijay Kumar",
+    "language": "English",
+    "category": "development",
+    "status": "OK"
   }
 ]

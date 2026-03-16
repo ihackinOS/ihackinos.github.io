@@ -10391,5 +10391,24 @@
     "language": "Hindi",
     "category": "office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 548,
+    "added_at": "2026-03-16 22:25:14",
+    "title": "Master SAP SuccessFactors Employee Central",
+    "headline": "Learn SAP SuccessFactors Employee Central from scratch. Step-by-step training for HR, IT, and SAP career growth",
+    "image": "https://img-c.udemycdn.com/course/480x270/6801201_cda6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/4fn0AOCYxjo",
+    "udemy_url": "https://www.udemy.com/course/master-sap-successfactors-employee-central/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "13",
+    "students": "4,173",
+    "duration": "Expand all sections",
+    "instructor": "ZK Tutorials",
+    "language": "English",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

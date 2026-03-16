@@ -24242,5 +24242,24 @@
     "language": "** English (US)",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 1277,
+    "added_at": "2026-03-16 11:21:36",
+    "title": "The Complete AngularJS Bootcamp for Web Developers",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/X0wdS",
+    "udemy_url": "https://www.udemy.com/course/the-complete-angularjs-bootcamp-for-web-developers/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

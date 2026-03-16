@@ -9498,5 +9498,24 @@
     "language": "English (US)",
     "category": "teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 501,
+    "added_at": "2026-03-16 20:59:08",
+    "title": "Microsoft Excel - Journey from Beginner to Advanced in Excel",
+    "headline": "Master Microsoft Excel. Learn Data Analysis and Business Data Analysis With Excel.",
+    "image": "https://img-c.udemycdn.com/course/480x270/5711806_5df3_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/8Vvjy86R",
+    "udemy_url": "https://www.udemy.com/course/microsoft-excel-journey-from-beginner-to-advanced-in-excel/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "315",
+    "students": "13,455",
+    "duration": "Expand all sections",
+    "instructor": "Md. Nomiruzzaman",
+    "language": "English",
+    "category": "office-productivity",
+    "status": "OK"
   }
 ]

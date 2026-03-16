@@ -4558,5 +4558,24 @@
     "language": "Italian",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 241,
+    "added_at": "2026-03-16 18:53:54",
+    "title": "Master in Healthcare Revenue Cycle Management (RCM)",
+    "headline": "Global /US medical billing and coding, prior authorization, credentialing, Bill Payments and Medicare best practices",
+    "image": "https://img-c.udemycdn.com/course/480x270/6240027_5fac.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/A1Gf",
+    "udemy_url": "https://www.udemy.com/course/master-in-healthcare-revenue-cycle-management-rcm/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "113",
+    "students": "8,137",
+    "duration": "Expand all sections",
+    "instructor": "Arun Singhal B-Tech, MBA (IIM-B),Unilever, J&J, Danone, IIMU, Cello",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

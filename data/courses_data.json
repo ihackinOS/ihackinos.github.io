@@ -23463,5 +23463,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1236,
+    "added_at": "2026-03-16 11:08:26",
+    "title": "The Complete Web Developer Bootcamp 2026",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/symgTisiYk",
+    "udemy_url": "https://www.udemy.com/course/the-complete-web-developer-bootcamp-complete-training/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

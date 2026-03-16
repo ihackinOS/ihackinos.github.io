@@ -11056,5 +11056,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 583,
+    "added_at": "2026-03-17 04:36:01",
+    "title": "We can’t find the page you’re looking for",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6022786_dbe8_2.jpg",
+    "enroll_url": "https://cuty.io/Kd6Ku78B2c",
+    "udemy_url": "https://www.udemy.com/course/ne-plus-echouer/",
+    "price": "",
+    "is_free": false,
+    "rating": "0",
+    "rating_count": "0",
+    "students": "0",
+    "duration": "",
+    "instructor": "",
+    "language": "French (France)",
+    "category": "personal-development",
+    "status": "OK"
   }
 ]

@@ -7237,5 +7237,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 382,
+    "added_at": "2026-03-16 20:03:43",
+    "title": "Certificat Professionnel en Gestion des Risques",
+    "headline": "Risques, gestion des risques, définitions et concepts, risques stratégiques, financiers, opérationnels et de conformité.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6561809_589d_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/uLllbvzi",
+    "udemy_url": "https://www.udemy.com/course/gestion-des-risques/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.3",
+    "rating_count": "119",
+    "students": "4,525",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "French (France)",
+    "category": "business",
+    "status": "OK"
   }
 ]

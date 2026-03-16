@@ -22551,5 +22551,24 @@
     "language": "** English (US)",
     "category": "** lifestyle",
     "status": "OK"
+  },
+  {
+    "id": 1188,
+    "added_at": "2026-03-16 08:46:27",
+    "title": "Professional Diploma in Leadership",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/6qKv0E",
+    "udemy_url": "https://www.udemy.com/course/leadershipdiploma/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** personal-development",
+    "status": "OK"
   }
 ]

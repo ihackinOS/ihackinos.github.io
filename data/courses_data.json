@@ -22969,5 +22969,24 @@
     "language": "English",
     "category": "** personal-development",
     "status": "OK"
+  },
+  {
+    "id": 1210,
+    "added_at": "2026-03-16 11:00:21",
+    "title": "Generative AI Masters 2026 - From Python to Gen AI",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/NKL81sECf",
+    "udemy_url": "https://www.udemy.com/course/mastering-generative-ai/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** development",
+    "status": "OK"
   }
 ]

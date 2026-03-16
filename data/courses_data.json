@@ -492,5 +492,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 27,
+    "added_at": "2026-03-16 11:57:53",
+    "title": "Master English with AI: Improve Fluency Fast Using ChatGPT",
+    "headline": "Speak confidently with AI: Improve fluency, vocabulary & communication fast using AI tools, prompts & real-life practice",
+    "image": "https://img-c.udemycdn.com/course/480x270/6958569_ca07_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/afTHXL1lDyB",
+    "udemy_url": "https://www.udemy.com/course/master-english-with-ai-improve-fluency-fast-using-chatgpt/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "82",
+    "students": "2,886",
+    "duration": "Expand all sections",
+    "instructor": "Ramune Kavaliauskaite",
+    "language": "Language Learning",
+    "category": "teaching-and-academics",
+    "status": "OK"
   }
 ]

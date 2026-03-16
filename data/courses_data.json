@@ -986,5 +986,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 53,
+    "added_at": "2026-03-16 12:06:56",
+    "title": "Medical Robotics Course",
+    "headline": "Unlock the Future of Healthcare with Advanced Skills and Expertise",
+    "image": "https://img-c.udemycdn.com/course/480x270/5585178_10d6_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/XhSHW9O5vcY",
+    "udemy_url": "https://www.udemy.com/course/mastering-in-medical-robotics/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "111",
+    "students": "11,837",
+    "duration": "Expand all sections",
+    "instructor": "Learntoupgrade Online",
+    "language": "English",
+    "category": "teaching-and-academics",
+    "status": "OK"
   }
 ]

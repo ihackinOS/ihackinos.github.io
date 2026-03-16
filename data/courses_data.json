@@ -9897,5 +9897,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 522,
+    "added_at": "2026-03-16 21:07:09",
+    "title": "Digital Transformation in HR: Leveraging AI & Analytics",
+    "headline": "Digital Human Resources (HR) Strategy: manage change, use technology in talent acquisition, engagement, and performance.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6814631_985b_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/trNckk2M",
+    "udemy_url": "https://www.udemy.com/course/digital-transformation-in-hr-leveraging-ai-analytics/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "23",
+    "students": "4,226",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English",
+    "category": "business",
+    "status": "OK"
   }
 ]

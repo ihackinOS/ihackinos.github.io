@@ -23140,5 +23140,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1219,
+    "added_at": "2026-03-16 11:03:11",
+    "title": "Professional Diploma in Advertising and Public Relations",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/8k1fF",
+    "udemy_url": "https://www.udemy.com/course/professional-diploma-in-advertising-and-public-relations/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** marketing",
+    "status": "OK"
   }
 ]

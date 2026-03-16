@@ -9346,5 +9346,24 @@
     "language": "English (US)",
     "category": "personal-development",
     "status": "OK"
+  },
+  {
+    "id": 493,
+    "added_at": "2026-03-16 20:56:11",
+    "title": "Pre-Algebra Made Easy: The Complete Beginner's Guide",
+    "headline": "Master the Fundamentals of Math to Build a Strong Foundation for Algebra and Beyond!",
+    "image": "https://img-c.udemycdn.com/course/480x270/6377593_0717_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Icd8n",
+    "udemy_url": "https://www.udemy.com/course/pre-algebra-made-easy-the-complete-beginners-guide/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "27",
+    "students": "9,862",
+    "duration": "Expand all sections",
+    "instructor": "infusion X",
+    "language": "English (US)",
+    "category": "teaching-and-academics",
+    "status": "OK"
   }
 ]

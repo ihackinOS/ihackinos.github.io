@@ -9688,5 +9688,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 511,
+    "added_at": "2026-03-16 21:03:04",
+    "title": "ChatGPT for Product Management",
+    "headline": "ChatGPT for Product Leaders: Master ChatGPT for Dynamic Product Management",
+    "image": "https://img-c.udemycdn.com/course/480x270/5727586_3be1.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/tQBQs45AA",
+    "udemy_url": "https://www.udemy.com/course/chatgpt-for-product-management/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "473",
+    "students": "38,549",
+    "duration": "Expand all sections",
+    "instructor": "Vipesh Singla , MBA, Certified SAFe Agile Coach",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

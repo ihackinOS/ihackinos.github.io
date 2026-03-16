@@ -23919,5 +23919,24 @@
     "language": "English",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 1260,
+    "added_at": "2026-03-16 11:15:57",
+    "title": "Clustering & Unsupervised Learning in Python",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/JOkUp",
+    "udemy_url": "https://www.udemy.com/course/clustering-unsupervised-learning-in-python/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

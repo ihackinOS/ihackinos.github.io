@@ -1803,5 +1803,24 @@
     "language": "Variables, Data Types, Type Conversion, Functions, Statements and Expressions All Demonstrations",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 96,
+    "added_at": "2026-03-16 12:21:35",
+    "title": "Sustainable Innovation with GenAI",
+    "headline": "Harnessing Generative AI to Drive Sustainable Solutions Across Industries",
+    "image": "https://img-c.udemycdn.com/course/480x270/6672379_8198_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/AiClav",
+    "udemy_url": "https://www.udemy.com/course/sustainable-innovation-with-genai/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "1,250",
+    "students": "3,329",
+    "duration": "Expand all sections",
+    "instructor": "Starweaver Team",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

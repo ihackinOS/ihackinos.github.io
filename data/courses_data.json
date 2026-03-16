@@ -11018,5 +11018,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 581,
+    "added_at": "2026-03-17 04:35:23",
+    "title": "JavaScript 10 Projects in 10 Days – Beginner-Friendly Hands",
+    "headline": "Build Real-World JavaScript Projects Step by Step Using HTML, CSS, and JavaScript",
+    "image": "https://img-c.udemycdn.com/course/480x270/7028653_62b8.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/xRiQ",
+    "udemy_url": "https://www.udemy.com/course/javascript-10-projects-in-10-days-beginner-friendly-hands/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "3",
+    "students": "3,969",
+    "duration": "Expand all sections",
+    "instructor": "Ram Din",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

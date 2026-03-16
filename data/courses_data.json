@@ -9536,5 +9536,24 @@
     "language": "English",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 503,
+    "added_at": "2026-03-16 20:59:50",
+    "title": "Professional Certificate: AI in Office Administration",
+    "headline": "Master ChatGPT & Gemini to automate tasks, boost productivity, and build a future-proof administrative management career",
+    "image": "https://img-c.udemycdn.com/course/480x270/6746063_6c47_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/OZwXtTsAYOc5",
+    "udemy_url": "https://www.udemy.com/course/professional-certificate-ai-in-office-administration/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "85",
+    "students": "5,918",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English",
+    "category": "business",
+    "status": "OK"
   }
 ]

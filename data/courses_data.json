@@ -2107,5 +2107,24 @@
     "language": "English (US)",
     "category": "office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 112,
+    "added_at": "2026-03-16 12:27:10",
+    "title": "Agentic AI Fundamentals",
+    "headline": "Agentic AI Basics: Design, Validate, and Deploy Agent-Based AI systems for Finance, Analytics, and Real-World Workflows",
+    "image": "https://img-c.udemycdn.com/course/480x270/7004655_739d.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ybAsPIaYOv",
+    "udemy_url": "https://www.udemy.com/course/agentic-ai-fundamentals/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "4",
+    "students": "207",
+    "duration": "Agentic AI Fundamentals",
+    "instructor": "Excel Mojo",
+    "language": "English",
+    "category": "development",
+    "status": "OK"
   }
 ]

@@ -1651,5 +1651,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 88,
+    "added_at": "2026-03-16 12:18:54",
+    "title": "Business Writing: Technical Writing & Communication Skills",
+    "headline": "Professional Communication | Persuasive Writing | AI Writing | Business Email Writing | Technical Documentation | PPTs",
+    "image": "https://img-c.udemycdn.com/course/480x270/176138_463f_17.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/7oxQ1cnnA0TW",
+    "udemy_url": "https://www.udemy.com/course/business-writing-immersion/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "8,285",
+    "students": "43,198",
+    "duration": "Expand all sections",
+    "instructor": "Starweaver Team",
+    "language": "English (US)",
+    "category": "marketing",
+    "status": "OK"
   }
 ]

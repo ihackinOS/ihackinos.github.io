@@ -24888,5 +24888,24 @@
     "language": "English",
     "category": "** teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 1311,
+    "added_at": "2026-03-16 11:32:16",
+    "title": "Entrepreneurship and Business Essentials",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/R10LHs",
+    "udemy_url": "https://www.udemy.com/course/entrepreneurship-and-business-essentials/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** business",
+    "status": "OK"
   }
 ]

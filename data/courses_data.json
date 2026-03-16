@@ -378,5 +378,24 @@
     "language": "English (US)",
     "category": "marketing",
     "status": "OK"
+  },
+  {
+    "id": 21,
+    "added_at": "2026-03-16 11:55:52",
+    "title": "Master AI Tools in 2026: ChatGPT, Midjourney, Gemini Firefly",
+    "headline": "20+ AI Tools Unlocked: ChatGPT, Gemini, Midjourney, Notion AI, MS Copilot, Firefly, Custom GPTs, Prompt Engineering!",
+    "image": "https://img-c.udemycdn.com/course/480x270/6158605_c6df_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/4g5XWk",
+    "udemy_url": "https://www.udemy.com/course/chatgpt-midjourney-23-proven-methods-to-earn-with-ai/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "336",
+    "students": "18,949",
+    "duration": "Expand all sections",
+    "instructor": "Tanmoy Das",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

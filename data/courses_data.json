@@ -4349,5 +4349,24 @@
     "language": "English",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 230,
+    "added_at": "2026-03-16 18:49:47",
+    "title": "SAP Datasphere-BDC comprehensive training",
+    "headline": "Data integration from SAP and Non SAP Systems, Modeling, Analytics, Business Data cloud data products.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6805381_0144_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/yw1Z8",
+    "udemy_url": "https://www.udemy.com/course/sap-datasphere-bdc-comprehensive-training/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "59",
+    "students": "830",
+    "duration": "Expand all sections",
+    "instructor": "Sreekanth Surampally",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

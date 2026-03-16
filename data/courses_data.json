@@ -5223,5 +5223,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 276,
+    "added_at": "2026-03-16 19:07:06",
+    "title": "Genetics for college students",
+    "headline": "Mastering Genetics Unlocking the Blueprint of life",
+    "image": "https://img-c.udemycdn.com/course/480x270/4429904_d785_6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/jyHd1h",
+    "udemy_url": "https://www.udemy.com/course/genetics-from-mendel-to-era-of-microarray-classical-genetics/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "47",
+    "students": "10,022",
+    "duration": "Expand all sections",
+    "instructor": "Mohamed AL ashram",
+    "language": "English (US)",
+    "category": "teaching-and-academics",
+    "status": "OK"
   }
 ]

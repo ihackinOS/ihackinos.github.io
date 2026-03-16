@@ -9935,5 +9935,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 524,
+    "added_at": "2026-03-16 21:53:26",
+    "title": "Ethically Hack Human Mind: Social Engineering Fundamentals",
+    "headline": "Master social engineering principles, understand human psychology, and protect against phishing attacks.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6214531_ba5c_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/cBG73ONfa3EA",
+    "udemy_url": "https://www.udemy.com/course/hacking-the-human-mind-social-engineering-fundamentals/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "297",
+    "students": "27,528",
+    "duration": "Expand all sections",
+    "instructor": "Cyber Twinkle",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

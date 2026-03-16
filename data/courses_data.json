@@ -23881,5 +23881,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1258,
+    "added_at": "2026-03-16 11:15:20",
+    "title": "NLP in Python: Probability Models, Statistics, Text Analysis",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/lvtZR",
+    "udemy_url": "https://www.udemy.com/course/nlp-in-python-probability-models-statistics-text-analysis/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

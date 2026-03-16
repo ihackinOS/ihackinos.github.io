@@ -8681,5 +8681,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 458,
+    "added_at": "2026-03-16 20:43:04",
+    "title": "Executive Program in Resilient Leadership",
+    "headline": "Master Leadership Resilience: Navigate Change, Empower Teams, Drive Growth in Any Environment.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6663577_007d.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ouIed02",
+    "udemy_url": "https://www.udemy.com/course/executive-program-in-resilient-leadership/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "42",
+    "students": "3,972",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English",
+    "category": "business",
+    "status": "OK"
   }
 ]

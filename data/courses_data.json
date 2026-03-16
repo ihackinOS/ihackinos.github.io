@@ -9460,5 +9460,24 @@
     "language": "English",
     "category": "teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 499,
+    "added_at": "2026-03-16 20:58:24",
+    "title": "Computer Engineering Mastery: From Beginner to Expert!",
+    "headline": "Engineers Playground (The Ultimate Journey For Computer Engineering)",
+    "image": "https://img-c.udemycdn.com/course/480x270/5465518_4f1b_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/WTqACRfED",
+    "udemy_url": "https://www.udemy.com/course/computer-engineering-mastery-from-beginner-to-expert/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "279",
+    "students": "30,032",
+    "duration": "Expand all sections",
+    "instructor": "infusion X",
+    "language": "English (India)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

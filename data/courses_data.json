@@ -6154,5 +6154,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 325,
+    "added_at": "2026-03-16 19:25:52",
+    "title": "Mastering Business Card Design with Photoshop",
+    "headline": "Step-by-Step Guide to Designing a Professional Business Card in Photoshop",
+    "image": "https://img-c.udemycdn.com/course/480x270/5232420_5a80.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/wv1wcaumW1ZS",
+    "udemy_url": "https://www.udemy.com/course/mastering-business-card-design-with-photoshop/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "25",
+    "students": "5,651",
+    "duration": "Expand all sections",
+    "instructor": "Websketch World",
+    "language": "English",
+    "category": "design",
+    "status": "OK"
   }
 ]

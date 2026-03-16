@@ -24356,5 +24356,24 @@
     "language": "English",
     "category": "** development",
     "status": "OK"
+  },
+  {
+    "id": 1283,
+    "added_at": "2026-03-16 11:23:30",
+    "title": "JavaScript Mastery: Best Practices & Coding Efficiency",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/IGK3dw01",
+    "udemy_url": "https://www.udemy.com/course/javascript-mastery-best-practices-coding-efficiency/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

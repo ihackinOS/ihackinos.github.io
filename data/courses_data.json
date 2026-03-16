@@ -24147,5 +24147,24 @@
     "language": "** English (US)",
     "category": "** marketing",
     "status": "OK"
+  },
+  {
+    "id": 1272,
+    "added_at": "2026-03-16 11:19:54",
+    "title": "Data Structures And Algorithms In Practice: Learn by Coding",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/KNXoz",
+    "udemy_url": "https://www.udemy.com/course/data-structures-and-algorithms-in-practice-learn-by-coding/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

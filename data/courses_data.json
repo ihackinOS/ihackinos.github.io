@@ -1936,5 +1936,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 103,
+    "added_at": "2026-03-16 12:24:03",
+    "title": "Master Scrum Basics",
+    "headline": "Unlock the Path to Scrum Excellence",
+    "image": "https://img-c.udemycdn.com/course/480x270/5724176_74b0_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/RYj1Cp",
+    "udemy_url": "https://www.udemy.com/course/master-scrum-basics/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "205",
+    "students": "28,176",
+    "duration": "Expand all sections",
+    "instructor": "Vipesh Singla , MBA, Certified SAFe Agile Coach",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

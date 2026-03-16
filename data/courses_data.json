@@ -6439,5 +6439,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 340,
+    "added_at": "2026-03-16 19:48:13",
+    "title": "The Complete Digital Marketing Course - 12 Courses in 1",
+    "headline": "Master Digital Marketing Strategy, Social Media Marketing, SEO, YouTube, Email, Facebook Marketing, Analytics & More!",
+    "image": "https://img-c.udemycdn.com/course/480x270/914296_3670_8.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/8Zvm18w",
+    "udemy_url": "https://www.udemy.com/course/learn-digital-marketing-course/",
+    "price": "₫1,137,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "180,922",
+    "students": "824,403",
+    "duration": "Expand all sections",
+    "instructor": "Rob Percival",
+    "language": "English (US)",
+    "category": "marketing",
+    "status": "OK"
   }
 ]

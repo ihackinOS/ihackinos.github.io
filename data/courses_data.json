@@ -8339,5 +8339,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 440,
+    "added_at": "2026-03-16 20:36:07",
+    "title": "Become A Full-Stack Mobile Dev in 2026 With Flutter and Dart",
+    "headline": "Become A Full-Stack Mobile Engineer in 2026 With Flutter/Dart And Dart Frog: Getting Started With Dart Frog Full Course",
+    "image": "https://img-c.udemycdn.com/course/480x270/7037269_121e_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Fom5n0",
+    "udemy_url": "https://www.udemy.com/course/become-a-full-stack-mobile-dev-in-2026-with-flutter-and-dart/",
+    "price": "₫1,077,000",
+    "is_free": false,
+    "rating": "5.0",
+    "rating_count": "3",
+    "students": "206",
+    "duration": "Full Course",
+    "instructor": "Samuel Adekunle",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

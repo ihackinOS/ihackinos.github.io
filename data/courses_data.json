@@ -7902,5 +7902,24 @@
     "language": "English",
     "category": "marketing",
     "status": "OK"
+  },
+  {
+    "id": 417,
+    "added_at": "2026-03-16 20:19:34",
+    "title": "20 Web Projects build 20 HTML, CSS and JavaScript projects",
+    "headline": "Modern HTML5, CSS3, and JavaScript to build Responsive and Mobile Friendly projects for your dream portfolio and resume!",
+    "image": "https://img-c.udemycdn.com/course/480x270/5727660_c410_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/QOoD096",
+    "udemy_url": "https://www.udemy.com/course/boost-your-portfolio-with-20-html-css-javascript-projects/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "495",
+    "students": "59,865",
+    "duration": "Expand all sections",
+    "instructor": "Vijay Kumar",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

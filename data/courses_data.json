@@ -8966,5 +8966,24 @@
     "language": "English",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 473,
+    "added_at": "2026-03-16 20:48:44",
+    "title": "Python Ethical Hacking Pentest for Hackers Scripting Basics",
+    "headline": "Master Python scripting for ethical hacking, pentesting, automation, and real-world security testing.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6934389_b44a_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/hViZ",
+    "udemy_url": "https://www.udemy.com/course/python-ethical-hacking-pentest-for-hackers-scripting-basics/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "48",
+    "students": "9,343",
+    "duration": "Expand all sections",
+    "instructor": "Syed Muhammad Hatim Javaid",
+    "language": "English",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

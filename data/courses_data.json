@@ -4824,5 +4824,24 @@
     "language": "English (US)",
     "category": "personal-development",
     "status": "OK"
+  },
+  {
+    "id": 255,
+    "added_at": "2026-03-16 18:59:02",
+    "title": "ELISA in Poultry Health Diagnostics & Vaccination Monitoring",
+    "headline": "Learn to apply ELISA for disease diagnosis, evaluating vaccine response, and ensuring food safety in poultry production.",
+    "image": "https://img-c.udemycdn.com/course/480x270/5833688_8728_6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ygMesC",
+    "udemy_url": "https://www.udemy.com/course/elisa-technique-application-in-poultry-industry/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.7",
+    "rating_count": "27",
+    "students": "2,960",
+    "duration": "Expand all sections",
+    "instructor": "Mohamed AL ashram",
+    "language": "English (US)",
+    "category": "teaching-and-academics",
+    "status": "OK"
   }
 ]

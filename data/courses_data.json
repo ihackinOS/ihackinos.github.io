@@ -24698,5 +24698,24 @@
     "language": "** English (US)",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1301,
+    "added_at": "2026-03-16 11:29:08",
+    "title": "Professional Certificate in Agile and SCRUM",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/5pKIQkW",
+    "udemy_url": "https://www.udemy.com/course/professional-certificate-in-agile-and-scrum/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** it-and-software",
+    "status": "OK"
   }
 ]

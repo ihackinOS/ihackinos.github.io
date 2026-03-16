@@ -2563,5 +2563,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 136,
+    "added_at": "2026-03-16 14:55:45",
+    "title": "Java Generics - Practice Questions 2026",
+    "headline": "Java Generics 120 unique high-quality test questions with detailed explanations!",
+    "image": "https://img-c.udemycdn.com/course/480x270/7005811_9d28_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/2YPbgcLqgw",
+    "udemy_url": "https://www.udemy.com/course/java-generics-questions/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "0",
+    "students": "887",
+    "duration": "",
+    "instructor": "Jitendra Suryavanshi",
+    "language": "English",
+    "category": "development",
+    "status": "OK"
   }
 ]

@@ -22285,5 +22285,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1174,
+    "added_at": "2026-03-16 08:42:02",
+    "title": "Aprende los APIS de HTML5 sin dolor",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/9erAY",
+    "udemy_url": "https://www.udemy.com/course/aprende-los-apis-de-html5-sin-dolor/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** Spanish (Mexico)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

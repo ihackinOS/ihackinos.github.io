@@ -1233,5 +1233,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 66,
+    "added_at": "2026-03-16 12:11:21",
+    "title": "Complete PMP Exam Practice Tests: People, Process & Business",
+    "headline": "Sharpen your PMP skills through realistic, domain-focused mock exams.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6920045_54eb.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/K05YhFeMOot",
+    "udemy_url": "https://www.udemy.com/course/complete-pmp-exam-practice-tests-people-process-business/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "10",
+    "students": "3,020",
+    "duration": "",
+    "instructor": "Anton Voroniuk",
+    "language": "English",
+    "category": "business",
+    "status": "OK"
   }
 ]

@@ -5850,5 +5850,24 @@
     "language": "English",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 309,
+    "added_at": "2026-03-16 19:19:42",
+    "title": "Advanced Certificate in Business & Marketing Strategy",
+    "headline": "Business Strategy, Marketing Strategy, Strategic Management, Strategic Analysis, Business Models, Marketing Analysis",
+    "image": "https://img-c.udemycdn.com/course/480x270/6442635_1cbb_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/yjHMRgv",
+    "udemy_url": "https://www.udemy.com/course/advanced-certificate-in-business-marketing-strategy/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "135",
+    "students": "10,932",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

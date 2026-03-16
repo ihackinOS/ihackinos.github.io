@@ -10258,5 +10258,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 541,
+    "added_at": "2026-03-16 22:22:33",
+    "title": "Executive Certificate in Strategic Relationship Management",
+    "headline": "Master Professional Communication, Build Ethical Partnerships, Navigate Organizations with the Swiss Banking Standard",
+    "image": "https://img-c.udemycdn.com/course/480x270/7021735_f1cd.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/N9dUDoRMG",
+    "udemy_url": "https://www.udemy.com/course/executive-certificate-in-strategic-relationship-management/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "3",
+    "students": "1,509",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

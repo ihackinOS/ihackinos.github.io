@@ -5869,5 +5869,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 310,
+    "added_at": "2026-03-16 19:20:07",
+    "title": "Data Analyst Boot camp 2026: Get Ready to Be a Data Analyst.",
+    "headline": "Master Python, SQL, Data Visualization, Machine Learning, Statistics, & AI with Examples, Challenges, & Projects.",
+    "image": "https://img-c.udemycdn.com/course/480x270/4242862_c236_6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/3YUNFzns",
+    "udemy_url": "https://www.udemy.com/course/data-analyst-bootcamp/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "382",
+    "students": "43,417",
+    "duration": "Expand all sections",
+    "instructor": "Temotec Learning Academy",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

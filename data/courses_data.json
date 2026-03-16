@@ -8814,5 +8814,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 465,
+    "added_at": "2026-03-16 20:45:39",
+    "title": "GCP Google Cloud Professional DevOps Engineer Certification",
+    "headline": "Master Google Cloud DevOps Engineering with 16+ hours of high-quality video training and 100+ real-world hands-on demos.",
+    "image": "https://img-c.udemycdn.com/course/480x270/4133780_4390_9.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/l0Ebl6L",
+    "udemy_url": "https://www.udemy.com/course/gcp-google-cloud-professional-devops-engineer-certification/",
+    "price": "₫1,197,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "2,616",
+    "students": "15,698",
+    "duration": "Expand all sections",
+    "instructor": "Ankit Mistry : 200,000+ Students",
+    "language": "English",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

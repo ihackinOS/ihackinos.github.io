@@ -10163,5 +10163,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 536,
+    "added_at": "2026-03-16 22:20:34",
+    "title": "User Experience Design Essentials - Adobe XD UI UX Design",
+    "headline": "Use XD to get a job in UI Design, User Interface, User Experience design, UX design & Web Design",
+    "image": "https://img-c.udemycdn.com/course/480x270/1452908_8741_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/qtEwgpn",
+    "udemy_url": "https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "46,734",
+    "students": "189,160",
+    "duration": "Expand all sections",
+    "instructor": "Daniel Walter Scott",
+    "language": "English",
+    "category": "design",
+    "status": "OK"
   }
 ]

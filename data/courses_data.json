@@ -9992,5 +9992,24 @@
     "language": "English",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 527,
+    "added_at": "2026-03-16 22:16:58",
+    "title": "SQLMap From Scratch for Ethical Hackers",
+    "headline": "Learn SQLMap for Ethical Hacking: Explore Automated SQL Injection Testing, Advanced Techniques, Real-World Applications",
+    "image": "https://img-c.udemycdn.com/course/480x270/6163031_3fcc_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/LGDEH9quWl",
+    "udemy_url": "https://www.udemy.com/course/sqlmap-from-scratch-for-ethical-hackers/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "356",
+    "students": "31,853",
+    "duration": "Expand all sections",
+    "instructor": "Cyber Twinkle",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

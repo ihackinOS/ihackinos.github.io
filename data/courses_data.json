@@ -1746,5 +1746,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 93,
+    "added_at": "2026-03-16 12:20:38",
+    "title": "Stock Market Trading and Equity Markets Foundations Course",
+    "headline": "Shares | Exchange Traded Funds (EFFs) | Equity Index | Stock Market | Buying & Selling | Diversification | Volatility",
+    "image": "https://img-c.udemycdn.com/course/480x270/179824_7d69_9.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/LjKCH",
+    "udemy_url": "https://www.udemy.com/course/equity-products/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "109",
+    "students": "3,137",
+    "duration": "Expand all sections",
+    "instructor": "Starweaver Team",
+    "language": "English (US)",
+    "category": "finance-and-accounting",
+    "status": "OK"
   }
 ]

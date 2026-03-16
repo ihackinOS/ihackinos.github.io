@@ -5261,5 +5261,24 @@
     "language": "English",
     "category": "teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 278,
+    "added_at": "2026-03-16 19:07:52",
+    "title": "Data Quality, Data Management & Data Governance Certificate",
+    "headline": "The Complete Guide to Data Quality, Management & Governance for better business decisions, efficiency, and compliance.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6406727_798e.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/lveQz",
+    "udemy_url": "https://www.udemy.com/course/data-quality-data-management-data-governance-certificate/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "382",
+    "students": "16,429",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

@@ -10353,5 +10353,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 546,
+    "added_at": "2026-03-16 22:24:27",
+    "title": "Flutter for Web & Mobile: Build Fast, Flexible Applications",
+    "headline": "Comprehensive Flutter Development: Build, Test, and Deploy Fast, Scalable Apps for Both Web and Mobile Platforms.",
+    "image": "https://img-c.udemycdn.com/course/480x270/7014837_4a7f.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/28Mha",
+    "udemy_url": "https://www.udemy.com/course/flutter-for-web-mobile-build-fast-flexible-applications/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "12",
+    "students": "4,395",
+    "duration": "Expand all sections",
+    "instructor": "Muhammad Riaz Uddin",
+    "language": "Your First Flutter App",
+    "category": "development",
+    "status": "OK"
   }
 ]

@@ -9023,5 +9023,24 @@
     "language": "English",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 476,
+    "added_at": "2026-03-16 20:49:54",
+    "title": "AZ-700:Designing and Implementing Azure Networking Solutions",
+    "headline": "AZ-700:Designing and Implementing Azure Networking Solutions study course",
+    "image": "https://img-c.udemycdn.com/course/480x270/4285156_5248_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/sEHQG9l",
+    "udemy_url": "https://www.udemy.com/course/azure-exam-700/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "4,386",
+    "students": "30,472",
+    "duration": "Expand all sections",
+    "instructor": "Alan Rodrigues",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

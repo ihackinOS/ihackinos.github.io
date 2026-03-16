@@ -8301,5 +8301,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 438,
+    "added_at": "2026-03-16 20:35:26",
+    "title": "AZ-104: Azure Administrator Practice Exams – 2025",
+    "headline": "Pass the AZ-104 exam with 360 practice questions & in-depth answers on Azure compute, identity, governance & more",
+    "image": "https://img-c.udemycdn.com/course/480x270/6665471_60ba.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/VC81B1",
+    "udemy_url": "https://www.udemy.com/course/az-104-exam-practice-tests-microsoft-azure-administrator/",
+    "price": "₫369,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "0",
+    "students": "6",
+    "duration": "",
+    "instructor": "Dreamer Hub",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

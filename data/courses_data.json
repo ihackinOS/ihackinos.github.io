@@ -23748,5 +23748,24 @@
     "language": "English",
     "category": "** photography-and-video",
     "status": "OK"
+  },
+  {
+    "id": 1251,
+    "added_at": "2026-03-16 11:13:07",
+    "title": "Complete Node.js Bootcamp: From Basics to Advanced",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/OZHM",
+    "udemy_url": "https://www.udemy.com/course/complete-nodejs-bootcamp-from-basics-to-advanced/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** development",
+    "status": "OK"
   }
 ]

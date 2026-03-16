@@ -10087,5 +10087,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 532,
+    "added_at": "2026-03-16 22:18:55",
+    "title": "Mastering Data Magic : Power BI + Tableau + SQL , Analytics",
+    "headline": "Data Analytics with Power BI , Tableau and SQL",
+    "image": "https://img-c.udemycdn.com/course/480x270/5606140_70e7.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/SBXHrD",
+    "udemy_url": "https://www.udemy.com/course/mastering-data-magic-power-bi-tableau-analytics/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "471",
+    "students": "37,631",
+    "duration": "Expand all sections",
+    "instructor": "ZK Tutorials",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

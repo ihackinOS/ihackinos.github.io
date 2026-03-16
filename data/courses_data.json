@@ -7959,5 +7959,24 @@
     "language": "English",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 420,
+    "added_at": "2026-03-16 20:20:49",
+    "title": "Learn JavaScript by Creating 10 Practical Projects",
+    "headline": "JavaScript Mastery build 10 Real-World Applications from Scratch learn HTML, CSS, and JavaScript.",
+    "image": "https://img-c.udemycdn.com/course/480x270/5396824_9f3d_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/3Psi",
+    "udemy_url": "https://www.udemy.com/course/learn-javascript-by-creating-10-practical-projects/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "413",
+    "students": "63,325",
+    "duration": "Expand all sections",
+    "instructor": "Vijay Kumar",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

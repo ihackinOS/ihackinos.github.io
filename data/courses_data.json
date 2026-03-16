@@ -530,5 +530,24 @@
     "language": "English",
     "category": "marketing",
     "status": "OK"
+  },
+  {
+    "id": 29,
+    "added_at": "2026-03-16 11:58:36",
+    "title": "We can’t find the page you’re looking for",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6900529_e7bf_2.jpg",
+    "enroll_url": "https://cuty.io/J7QeeqAeOmQd",
+    "udemy_url": "https://www.udemy.com/course/master-website-creation-15-website-platforms-in-1-course/",
+    "price": "",
+    "is_free": false,
+    "rating": "0",
+    "rating_count": "0",
+    "students": "0",
+    "duration": "",
+    "instructor": "",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

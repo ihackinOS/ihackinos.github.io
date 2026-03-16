@@ -9232,5 +9232,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 487,
+    "added_at": "2026-03-16 20:54:03",
+    "title": "AI Digital Marketing: SEO, Google Ads & Automation",
+    "headline": "Use ChatGPT & AI tools to automate SEO, PPC, content, email marketing & analytics—and drive real sales.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6746061_ee3e.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/AvRSS",
+    "udemy_url": "https://www.udemy.com/course/ai-digital-marketing-master-seo-ads-sales/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "122",
+    "students": "12,254",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "marketing",
+    "status": "OK"
   }
 ]

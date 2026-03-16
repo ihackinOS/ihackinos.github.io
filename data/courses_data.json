@@ -9840,5 +9840,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 519,
+    "added_at": "2026-03-16 21:06:08",
+    "title": "Complete Video Editing BootCamp Beginner to Advanced",
+    "headline": "Learn Video Editing With Adobe Premire Pro, After Effect, Filmora, Davinci Resolve",
+    "image": "https://img-c.udemycdn.com/course/480x270/5408172_62aa.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/fLGt7Z0BAzX",
+    "udemy_url": "https://www.udemy.com/course/complete-video-editing-bootcamp-beginner-to-advanced/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "334",
+    "students": "46,115",
+    "duration": "Expand all sections",
+    "instructor": "Marcus Menti",
+    "language": "English (US)",
+    "category": "photography-and-video",
+    "status": "OK"
   }
 ]

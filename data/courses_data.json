@@ -10543,5 +10543,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 556,
+    "added_at": "2026-03-16 22:28:20",
+    "title": "Programming Bootcamp with Python, JavaScript, C++, PHP MySql",
+    "headline": "Learn Python, C++, JavaScript, and PHP/MySQL in a Comprehensive Web and App Development Bootcamp",
+    "image": "https://img-c.udemycdn.com/course/480x270/6508535_6aa1_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/kQhqMN2zZuFj",
+    "udemy_url": "https://www.udemy.com/course/programming-bootcamp-with-web-and-application-development/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "114",
+    "students": "14,730",
+    "duration": "Expand all sections",
+    "instructor": "Sayman Creative Institute",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

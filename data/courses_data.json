@@ -22399,5 +22399,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1180,
+    "added_at": "2026-03-16 08:43:57",
+    "title": "Good Manufacturing Practices Course",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/xQVs",
+    "udemy_url": "https://www.udemy.com/course/good-manufacturing-practices-gmp-certification-course/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "** English (US)",
+    "category": "** teaching-and-academics",
+    "status": "OK"
   }
 ]

@@ -24109,5 +24109,24 @@
     "language": "English",
     "category": "** business",
     "status": "OK"
+  },
+  {
+    "id": 1270,
+    "added_at": "2026-03-16 11:19:02",
+    "title": "Microsoft Excel Masterclass: From Beginner to Advanced",
+    "headline": "",
+    "image": "",
+    "enroll_url": "https://cuty.io/nx5S5",
+    "udemy_url": "https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/",
+    "price": "",
+    "is_free": false,
+    "rating": "",
+    "rating_count": "",
+    "students": "",
+    "duration": "",
+    "instructor": "",
+    "language": "English",
+    "category": "** office-productivity",
+    "status": "OK"
   }
 ]

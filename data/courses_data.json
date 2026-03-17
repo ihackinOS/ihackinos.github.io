@@ -17060,5 +17060,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 899,
+    "added_at": "2026-03-17 18:47:48",
+    "title": "ISO 50001 Energy Management Systems Lead Auditor Course",
+    "headline": "Complete ISO 50001 Energy Management Systems (EnMS) Lead Auditor Certification Course",
+    "image": "https://img-c.udemycdn.com/course/480x270/4289720_6635.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/mt1dkTfOh",
+    "udemy_url": "https://www.udemy.com/course/iso-50001-energy-management-systems-lead-auditor-course/",
+    "price": "₫698,000",
+    "is_free": false,
+    "rating": "3.7",
+    "rating_count": "165",
+    "students": "420",
+    "duration": "Expand all sections",
+    "instructor": "Olanab Consults",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

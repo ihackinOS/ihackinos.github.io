@@ -16718,5 +16718,24 @@
     "language": "English",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 881,
+    "added_at": "2026-03-17 18:40:59",
+    "title": "Alibaba - ACP Cloud Computing Professional Mock Exam [2026]",
+    "headline": "Prepare the ACP Cloud Computing Professional. 100 unique high-quality test questions with detailed explanations!",
+    "image": "https://img-c.udemycdn.com/course/480x270/6069547_4899.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/hM03gy",
+    "udemy_url": "https://www.udemy.com/course/alibaba-cloud-computing-professional/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.2",
+    "rating_count": "2",
+    "students": "2,272",
+    "duration": "",
+    "instructor": "Exams Practice Tests Academy",
+    "language": "English",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

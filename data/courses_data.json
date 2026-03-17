@@ -15008,5 +15008,24 @@
     "language": "Theory And practical demonstrations of CSS concepts",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 791,
+    "added_at": "2026-03-17 17:27:27",
+    "title": "Introduction to Telecommunications: A Beginner's Guide",
+    "headline": "أساسيات الاتصالات السلكية واللاسلكية: فهم نظري وعملي شامل لأنظمة الاتصال وتطورها",
+    "image": "https://img-c.udemycdn.com/course/480x270/6349335_9a25_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/WxbP",
+    "udemy_url": "https://www.udemy.com/course/introduction-to-telecommunications-a-beginners-guide/",
+    "price": "₫399,000",
+    "is_free": false,
+    "rating": "4.9",
+    "rating_count": "12",
+    "students": "1,082",
+    "duration": "Expand all sections",
+    "instructor": "Mostafa Khalid Sallam",
+    "language": "Arabic",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

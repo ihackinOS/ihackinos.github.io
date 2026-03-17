@@ -15749,5 +15749,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 830,
+    "added_at": "2026-03-17 17:42:15",
+    "title": "AI for Managers and Leaders",
+    "headline": "Use AI to address threat of Automation without accountability and leverage opportunity of Human judgment + leadership",
+    "image": "https://img-c.udemycdn.com/course/480x270/7054937_255d.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/7VwDhEg13G",
+    "udemy_url": "https://www.udemy.com/course/ai-for-managers-and-leaders/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.8",
+    "rating_count": "0",
+    "students": "123",
+    "duration": "Expand all sections",
+    "instructor": "Arun Singhal B-Tech, MBA (IIM-B),Unilever, J&J, Danone, IIMU, Cello",
+    "language": "English (US)",
+    "category": "personal-development",
+    "status": "OK"
   }
 ]

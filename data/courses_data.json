@@ -16813,5 +16813,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 886,
+    "added_at": "2026-03-17 18:42:54",
+    "title": "Agile Coach Certification",
+    "headline": "Agile Coach Certification by Agile Enterprise Coach",
+    "image": "https://img-c.udemycdn.com/course/480x270/6209693_4d47.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/cNf5a8dbh",
+    "udemy_url": "https://www.udemy.com/course/agile-coach-certification/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.8",
+    "rating_count": "144",
+    "students": "14,535",
+    "duration": "Expand all sections",
+    "instructor": "Vipesh Singla , MBA, Certified SAFe Agile Coach",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

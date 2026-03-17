@@ -12215,5 +12215,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 644,
+    "added_at": "2026-03-17 12:46:15",
+    "title": "Adobe Premiere Pro Advanced Video Editing Course",
+    "headline": "Learn Advance Video Editing and Motiongraphy",
+    "image": "https://img-c.udemycdn.com/course/480x270/5382116_b978.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/MvFzlcINfp",
+    "udemy_url": "https://www.udemy.com/course/adobe-premiere-pro-advanced-video-editing-course/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.3",
+    "rating_count": "362",
+    "students": "56,687",
+    "duration": "Introduction",
+    "instructor": "Marcus Menti",
+    "language": "English (US)",
+    "category": "photography-and-video",
+    "status": "OK"
   }
 ]

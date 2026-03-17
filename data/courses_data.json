@@ -12272,5 +12272,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 647,
+    "added_at": "2026-03-17 12:47:16",
+    "title": "Executive Diploma in Marketing Management",
+    "headline": "Marketing Principles, Management and Strategy, Targeting, Segmentation, Pricing, 4P, SWOT, Promotion, Marketing Control",
+    "image": "https://img-c.udemycdn.com/course/480x270/5203406_e09f_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/60a8VS",
+    "udemy_url": "https://www.udemy.com/course/marketing-management-principles/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "619",
+    "students": "35,954",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "marketing",
+    "status": "OK"
   }
 ]

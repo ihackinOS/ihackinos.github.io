@@ -13526,5 +13526,24 @@
     "language": "English",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 713,
+    "added_at": "2026-03-17 13:39:57",
+    "title": "CS0-003 CompTIA CySA+ Cybersecurity Analyst Practice Exams",
+    "headline": "Master threat detection, vulnerability management, incident response & security operations to ace the CySA+ exam in 2026",
+    "image": "https://img-c.udemycdn.com/course/480x270/7068933_f70a.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/feY07w",
+    "udemy_url": "https://www.udemy.com/course/cs0-comptia-cysa-cybersecurity-analyst-practice-exams/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "5.0",
+    "rating_count": "36",
+    "students": "304",
+    "duration": "",
+    "instructor": "Nex Arc",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

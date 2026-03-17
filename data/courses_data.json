@@ -11151,5 +11151,24 @@
     "language": "English (US)",
     "category": "teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 588,
+    "added_at": "2026-03-17 12:25:59",
+    "title": "We can’t find the page you’re looking for",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6571889_5b1e_2.jpg",
+    "enroll_url": "https://cuty.io/XA5plddlW7n",
+    "udemy_url": "https://www.udemy.com/course/pspo1-practice-test/",
+    "price": "",
+    "is_free": false,
+    "rating": "0",
+    "rating_count": "0",
+    "students": "0",
+    "duration": "",
+    "instructor": "",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

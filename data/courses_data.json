@@ -12918,5 +12918,24 @@
     "language": "English (US)",
     "category": "office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 681,
+    "added_at": "2026-03-17 13:27:56",
+    "title": "Complete PCEP Python Certification Course Beginner Friendly",
+    "headline": "PCEP Python Certified Entry Level Programmer Learn Python Programming Fundamentals Practice for Exam Become a Certified",
+    "image": "https://img-c.udemycdn.com/course/480x270/6922633_a6ea.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/vDS0NCJ",
+    "udemy_url": "https://www.udemy.com/course/complete-pcep-python-certification-course-beginner-friendly/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "37",
+    "students": "6,453",
+    "duration": "Introduction",
+    "instructor": "James Joab Soren",
+    "language": "English",
+    "category": "development",
+    "status": "OK"
   }
 ]

@@ -11873,5 +11873,24 @@
     "language": "English",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 626,
+    "added_at": "2026-03-17 12:39:50",
+    "title": "Todo jQuery... de novato a experto",
+    "headline": "Aprende desde lo básico de jQuery (actualizado a la versión 3.7) hasta hacer aplicaciones con esta sorprendente librería",
+    "image": "https://img-c.udemycdn.com/course/480x270/23114_ad39_10.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/1EUy0AVagJO",
+    "udemy_url": "https://www.udemy.com/course/jquery-y-mobile/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "147",
+    "students": "10,173",
+    "duration": "Expand all sections",
+    "instructor": "Francisco Javier Arce Anguiano",
+    "language": "Spanish (Mexico)",
+    "category": "development",
+    "status": "OK"
   }
 ]

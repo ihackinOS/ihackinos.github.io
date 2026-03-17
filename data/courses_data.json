@@ -14894,5 +14894,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 785,
+    "added_at": "2026-03-17 17:25:00",
+    "title": "Google Professional Cloud Network Engineer [Exams 2026]",
+    "headline": "[UPDATED] Practice Makes Perfect: Ace Google Cloud Networking as a Professional with Practice Exams!",
+    "image": "https://img-c.udemycdn.com/course/480x270/5447962_7667_7.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ZceKP7jK",
+    "udemy_url": "https://www.udemy.com/course/google-professional-cloud-network-engineer-practice-exams-cne/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.4",
+    "rating_count": "22",
+    "students": "12,225",
+    "duration": "",
+    "instructor": "Paweł Krakowiak",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

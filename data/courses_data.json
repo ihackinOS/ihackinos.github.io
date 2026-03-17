@@ -16566,5 +16566,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 873,
+    "added_at": "2026-03-17 17:58:24",
+    "title": "Data Science Model Evaluation - Practice Questions 2026",
+    "headline": "Data Science Model Evaluation & Metrics 120 unique high-quality test questions with detailed explanations!",
+    "image": "https://img-c.udemycdn.com/course/480x270/7073653_fdb0.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/kPKRW2w",
+    "udemy_url": "https://www.udemy.com/course/data-science-model-evaluation-questions/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "0",
+    "rating_count": "0",
+    "students": "100",
+    "duration": "",
+    "instructor": "Jitendra Suryavanshi",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

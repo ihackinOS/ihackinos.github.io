@@ -15901,5 +15901,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 838,
+    "added_at": "2026-03-17 17:45:19",
+    "title": "Personal Finance Course : Planning, Investing & Management",
+    "headline": "Learn Practical Approach with AI Coaching for Financial Literacy, Investment, Freedom; Money and Wealth Management 101",
+    "image": "https://img-c.udemycdn.com/course/480x270/5000836_1354_6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/J0YpCFEI9nK",
+    "udemy_url": "https://www.udemy.com/course/practical-approach-to-investing-personal-finances/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "189",
+    "students": "29,810",
+    "duration": "Expand all sections",
+    "instructor": "Arun Singhal B-Tech, MBA (IIM-B),Unilever, J&J, Danone, IIMU, Cello",
+    "language": "English (US)",
+    "category": "finance-and-accounting",
+    "status": "OK"
   }
 ]

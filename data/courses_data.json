@@ -16300,5 +16300,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 859,
+    "added_at": "2026-03-17 17:53:21",
+    "title": "Server Virtualization with Hyper-V and System Center",
+    "headline": "Start mastering MS System Center here. Learn to use Virtual Machine Manager",
+    "image": "https://img-c.udemycdn.com/course/480x270/2730408_5314_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/MgoeVYJ",
+    "udemy_url": "https://www.udemy.com/course/ms-system-center-intro-to-virtual-machine-manager/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "273",
+    "students": "8,053",
+    "duration": "Expand all sections",
+    "instructor": "Vitalii Shumylo",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

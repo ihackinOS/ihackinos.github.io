@@ -12120,5 +12120,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 639,
+    "added_at": "2026-03-17 12:44:23",
+    "title": "We can’t find the page you’re looking for",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6795483_a223_2.jpg",
+    "enroll_url": "https://cuty.io/Xrh8NIM99n",
+    "udemy_url": "https://www.udemy.com/course/ai-for-business-analysts-the-complete-training-course/",
+    "price": "",
+    "is_free": false,
+    "rating": "0",
+    "rating_count": "0",
+    "students": "0",
+    "duration": "",
+    "instructor": "",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

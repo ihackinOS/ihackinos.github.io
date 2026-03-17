@@ -12063,5 +12063,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 636,
+    "added_at": "2026-03-17 12:43:20",
+    "title": "Presentations with AI",
+    "headline": "Master AI-Powered Presentation Creation: From ChatGPT Prompts to Professional PowerPoint Slides in Minutes",
+    "image": "https://img-c.udemycdn.com/course/480x270/6363967_434c.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/wTowO",
+    "udemy_url": "https://www.udemy.com/course/presentations-with-chatgpt-aece/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "144",
+    "students": "18,524",
+    "duration": "Expand all sections",
+    "instructor": "Agile Enterprise Coach Europe",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

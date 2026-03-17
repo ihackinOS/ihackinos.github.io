@@ -14818,5 +14818,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 781,
+    "added_at": "2026-03-17 14:05:24",
+    "title": "Data Structures Algorithm DSA | Python+Javascript LEETCODE",
+    "headline": "Ultimate 25 days coding interview bootcamp. DSA, BigO, Coding Interview Patterns Python Javascript Get the job you want!",
+    "image": "https://img-c.udemycdn.com/course/480x270/4477020_eea5_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/IFChPo",
+    "udemy_url": "https://www.udemy.com/course/data-structures-and-algorithms-dsa/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "1,257",
+    "students": "92,921",
+    "duration": "Expand all sections",
+    "instructor": "Jackson Kailath",
+    "language": "English (US)",
+    "category": "teaching-and-academics",
+    "status": "OK"
   }
 ]

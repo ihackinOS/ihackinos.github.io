@@ -12937,5 +12937,24 @@
     "language": "English",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 682,
+    "added_at": "2026-03-17 13:28:17",
+    "title": "Microsoft Office and Google Workspace Masterclass",
+    "headline": "Microsoft Word Excel PowerPoint and Google Docs Sheets Slides Ideal for Beginners Professionals Students Job Seekers",
+    "image": "https://img-c.udemycdn.com/course/480x270/6815607_d6ed_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/tpTsF",
+    "udemy_url": "https://www.udemy.com/course/microsoft-office-and-google-workspace-masterclass/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "89",
+    "students": "9,760",
+    "duration": "Microsoft Office and Google Workspace",
+    "instructor": "Sustoab Soren",
+    "language": "English (US)",
+    "category": "office-productivity",
+    "status": "OK"
   }
 ]

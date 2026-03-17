@@ -14628,5 +14628,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 771,
+    "added_at": "2026-03-17 14:01:36",
+    "title": "Exam DP-700: Microsoft Fabric Data Engineer Associate Exams",
+    "headline": "[UPDATED 2026] Gain Confidence and Technical Proficiency to Excel in the Microsoft Fabric DP-700 Certification Exam!",
+    "image": "https://img-c.udemycdn.com/course/480x270/5033012_6677_7.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ulJ3i0jxiz4N",
+    "udemy_url": "https://www.udemy.com/course/exam-dp-700-microsoft-fabric-data-engineer-associate-exams/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "42",
+    "students": "9,534",
+    "duration": "",
+    "instructor": "Paweł Krakowiak",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

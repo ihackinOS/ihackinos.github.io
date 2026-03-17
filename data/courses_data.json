@@ -11417,5 +11417,24 @@
     "language": "English",
     "category": "Other",
     "status": "OK"
+  },
+  {
+    "id": 602,
+    "added_at": "2026-03-17 12:31:14",
+    "title": "Professional Diploma in Corporate Management",
+    "headline": "Professional Diploma in Corporate Management by MTF Institute",
+    "image": "https://img-c.udemycdn.com/course/480x270/4608318_ba6d.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/XiGTfcPst",
+    "udemy_url": "https://www.udemy.com/course/corporate_management/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.5",
+    "rating_count": "685",
+    "students": "26,662",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

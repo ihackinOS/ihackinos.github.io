@@ -11360,5 +11360,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 599,
+    "added_at": "2026-03-17 12:30:13",
+    "title": "Professional Diploma in Project Management",
+    "headline": "Professional Diploma in Project Management. Introduction to main areas of project management, tools of project manager",
+    "image": "https://img-c.udemycdn.com/course/480x270/4606632_2a39.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/MMmHFPsKJEq",
+    "udemy_url": "https://www.udemy.com/course/project-managers/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "3,400",
+    "students": "84,412",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

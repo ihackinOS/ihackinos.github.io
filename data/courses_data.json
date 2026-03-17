@@ -11132,5 +11132,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 587,
+    "added_at": "2026-03-17 12:25:41",
+    "title": "Keeping Children Safe in Education (KCSIE)",
+    "headline": "Practical Guidance on Safeguarding and Child Protection in Education",
+    "image": "https://img-c.udemycdn.com/course/480x270/7071277_4bbd.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/fHw6s",
+    "udemy_url": "https://www.udemy.com/course/keeping-children-safe-in-education-kcsie/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "0",
+    "students": "100",
+    "duration": "Expand all sections",
+    "instructor": "Gerald College",
+    "language": "English (US)",
+    "category": "teaching-and-academics",
+    "status": "OK"
   }
 ]

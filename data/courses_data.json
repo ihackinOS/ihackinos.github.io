@@ -17326,5 +17326,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 913,
+    "added_at": "2026-03-17 21:37:33",
+    "title": "Postgraduate Diploma in Supply Chain & Operations Management",
+    "headline": "Master Global Supply Chain & Operations Management: Inventory, Logistics, Procurement, Lean, Six Sigma & SCM Strategies",
+    "image": "https://img-c.udemycdn.com/course/480x270/6609829_4ec7_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/TaSnu3YqCrM",
+    "udemy_url": "https://www.udemy.com/course/pgd-in-scom/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "33",
+    "students": "2,265",
+    "duration": "Expand all sections",
+    "instructor": "Md. Aliful Islam",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

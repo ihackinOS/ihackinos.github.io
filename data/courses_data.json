@@ -14058,5 +14058,24 @@
     "language": "Arabic",
     "category": "teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 741,
+    "added_at": "2026-03-17 13:50:17",
+    "title": "Executive Diploma in Innovation Management",
+    "headline": "Executive course at management in area of innovations, startups, investments, business and entrepreneurship leadership",
+    "image": "https://img-c.udemycdn.com/course/480x270/5319702_023d.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/13tML16QBq9",
+    "udemy_url": "https://www.udemy.com/course/innovations/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.4",
+    "rating_count": "302",
+    "students": "25,384",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

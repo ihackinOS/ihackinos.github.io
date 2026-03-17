@@ -15977,5 +15977,24 @@
     "language": "English (US)",
     "category": "design",
     "status": "OK"
+  },
+  {
+    "id": 842,
+    "added_at": "2026-03-17 17:46:54",
+    "title": "Java Programming Masterclass: Beginner to Expert (Java 17+)",
+    "headline": "Master Core Java, OOP, Collections, Threads & More. Build Real Projects & Crack Java Coding Interviews Easily.",
+    "image": "https://img-c.udemycdn.com/course/480x270/4174624_d65e_6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/bIbj3jSkd",
+    "udemy_url": "https://www.udemy.com/course/the-complete-java-programming-bootcamp-zero-to-mastery-in-java/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "4,493",
+    "students": "21,602",
+    "duration": "Expand all sections",
+    "instructor": "Vinoth P",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

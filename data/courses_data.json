@@ -11265,5 +11265,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 594,
+    "added_at": "2026-03-17 12:28:20",
+    "title": "Git Version Control for Developers",
+    "headline": "Learn how to use Git, the most widely used version control software.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6866891_2adb_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/juvr4pRQ",
+    "udemy_url": "https://www.udemy.com/course/git-vsc-essentials/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.2",
+    "rating_count": "157",
+    "students": "7,952",
+    "duration": "Expand all sections",
+    "instructor": "Martijn Vissers",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

@@ -17174,5 +17174,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 905,
+    "added_at": "2026-03-17 18:50:03",
+    "title": "Agile Professional Certification",
+    "headline": "Agile Certified Professional (AGCP) Assessment by MTF Institute",
+    "image": "https://img-c.udemycdn.com/course/480x270/5470222_803d_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/KVUeY",
+    "udemy_url": "https://www.udemy.com/course/agile-certified-professional/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "362",
+    "students": "26,312",
+    "duration": "",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

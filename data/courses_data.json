@@ -11797,5 +11797,24 @@
     "language": "Practically Getting Started With CSS Styles, CSS 2D Transform, CSS 3D Transform",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 622,
+    "added_at": "2026-03-17 12:38:22",
+    "title": "Android Projects Course Build 3 Applications from Scratch",
+    "headline": "Mastering Android Development By Building Three Dynamic Applications with Our Comprehensive Projects Course",
+    "image": "https://img-c.udemycdn.com/course/480x270/5672420_7ba7.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/9os75bK3nS",
+    "udemy_url": "https://www.udemy.com/course/android-projects-course-build-3-applications-from-scratch/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "48",
+    "students": "27,217",
+    "duration": "Expand all sections",
+    "instructor": "Vijay Kumar",
+    "language": "Hindi",
+    "category": "development",
+    "status": "OK"
   }
 ]

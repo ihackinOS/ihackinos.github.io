@@ -13317,5 +13317,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 702,
+    "added_at": "2026-03-17 13:35:51",
+    "title": "Wireless Networks & SDR : GSM, SS7, GPRS, LTE & 5G Hacks",
+    "headline": "Master the mobile networks from GSM to 5G, SS7, GPRS,SS7 Vulnerability, GNU Radio, HackRF and Get Your skills NOW today!",
+    "image": "https://img-c.udemycdn.com/course/480x270/6341477_a404_6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/EzhnkK",
+    "udemy_url": "https://www.udemy.com/course/gsm-gprs-ss7-edge-masterclass/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "86",
+    "students": "17,409",
+    "duration": "Expand all sections",
+    "instructor": "OCSALY Academy | 560.000+ Students",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

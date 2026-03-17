@@ -15787,5 +15787,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 832,
+    "added_at": "2026-03-17 17:43:00",
+    "title": "Finance and Accounting Fundamentals for non finance students",
+    "headline": "Financial concepts like bookkeeping, us gaap, accounts receivable & payable, management accounting, quickbooks",
+    "image": "https://img-c.udemycdn.com/course/480x270/6138655_59e8.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/KpHAq",
+    "udemy_url": "https://www.udemy.com/course/finance-and-accounting-fundamentals/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "138",
+    "students": "12,273",
+    "duration": "Expand all sections",
+    "instructor": "Arun Singhal B-Tech, MBA (IIM-B),Unilever, J&J, Danone, IIMU, Cello",
+    "language": "English (US)",
+    "category": "finance-and-accounting",
+    "status": "OK"
   }
 ]

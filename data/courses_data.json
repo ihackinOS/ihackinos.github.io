@@ -12880,5 +12880,24 @@
     "language": "English (US)",
     "category": "office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 679,
+    "added_at": "2026-03-17 12:59:15",
+    "title": "Digital Marketing Professional Certification",
+    "headline": "Digital Marketing Certification and preparing for certification at other providers",
+    "image": "https://img-c.udemycdn.com/course/480x270/5249512_56c0.jpg?w=3840&q=75",
+    "enroll_url": "https://www.udemy.com/course/digital-marketing-expert-assessment/",
+    "udemy_url": "https://www.udemy.com/course/digital-marketing-expert-assessment/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "986",
+    "students": "45,045",
+    "duration": "",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "marketing",
+    "status": "OK"
   }
 ]

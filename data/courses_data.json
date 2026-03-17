@@ -16699,5 +16699,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 880,
+    "added_at": "2026-03-17 18:40:33",
+    "title": "Node JS Interview Preparation Questions 2026",
+    "headline": "250+ Node JS Interview Questions and Answers MCQ Practice Test Quiz with Detailed Explanations.",
+    "image": "https://img-c.udemycdn.com/course/480x270/5690510_72a7.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/IGTvTI",
+    "udemy_url": "https://www.udemy.com/course/node-js-mcq/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "0",
+    "students": "4,466",
+    "duration": "",
+    "instructor": "Exams Practice Tests Academy",
+    "language": "English",
+    "category": "development",
+    "status": "OK"
   }
 ]

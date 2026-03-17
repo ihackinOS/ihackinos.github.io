@@ -11512,5 +11512,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 607,
+    "added_at": "2026-03-17 12:32:59",
+    "title": "Professional Diploma in Digital Products Management",
+    "headline": "Program with business cases (Fintech, Retail Banking, Digital Business) & Interactive part",
+    "image": "https://img-c.udemycdn.com/course/480x270/4592914_5934.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/MhamdXv2ysLW",
+    "udemy_url": "https://www.udemy.com/course/digital-product-owner/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "3.7",
+    "rating_count": "520",
+    "students": "58,009",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

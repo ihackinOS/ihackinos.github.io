@@ -11493,5 +11493,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 606,
+    "added_at": "2026-03-17 12:32:38",
+    "title": "Ultimate Argo Bootcamp by School of Devops® | 6 Projects",
+    "headline": "Build a CI/CD Pipeline on Kubernetes with Argo Rollouts, ArgoCD, Argo Workflows and Events, Argo Image Updater",
+    "image": "https://img-c.udemycdn.com/course/480x270/6147733_2fe4_7.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/eJPvf",
+    "udemy_url": "https://www.udemy.com/course/ultimate-argo-bootcamp-by-school-of-devops/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "59",
+    "students": "13,653",
+    "duration": "Expand all sections",
+    "instructor": "School of Devops",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

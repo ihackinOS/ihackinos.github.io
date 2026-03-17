@@ -16129,5 +16129,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 850,
+    "added_at": "2026-03-17 17:49:53",
+    "title": "400 Python FastAPI Interview Questions with Answers 2026",
+    "headline": "Python FastAPI Interview Questions Practice Test | Freshers to Experienced | Detailed Explanations for Each Question",
+    "image": "https://img-c.udemycdn.com/course/480x270/7079881_d299_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Qq7OA2wxG2K",
+    "udemy_url": "https://www.udemy.com/course/python-fastapi-interview-questions-with-answers/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "0",
+    "students": "100",
+    "duration": "",
+    "instructor": "Interview Questions Tests",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

@@ -15768,5 +15768,24 @@
     "language": "English (US)",
     "category": "personal-development",
     "status": "OK"
+  },
+  {
+    "id": 831,
+    "added_at": "2026-03-17 17:42:36",
+    "title": "AI for CRM (Customer Relationship Management) Excellence",
+    "headline": "Use AI for CRM including Personalized Customer Experiences, Sales and Marketing Intelligence, Real-time Decision Support",
+    "image": "https://img-c.udemycdn.com/course/480x270/6630759_b825.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/VFtmQ1",
+    "udemy_url": "https://www.udemy.com/course/ai-for-crm-customer-relationship-management-excellence/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "45",
+    "students": "8,866",
+    "duration": "Expand all sections",
+    "instructor": "Arun Singhal B-Tech, MBA (IIM-B),Unilever, J&J, Danone, IIMU, Cello",
+    "language": "English",
+    "category": "business",
+    "status": "OK"
   }
 ]

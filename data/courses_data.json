@@ -14609,5 +14609,24 @@
     "language": "English",
     "category": "Other",
     "status": "OK"
+  },
+  {
+    "id": 770,
+    "added_at": "2026-03-17 14:01:13",
+    "title": "Prompt Engineering Professional Certification",
+    "headline": "Master prompt engineering techniques and prepare for certification exams confidently.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6145379_5f0f.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/QjhrutF1",
+    "udemy_url": "https://www.udemy.com/course/prompt-engineering-professional-certification-x/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "5.0",
+    "rating_count": "4",
+    "students": "464",
+    "duration": "",
+    "instructor": "Abdellatif Abid",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

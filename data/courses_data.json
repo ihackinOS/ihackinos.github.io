@@ -15578,5 +15578,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 821,
+    "added_at": "2026-03-17 17:38:52",
+    "title": "Certifícate en Programación. LPI Web Development Essentials",
+    "headline": "Da tus primeros pasos en Programación. Obtén la Certificación en LPI Web Development Essentials y Empieza a trabajar",
+    "image": "https://img-c.udemycdn.com/course/480x270/5811488_b47c_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/qhqRHGYz",
+    "udemy_url": "https://www.udemy.com/course/certificate-programacion-lpi-web-development-essentials/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "28",
+    "students": "12,420",
+    "duration": "Expand all sections",
+    "instructor": "Alvaro Chirou",
+    "language": "Spanish (Spain)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

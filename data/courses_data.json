@@ -15198,5 +15198,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 801,
+    "added_at": "2026-03-17 17:31:16",
+    "title": "Microsoft Office: Excel, Word, PowerPoint and Teams for Pro",
+    "headline": "Become a Microsoft Office Power User: Excel, Word, PowerPoint and Teams for Pro-Level Mastery and Workplace Excellence.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6134619_4f29_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/sfK26",
+    "udemy_url": "https://www.udemy.com/course/microsoft-office-excel-word-powerpoint-and-teams-for-pro/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "151",
+    "students": "13,605",
+    "duration": "Expand all sections",
+    "instructor": "Click Learning",
+    "language": "English (US)",
+    "category": "office-productivity",
+    "status": "OK"
   }
 ]

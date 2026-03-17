@@ -15882,5 +15882,24 @@
     "language": "English (US)",
     "category": "marketing",
     "status": "OK"
+  },
+  {
+    "id": 837,
+    "added_at": "2026-03-17 17:44:57",
+    "title": "AI for Data Driven Management Excellence",
+    "headline": "Use artificial intelligence to Extract Insights, Decision-Making, Process Automation and Strategic Management support",
+    "image": "https://img-c.udemycdn.com/course/480x270/6713235_10ea.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/cEF7UTAzj",
+    "udemy_url": "https://www.udemy.com/course/ai-for-data-driven-management-excellence/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "19",
+    "students": "7,479",
+    "duration": "Expand all sections",
+    "instructor": "Arun Singhal B-Tech, MBA (IIM-B),Unilever, J&J, Danone, IIMU, Cello",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

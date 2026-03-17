@@ -14172,5 +14172,24 @@
     "language": "English",
     "category": "marketing",
     "status": "OK"
+  },
+  {
+    "id": 747,
+    "added_at": "2026-03-17 13:52:26",
+    "title": "AWS Certified Data Engineer - Associate [Mock Exams 2026]",
+    "headline": "[UPDATED] Get exam-ready with targeted AWS data engineering practice exams covering key latest objectives!",
+    "image": "https://img-c.udemycdn.com/course/480x270/5655796_35bf_6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/w226y5W1",
+    "udemy_url": "https://www.udemy.com/course/aws-certified-data-engineer-associate-dea-c01-exams/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "20",
+    "students": "3,590",
+    "duration": "",
+    "instructor": "Paweł Krakowiak",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

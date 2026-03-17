@@ -13659,5 +13659,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 720,
+    "added_at": "2026-03-17 13:42:35",
+    "title": "Kanban Basics: A Step-by-Step Guide (Vietnamese)",
+    "headline": "Từ quá tải công việc đến dòng chảy ổn định",
+    "image": "https://img-c.udemycdn.com/course/480x270/6957359_a242.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/IEc660HV2dDB",
+    "udemy_url": "https://www.udemy.com/course/kanban-method/",
+    "price": "Free",
+    "is_free": true,
+    "rating": "4.9",
+    "rating_count": "15",
+    "students": "827",
+    "duration": "Expand all sections",
+    "instructor": "GreenLearn VCA",
+    "language": "Vietnamese",
+    "category": "business",
+    "status": "OK"
   }
 ]

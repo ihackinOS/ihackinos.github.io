@@ -17022,5 +17022,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 897,
+    "added_at": "2026-03-17 18:47:01",
+    "title": "JavaScript Developer Interview Preparation Questions [2026]",
+    "headline": "700+ JavaScript Developer Interview Questions and Answers MCQ Practice Test Quiz with Detailed Explanations.",
+    "image": "https://img-c.udemycdn.com/course/480x270/5655844_6bec.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/o2cTzC9R",
+    "udemy_url": "https://www.udemy.com/course/javascript-developer-interview-questions/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "2.5",
+    "rating_count": "1",
+    "students": "2,929",
+    "duration": "",
+    "instructor": "Exams Practice Tests Academy",
+    "language": "English",
+    "category": "development",
+    "status": "OK"
   }
 ]

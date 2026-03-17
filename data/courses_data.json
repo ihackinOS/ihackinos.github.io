@@ -15806,5 +15806,24 @@
     "language": "English (US)",
     "category": "finance-and-accounting",
     "status": "OK"
+  },
+  {
+    "id": 833,
+    "added_at": "2026-03-17 17:43:24",
+    "title": "Master in Integrated Operations & Supply Chain Management",
+    "headline": "Business outsourcing, production, procurement, inventory control, logistics, operation for scm analyst to manager to coo",
+    "image": "https://img-c.udemycdn.com/course/480x270/5788288_4b6f_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/qi0lh",
+    "udemy_url": "https://www.udemy.com/course/master-in-operations-supply-chain-management-moscm-course/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "325",
+    "students": "17,638",
+    "duration": "Expand all sections",
+    "instructor": "Arun Singhal B-Tech, MBA (IIM-B),Unilever, J&J, Danone, IIMU, Cello",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

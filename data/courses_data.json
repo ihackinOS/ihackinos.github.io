@@ -13393,5 +13393,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 706,
+    "added_at": "2026-03-17 13:37:19",
+    "title": "Python Complete Course And Flask Framework, HTML Essentials",
+    "headline": "Python Complete Course For Python Beginners.Learn Python and Flask Framework and HTML From Beginner To Advanced Level",
+    "image": "https://img-c.udemycdn.com/course/480x270/5865880_9953.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/9O2NgEt8",
+    "udemy_url": "https://www.udemy.com/course/python-complete-course-and-flask-framework-html-2024-edition/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "866",
+    "students": "59,161",
+    "duration": "Expand all sections",
+    "instructor": "Horizon Tech",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

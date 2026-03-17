@@ -12747,5 +12747,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 672,
+    "added_at": "2026-03-17 12:56:48",
+    "title": "Customer Service Training: Maintaining Customer Satisfaction",
+    "headline": "Customer Service | AI Chatbots | KYC & AML | Customer Support | Customer Experience | Problem-Solving | CRM",
+    "image": "https://img-c.udemycdn.com/course/480x270/6634699_2887_5.jpg?w=3840&q=75",
+    "enroll_url": "https://www.udemy.com/course/diving-customer-service-kyc-compliance-with-ai-chatbots/",
+    "udemy_url": "https://www.udemy.com/course/diving-customer-service-kyc-compliance-with-ai-chatbots/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "28",
+    "students": "5,626",
+    "duration": "Expand all sections",
+    "instructor": "Amadur Rahman",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

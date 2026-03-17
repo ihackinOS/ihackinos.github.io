@@ -12253,5 +12253,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 646,
+    "added_at": "2026-03-17 12:46:52",
+    "title": "C Programming Interview Preparation Questions [2026]",
+    "headline": "500+ C Interview Questions and Answers MCQ Practice Test Quiz with Detailed Explanations.",
+    "image": "https://img-c.udemycdn.com/course/480x270/5671962_d9f6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/MLqBy",
+    "udemy_url": "https://www.udemy.com/course/c-programming-mcq/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "0",
+    "students": "2,576",
+    "duration": "",
+    "instructor": "Exams Practice Tests Academy",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

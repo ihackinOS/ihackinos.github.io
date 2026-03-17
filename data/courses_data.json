@@ -11303,5 +11303,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 596,
+    "added_at": "2026-03-17 12:29:05",
+    "title": "Become an Awesome Instructional Designer",
+    "headline": "Gamification, Solve Real Learning Problems and Motivate Learners",
+    "image": "https://img-c.udemycdn.com/course/480x270/633444_b736_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/1GNWZj5K1k83",
+    "udemy_url": "https://www.udemy.com/course/become-an-awesome-instructional-designer/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "987",
+    "students": "15,706",
+    "duration": "Expand all sections",
+    "instructor": "Belvista Studios",
+    "language": "English (UK)",
+    "category": "personal-development",
+    "status": "OK"
   }
 ]

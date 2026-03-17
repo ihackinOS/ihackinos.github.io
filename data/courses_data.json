@@ -14096,5 +14096,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 743,
+    "added_at": "2026-03-17 13:51:01",
+    "title": "AWS Certified CloudOps Engineer Associate [Exams 2026]",
+    "headline": "Master Cloud Operations with Six Full-Length Practice Exams Covering Core AWS Services and Exam Domains!",
+    "image": "https://img-c.udemycdn.com/course/480x270/6820991_6a5e.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/c4y6aW9APJ",
+    "udemy_url": "https://www.udemy.com/course/aws-certified-cloudops-engineer-associate-exams/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "5.0",
+    "rating_count": "2",
+    "students": "1,660",
+    "duration": "",
+    "instructor": "Paweł Krakowiak",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

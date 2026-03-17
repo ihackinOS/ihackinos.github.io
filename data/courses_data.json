@@ -16794,5 +16794,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 885,
+    "added_at": "2026-03-17 18:42:31",
+    "title": "Contact Center Manager Professional Certification",
+    "headline": "Certified Sales &amp; Service Contact Center Manager (SSCCM) Certification Assessment by MTF Institute",
+    "image": "https://img-c.udemycdn.com/course/480x270/5451212_5f3f_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/IZHjJPGVo",
+    "udemy_url": "https://www.udemy.com/course/sales-service-contact-center-manager/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "155",
+    "students": "13,625",
+    "duration": "",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English",
+    "category": "business",
+    "status": "OK"
   }
 ]

@@ -15844,5 +15844,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 835,
+    "added_at": "2026-03-17 17:44:08",
+    "title": "AI (Artificial Intelligence) for Project Planning Excellence",
+    "headline": "Learn to use AI for Analyzing Project Timelines, Optimizing Resource Allocation, Identifying Potential Bottlenecks",
+    "image": "https://img-c.udemycdn.com/course/480x270/6695941_7bc5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Y0JJr8M",
+    "udemy_url": "https://www.udemy.com/course/ai-artificial-intelligence-for-project-planning-excellence/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "29",
+    "students": "7,668",
+    "duration": "Expand all sections",
+    "instructor": "Arun Singhal B-Tech, MBA (IIM-B),Unilever, J&J, Danone, IIMU, Cello",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

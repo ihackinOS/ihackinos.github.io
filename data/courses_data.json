@@ -13450,5 +13450,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 709,
+    "added_at": "2026-03-17 13:38:30",
+    "title": "Automating Windows Deployment Images Using MDT and WDS",
+    "headline": "Learn how to efficiently deploy Windows 11 across your organization using the powerful tools of Microsoft Deployment",
+    "image": "https://img-c.udemycdn.com/course/480x270/6028092_f054_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/K1NykVRbx",
+    "udemy_url": "https://www.udemy.com/course/automating-windows-deployment-images-using-mdt-and-wds/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "61",
+    "students": "262",
+    "duration": "Getting Started with WDS",
+    "instructor": "Vitalii Shumylo",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

@@ -17155,5 +17155,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 904,
+    "added_at": "2026-03-17 18:49:41",
+    "title": "Linux Mastery: LPIC-1 (101-500 and 102-500) Ultimate Prep",
+    "headline": "LPIC-1 exam practice questions: Bash, Networking, Process Control, Storage Management, Logs, and Scripting. Pass 100%",
+    "image": "https://img-c.udemycdn.com/course/480x270/6171551_01af_7.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/F5pSycY8",
+    "udemy_url": "https://www.udemy.com/course/lpic-1-ultimate-prep/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "21",
+    "students": "6,518",
+    "duration": "Expand all sections",
+    "instructor": "Vitalii Shumylo",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

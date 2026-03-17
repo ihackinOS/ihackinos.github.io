@@ -16870,5 +16870,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 889,
+    "added_at": "2026-03-17 18:44:05",
+    "title": "Complete Resume Masterclass for Developers Using ChatGPT",
+    "headline": "Using ChatGPT to create a unique resume that will help you stand out from the crowd and secure your next role",
+    "image": "https://img-c.udemycdn.com/course/480x270/6898789_681b.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/JCkZdL0",
+    "udemy_url": "https://www.udemy.com/course/complete-resume-masterclass-for-developers-using-chatgpt/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "7",
+    "students": "337",
+    "duration": "Expand all sections",
+    "instructor": "Codestars • over 2.5 million students worldwide!",
+    "language": "English (US)",
+    "category": "personal-development",
+    "status": "OK"
   }
 ]

@@ -11550,5 +11550,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 609,
+    "added_at": "2026-03-17 12:33:47",
+    "title": "Professional Diploma in CRM Platforms Management",
+    "headline": "CRM Platforms at Sales, Service, Marketing and Business Management (Siebel, Dynamics CRM/365, Salesforce, SAP CRM)",
+    "image": "https://img-c.udemycdn.com/course/480x270/4508686_ba6e.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/NqZKn8",
+    "udemy_url": "https://www.udemy.com/course/crm-at-sales-service-marketing-and-business-management/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.7",
+    "rating_count": "1,078",
+    "students": "65,090",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

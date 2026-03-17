@@ -14856,5 +14856,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 783,
+    "added_at": "2026-03-17 17:24:10",
+    "title": "CrowdStrike Certified Falcon Administrator CCFA [Exams 2026]",
+    "headline": "Prepare for the CCFA Exam with Realistic Mock Tests Based on the Latest Objectives!",
+    "image": "https://img-c.udemycdn.com/course/480x270/6360441_cdf3_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/fA1kO6Nstt",
+    "udemy_url": "https://www.udemy.com/course/crowdstrike-certified-falcon-administrator-exams/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "23",
+    "students": "2,465",
+    "duration": "",
+    "instructor": "Paweł Krakowiak",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

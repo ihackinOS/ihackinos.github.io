@@ -12975,5 +12975,24 @@
     "language": "English (US)",
     "category": "marketing",
     "status": "OK"
+  },
+  {
+    "id": 684,
+    "added_at": "2026-03-17 13:29:00",
+    "title": "Professional Diploma in Copywriting and Business Writing",
+    "headline": "Copywriting, Content Writing, Content Marketing, SEO, Writing, Business writing, Career and Freelance strategy",
+    "image": "https://img-c.udemycdn.com/course/480x270/5270994_ba8d.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/2IqZxVMq8Ua",
+    "udemy_url": "https://www.udemy.com/course/copywriting_businesswriting/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "980",
+    "students": "48,128",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "marketing",
+    "status": "OK"
   }
 ]

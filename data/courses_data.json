@@ -11778,5 +11778,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 621,
+    "added_at": "2026-03-17 12:38:02",
+    "title": "CSS, Bootstrap, JavaScript And PHP Stack Complete Course",
+    "headline": "CSS, Bootstrap And JavaScript And PHP Complete Frontend and Backend Course",
+    "image": "https://img-c.udemycdn.com/course/480x270/4435576_a1dc.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/5HDH9AH",
+    "udemy_url": "https://www.udemy.com/course/css-bootstrap-javascript-and-php-stack-complete-course/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "1,552",
+    "students": "129,449",
+    "duration": "Expand all sections",
+    "instructor": "PROPER DOT INSTITUTE",
+    "language": "Practically Getting Started With CSS Styles, CSS 2D Transform, CSS 3D Transform",
+    "category": "development",
+    "status": "OK"
   }
 ]

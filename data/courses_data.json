@@ -13051,5 +13051,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 688,
+    "added_at": "2026-03-17 13:30:27",
+    "title": "Microsoft PowerPoint School to Corporate : Basic to Advance",
+    "headline": "Create engaging presentation and animation in MS PowerPoint with Canva",
+    "image": "https://img-c.udemycdn.com/course/480x270/4944610_de53_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/JVtRI",
+    "udemy_url": "https://www.udemy.com/course/microsoft-powerpoint-from-beginner-to-advanced-with-project/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "306",
+    "students": "33,756",
+    "duration": "Expand all sections",
+    "instructor": "Stephen Koel Soren",
+    "language": "English (US)",
+    "category": "office-productivity",
+    "status": "OK"
   }
 ]

@@ -16984,5 +16984,24 @@
     "language": "English (US)",
     "category": "marketing",
     "status": "OK"
+  },
+  {
+    "id": 895,
+    "added_at": "2026-03-17 18:46:10",
+    "title": "Python for Ethical Hacking : Learn By Building Projects",
+    "headline": "Python for Ethical Hacking : Learn By Building Projects : From Fundamentals to Advanced Python",
+    "image": "https://img-c.udemycdn.com/course/480x270/6288699_dd62_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/pyXaoHY",
+    "udemy_url": "https://www.udemy.com/course/python-for-ethical-hacking-learn-by-building-projects/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "9",
+    "students": "2,020",
+    "duration": "Expand all sections",
+    "instructor": "Zaid Smadi",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

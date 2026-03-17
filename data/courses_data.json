@@ -13070,5 +13070,24 @@
     "language": "English (US)",
     "category": "office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 689,
+    "added_at": "2026-03-17 13:31:05",
+    "title": "Python Game Development and App Programming Masterclass",
+    "headline": "Complete Python programming for game development and app building with hands-on projects and step-by-step training",
+    "image": "https://img-c.udemycdn.com/course/480x270/6894225_32bd.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/s95OFy",
+    "udemy_url": "https://www.udemy.com/course/python-game-development-and-app-programming-masterclass/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "25",
+    "students": "7,354",
+    "duration": "Introduction",
+    "instructor": "James Joab Soren",
+    "language": "English",
+    "category": "development",
+    "status": "OK"
   }
 ]

@@ -16319,5 +16319,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 860,
+    "added_at": "2026-03-17 17:53:46",
+    "title": "Dein Online-Business auf Autopilot mit Zapier!",
+    "headline": "Automatisiere Deine Business Prozesse innerhalb von 5 Minuten - völlig ohne Programmierkenntnisse!",
+    "image": "https://img-c.udemycdn.com/course/480x270/4156652_d379_6.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/n56V2p8bpxf",
+    "udemy_url": "https://www.udemy.com/course/online-business-automatisieren-mit-zapier/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "53",
+    "students": "2,687",
+    "duration": "Expand all sections",
+    "instructor": "Sebastian Glöckner • 300.000+ Teilnehmer",
+    "language": "German",
+    "category": "business",
+    "status": "OK"
   }
 ]

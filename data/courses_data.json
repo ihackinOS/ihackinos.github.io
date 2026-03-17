@@ -13716,5 +13716,24 @@
     "language": "English (US)",
     "category": "lifestyle",
     "status": "OK"
+  },
+  {
+    "id": 723,
+    "added_at": "2026-03-17 13:43:42",
+    "title": "We can’t find the page you’re looking for",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/6906725_0bb0.jpg",
+    "enroll_url": "https://cuty.io/LE8cBmU64Y",
+    "udemy_url": "https://www.udemy.com/course/aws-certified-generative-ai-developer-professional/",
+    "price": "",
+    "is_free": false,
+    "rating": "0",
+    "rating_count": "0",
+    "students": "0",
+    "duration": "",
+    "instructor": "",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

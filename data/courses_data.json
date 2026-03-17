@@ -12291,5 +12291,24 @@
     "language": "English (US)",
     "category": "marketing",
     "status": "OK"
+  },
+  {
+    "id": 648,
+    "added_at": "2026-03-17 12:47:41",
+    "title": "Essential Microsoft PowerPoint Course for Everyone",
+    "headline": "Master the Art of Presentations: Power up Your PowerPoint Skills",
+    "image": "https://img-c.udemycdn.com/course/480x270/5346438_96d4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/OplY7",
+    "udemy_url": "https://www.udemy.com/course/essential-microsoft-powerpoint-course-for-everyone/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "494",
+    "students": "48,845",
+    "duration": "Introduction",
+    "instructor": "Marcus Menti",
+    "language": "English (US)",
+    "category": "office-productivity",
+    "status": "OK"
   }
 ]

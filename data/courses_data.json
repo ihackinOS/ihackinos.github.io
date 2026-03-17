@@ -13355,5 +13355,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 704,
+    "added_at": "2026-03-17 13:36:37",
+    "title": "Financial Analyst Professional Certification",
+    "headline": "Financial Analyst Certification and preparing for certification of other providers",
+    "image": "https://img-c.udemycdn.com/course/480x270/5281700_ecdf.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/C6F0",
+    "udemy_url": "https://www.udemy.com/course/financial-analyst/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "731",
+    "students": "29,296",
+    "duration": "",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "finance-and-accounting",
+    "status": "OK"
   }
 ]

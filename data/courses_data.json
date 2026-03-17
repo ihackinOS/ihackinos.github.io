@@ -12139,5 +12139,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 640,
+    "added_at": "2026-03-17 12:44:47",
+    "title": "Executive Diploma in Business Presenting Skills",
+    "headline": "Powerpoint business presentations, Public speaking, Communication and Presenting pitch skills, For Managers and Startups",
+    "image": "https://img-c.udemycdn.com/course/480x270/5201664_eedb_5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/AhTaEj82hnNf",
+    "udemy_url": "https://www.udemy.com/course/securing-the-budget-for-your-project-with-a-winning-pitch-deck/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.6",
+    "rating_count": "541",
+    "students": "33,365",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

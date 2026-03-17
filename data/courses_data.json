@@ -14286,5 +14286,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 753,
+    "added_at": "2026-03-17 13:54:40",
+    "title": "AZ-305: Designing Azure Infrastructure Solutions Tests 2026",
+    "headline": "AZ-305: Microsoft Azure Solutions Architect Expert Certification Practice Test, Best for Self-Study and Self Assessment.",
+    "image": "https://img-c.udemycdn.com/course/480x270/5733018_40e1.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/eQaoyc",
+    "udemy_url": "https://www.udemy.com/course/az-305-designing-microsoft-azure-infrastructure-solutions-a/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "0",
+    "students": "6",
+    "duration": "",
+    "instructor": "B Talukdar",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

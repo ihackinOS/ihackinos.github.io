@@ -12728,5 +12728,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 671,
+    "added_at": "2026-03-17 12:56:29",
+    "title": "Complete Artificial Intelligence and Python Developer Course",
+    "headline": "Master Machine Learning, Deep Learning, Data Science, NLP, and Computer Vision by Building Real-World AI Projects",
+    "image": "https://img-c.udemycdn.com/course/480x270/6914713_930c.jpg?w=3840&q=75",
+    "enroll_url": "https://www.udemy.com/course/complete-artificial-intelligence-and-python-developer-course/",
+    "udemy_url": "https://www.udemy.com/course/complete-artificial-intelligence-and-python-developer-course/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "39",
+    "students": "5,901",
+    "duration": "Introduction",
+    "instructor": "Learnify IT",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

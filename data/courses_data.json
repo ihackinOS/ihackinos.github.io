@@ -13431,5 +13431,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 708,
+    "added_at": "2026-03-17 13:38:05",
+    "title": "Python Complete Course: with 30+ Hands-on Tasks and Solution",
+    "headline": "Learn Python for Beginners Step-by-Step: Master the Fundamentals and Start Coding with Confidence. Develop Essential Ski",
+    "image": "https://img-c.udemycdn.com/course/480x270/2948290_00a8_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/v0Rmh",
+    "udemy_url": "https://www.udemy.com/course/learning-python-for-beginners-1-data-types-input-format/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "849",
+    "students": "72,090",
+    "duration": "Expand all sections",
+    "instructor": "Vitalii Shumylo",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

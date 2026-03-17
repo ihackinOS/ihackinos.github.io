@@ -14248,5 +14248,24 @@
     "language": "Language Learning",
     "category": "teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 751,
+    "added_at": "2026-03-17 13:53:54",
+    "title": "Google Professional Cloud DevOps Engineer [Exams 2026]",
+    "headline": "[UPDATED] Prepare for the exam as a Google Professional Cloud DevOps Engineer or for an interview!",
+    "image": "https://img-c.udemycdn.com/course/480x270/5272616_8ae1_5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/tzfEk9qlIKEu",
+    "udemy_url": "https://www.udemy.com/course/google-professional-cloud-devops-engineer-gcp-exams/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "40",
+    "students": "14,630",
+    "duration": "",
+    "instructor": "Paweł Krakowiak",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

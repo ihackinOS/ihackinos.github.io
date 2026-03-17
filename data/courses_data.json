@@ -15122,5 +15122,24 @@
     "language": "English",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 797,
+    "added_at": "2026-03-17 17:29:41",
+    "title": "AWS Certified Security Specialty SCS-C03 [Exams 2026]",
+    "headline": "Master AWS Security Concepts with Six Full Mock Exams and In-Depth Answer Explanations!",
+    "image": "https://img-c.udemycdn.com/course/480x270/5473242_a34b_9.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/vkxWzCfnQc",
+    "udemy_url": "https://www.udemy.com/course/aws-certified-security-specialty-scs-mock-exams/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "7",
+    "students": "8,556",
+    "duration": "",
+    "instructor": "Paweł Krakowiak",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

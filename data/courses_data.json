@@ -11987,5 +11987,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 632,
+    "added_at": "2026-03-17 12:41:52",
+    "title": "Business Analyst Certification",
+    "headline": "Your Complete Guide to Business Process Improvement, Digital Strategy, and BA Certification",
+    "image": "https://img-c.udemycdn.com/course/480x270/5443154_98a0_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/kEux7kQBED0",
+    "udemy_url": "https://www.udemy.com/course/business-analyst-certification/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "154",
+    "students": "433",
+    "duration": "Expand all sections",
+    "instructor": "ARSCCOM Learning",
+    "language": "English",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

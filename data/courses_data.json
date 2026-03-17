@@ -11208,5 +11208,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 591,
+    "added_at": "2026-03-17 12:27:08",
+    "title": "GNU Make & Makefiles Crash Course for Build Automation",
+    "headline": "Universal Build Automation for Developers",
+    "image": "https://img-c.udemycdn.com/course/480x270/7036775_7beb_5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/YUYpVgifCC",
+    "udemy_url": "https://www.udemy.com/course/gnu-make-crash-course/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "1",
+    "students": "1,394",
+    "duration": "Expand all sections",
+    "instructor": "Martijn Vissers",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

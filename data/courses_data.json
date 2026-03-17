@@ -13849,5 +13849,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 730,
+    "added_at": "2026-03-17 13:46:16",
+    "title": "Postgraduate Diploma in Capital Market (PGDCM)",
+    "headline": "Master Capital Markets: Stock Trading, Investment Strategies, Derivatives, Portfolio Management & SEBI Regulations",
+    "image": "https://img-c.udemycdn.com/course/480x270/6647621_9e8b_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/6lPVs1gn",
+    "udemy_url": "https://www.udemy.com/course/pgdincapitalmarket/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.8",
+    "rating_count": "13",
+    "students": "2,727",
+    "duration": "Expand all sections",
+    "instructor": "Md. Aliful Islam",
+    "language": "English",
+    "category": "finance-and-accounting",
+    "status": "OK"
   }
 ]

@@ -13032,5 +13032,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 687,
+    "added_at": "2026-03-17 13:30:05",
+    "title": "GO Programming: The Complete Guide to Golang Development",
+    "headline": "Learn Go Programming by Building Real World Applications, APIs, and Tools — Master Concurrency, Interfaces, and More!",
+    "image": "https://img-c.udemycdn.com/course/480x270/7014617_9da3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/dw7Qb9S",
+    "udemy_url": "https://www.udemy.com/course/go-programming-the-complete-guide-to-golang-development/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "6",
+    "students": "4,994",
+    "duration": "Expand all sections",
+    "instructor": "Muhammad Riaz Uddin",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

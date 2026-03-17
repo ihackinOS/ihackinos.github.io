@@ -14077,5 +14077,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 742,
+    "added_at": "2026-03-17 13:50:41",
+    "title": "Introduction In Cyber Attack For Beginners",
+    "headline": "How to Think Like a Hacker with PCAP analysis to anticipate, detect, and defend against cyber threats.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6525331_92c4_7.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/QmPh3TNi",
+    "udemy_url": "https://www.udemy.com/course/cyber-kill-chain-from-attack-to-defense-in-cybersecurity/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "261",
+    "students": "24,565",
+    "duration": "Expand all sections",
+    "instructor": "Mahmoud H. Elsaied",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

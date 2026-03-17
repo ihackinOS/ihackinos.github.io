@@ -11113,5 +11113,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 586,
+    "added_at": "2026-03-17 12:25:17",
+    "title": "Mastering Procurement and Supply Chain Management",
+    "headline": "Mastering Procurement and Supply Chain Management: From Basics to Advanced",
+    "image": "https://img-c.udemycdn.com/course/480x270/6118667_2363_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/CpJr",
+    "udemy_url": "https://www.udemy.com/course/procurementandscm/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "74",
+    "students": "1,740",
+    "duration": "Expand all sections",
+    "instructor": "Md. Aliful Islam",
+    "language": "English",
+    "category": "business",
+    "status": "OK"
   }
 ]

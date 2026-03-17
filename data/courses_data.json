@@ -12690,5 +12690,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 669,
+    "added_at": "2026-03-17 12:55:43",
+    "title": "Adobe Photoshop Course from Basic to Advacned for Graphics",
+    "headline": "Elevate Your Design Skills: Unleash the Power of Adobe Photoshop for Graphic Design",
+    "image": "https://img-c.udemycdn.com/course/480x270/5346430_f677.jpg?w=3840&q=75",
+    "enroll_url": "https://www.udemy.com/course/adobe-photoshop-course-from-basic-to-advacned-for-graphics/",
+    "udemy_url": "https://www.udemy.com/course/adobe-photoshop-course-from-basic-to-advacned-for-graphics/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.8",
+    "rating_count": "549",
+    "students": "58,110",
+    "duration": "Introduction",
+    "instructor": "Marcus Menti",
+    "language": "English",
+    "category": "design",
+    "status": "OK"
   }
 ]

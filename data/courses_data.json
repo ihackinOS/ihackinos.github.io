@@ -16509,5 +16509,24 @@
     "language": "English",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 870,
+    "added_at": "2026-03-17 17:57:20",
+    "title": "Cómo Crear una Página Web con Inteligencia Artificial 2026",
+    "headline": "Aprende a cómo crear una página web con Inteligencia Artificial de forma fácil y simple, sin saber de programación.",
+    "image": "https://img-c.udemycdn.com/course/480x270/5576672_6ff3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/vHoy",
+    "udemy_url": "https://www.udemy.com/course/como-crear-una-pagina-web-con-inteligencia-artificial/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.5",
+    "rating_count": "120",
+    "students": "19,344",
+    "duration": "Expand all sections",
+    "instructor": "Renato Jesús Yacolca Neyra",
+    "language": "Spanish",
+    "category": "development",
+    "status": "OK"
   }
 ]

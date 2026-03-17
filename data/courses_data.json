@@ -15274,5 +15274,24 @@
     "language": "English",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 805,
+    "added_at": "2026-03-17 17:32:47",
+    "title": "Master Course in Sales Skills and Marketing Skills 2.0",
+    "headline": "Sales Skills, Marketing Strategy, Negotiation, Sales Closing, B2B Sales, Sales Funnel, Lead Generation, Sales management",
+    "image": "https://img-c.udemycdn.com/course/480x270/5010160_e297_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ps7SbFQ",
+    "udemy_url": "https://www.udemy.com/course/sales-skills-sales-anayst/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "326",
+    "students": "23,275",
+    "duration": "Expand all sections",
+    "instructor": "Dr. José Prabhu J",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

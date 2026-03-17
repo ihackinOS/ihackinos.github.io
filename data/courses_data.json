@@ -14742,5 +14742,24 @@
     "language": "Spanish (Mexico)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 777,
+    "added_at": "2026-03-17 14:03:49",
+    "title": "Palo Alto Networks Certified XSIAM Engineer [Exams 2026]",
+    "headline": "Prepare for the XSIAM Engineer Certification with In-Depth Practice Exams and Expert-Level Explanations!",
+    "image": "https://img-c.udemycdn.com/course/480x270/6767517_899e_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/fCjo",
+    "udemy_url": "https://www.udemy.com/course/palo-alto-networks-xsiam-engineer-exams/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.6",
+    "rating_count": "4",
+    "students": "967",
+    "duration": "",
+    "instructor": "Paweł Krakowiak",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

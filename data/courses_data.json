@@ -12196,5 +12196,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 643,
+    "added_at": "2026-03-17 12:45:55",
+    "title": "Learn HTML and CSS from Beginning to Advanced",
+    "headline": "Master HTML and CSS: Create Stunning Websites with Confidence",
+    "image": "https://img-c.udemycdn.com/course/480x270/5380132_3dad.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/3kyB",
+    "udemy_url": "https://www.udemy.com/course/learn-html-and-css-from-beginning-to-advanced/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "1,319",
+    "students": "51,202",
+    "duration": "Expand all sections",
+    "instructor": "Marcus Menti",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

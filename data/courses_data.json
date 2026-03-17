@@ -15236,5 +15236,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 803,
+    "added_at": "2026-03-17 17:32:00",
+    "title": "Complete MySQL Bootcamp: Learn SQL Step by Step",
+    "headline": "Build a strong foundation in SQL using MySQL — perfect for aspiring developers, analysts, and data enthusiasts.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6707335_cf68_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/k1ZbSj1nm",
+    "udemy_url": "https://www.udemy.com/course/complete-mysql-bootcamp-learn-sql-step-by-step/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "213",
+    "students": "13,795",
+    "duration": "Expand all sections",
+    "instructor": "Sheikh Coding Institute",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

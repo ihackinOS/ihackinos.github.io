@@ -14457,5 +14457,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 762,
+    "added_at": "2026-03-17 13:58:06",
+    "title": "Seguridad informática para Empresas. Protege tus Datos.",
+    "headline": "Protege tu empresa frente a ciberataques reales con prácticas, casos y estrategias efectivas de Ciberseguridad.",
+    "image": "https://img-c.udemycdn.com/course/480x270/2343392_dbf9_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/lT8mM",
+    "udemy_url": "https://www.udemy.com/course/seguridad-informatica-para-empresas-cuida-tu-informacion/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "2,029",
+    "students": "15,612",
+    "duration": "Expand all sections",
+    "instructor": "Alvaro Chirou",
+    "language": "Spanish (Spain)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

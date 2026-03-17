@@ -11949,5 +11949,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 630,
+    "added_at": "2026-03-17 12:41:13",
+    "title": "Fortinet NSE4_FGT-7.2 Exam Preparation 2026",
+    "headline": "FortiGate-Based Network Defense and Secure Connectivity",
+    "image": "https://img-c.udemycdn.com/course/480x270/7043517_d9f3_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/oCqRX",
+    "udemy_url": "https://www.udemy.com/course/fortinet-nse4_fgt-72-exam-preparation-2026/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "5.0",
+    "rating_count": "1",
+    "students": "264",
+    "duration": "",
+    "instructor": "Sydney Marshall",
+    "language": "English",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

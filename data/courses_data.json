@@ -14761,5 +14761,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 778,
+    "added_at": "2026-03-17 14:04:09",
+    "title": "Palo Alto Networks Certified XSIAM Analyst [Exams 2026]",
+    "headline": "Master the XSIAM Analyst exam with six challenging mock exams and detailed answer explanations!",
+    "image": "https://img-c.udemycdn.com/course/480x270/6771319_0e84_7.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/eCOVNIyFp",
+    "udemy_url": "https://www.udemy.com/course/palo-alto-networks-certified-xsiam-analyst/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "0",
+    "students": "905",
+    "duration": "",
+    "instructor": "Paweł Krakowiak",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

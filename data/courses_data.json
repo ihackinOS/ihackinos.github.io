@@ -16889,5 +16889,24 @@
     "language": "English (US)",
     "category": "personal-development",
     "status": "OK"
+  },
+  {
+    "id": 890,
+    "added_at": "2026-03-17 18:44:26",
+    "title": "Procurement Manager Professional Certification",
+    "headline": "Certified Procurement Manager (CPM) Certification Assessment by MTF Institute",
+    "image": "https://img-c.udemycdn.com/course/480x270/5451700_ff8b_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/nsaIQK3Q",
+    "udemy_url": "https://www.udemy.com/course/procurement_manager/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "377",
+    "students": "15,028",
+    "duration": "",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

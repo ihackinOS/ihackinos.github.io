@@ -11759,5 +11759,24 @@
     "language": "English (US)",
     "category": "teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 620,
+    "added_at": "2026-03-17 12:37:40",
+    "title": "AWS Certified Cloud Practitioner Mock Exams CLF-C02 2026",
+    "headline": "Be an AWS Certified Cloud Practitioner! AWS Cloud Practitioner Practice Tests CLF-C02 with Explanations",
+    "image": "https://img-c.udemycdn.com/course/480x270/2590994_5a2b_7.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/cDbBHtAI54mq",
+    "udemy_url": "https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-tests-clf-c02/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "3,743",
+    "students": "18,327",
+    "duration": "",
+    "instructor": "Jon Bonso AWS Generative AI Developer, AWS Certified Solutions Architect",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

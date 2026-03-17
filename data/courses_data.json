@@ -14704,5 +14704,24 @@
     "language": "Spanish (Spain)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 775,
+    "added_at": "2026-03-17 14:03:06",
+    "title": "Google Professional Machine Learning Engineer [Exams 2026]",
+    "headline": "[UPDATED] Comprehensive Mock Exams to Prepare You for Google Professional Machine Learning Engineer Certification!",
+    "image": "https://img-c.udemycdn.com/course/480x270/5643342_1ed6_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/FmvhV",
+    "udemy_url": "https://www.udemy.com/course/google-professional-machine-learning-engineer-exams/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.3",
+    "rating_count": "17",
+    "students": "6,690",
+    "duration": "",
+    "instructor": "Paweł Krakowiak",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

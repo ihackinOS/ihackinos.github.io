@@ -14001,5 +14001,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 738,
+    "added_at": "2026-03-17 13:49:12",
+    "title": "Python Development Professional Certification",
+    "headline": "Python Development Certification and preparing for other types of certification",
+    "image": "https://img-c.udemycdn.com/course/480x270/5316984_bf40.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/AC7FPjH",
+    "udemy_url": "https://www.udemy.com/course/python_development/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "925",
+    "students": "44,625",
+    "duration": "",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

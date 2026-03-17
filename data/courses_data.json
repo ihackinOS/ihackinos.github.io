@@ -13640,5 +13640,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 719,
+    "added_at": "2026-03-17 13:42:14",
+    "title": "Information Security Professional Certification",
+    "headline": "Information and Cyber Security Certification and preparing for other types of certification",
+    "image": "https://img-c.udemycdn.com/course/480x270/5293518_6cde.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/bmNPR76yY6",
+    "udemy_url": "https://www.udemy.com/course/information_security_expert/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "616",
+    "students": "37,419",
+    "duration": "",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

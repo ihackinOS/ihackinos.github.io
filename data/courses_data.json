@@ -15217,5 +15217,24 @@
     "language": "English (US)",
     "category": "office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 802,
+    "added_at": "2026-03-17 17:31:35",
+    "title": "Master Go (Golang): Build Scalable Web Applications",
+    "headline": "A complete guide to building scalable web applications using Go — from beginner basics to advanced backend features.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6709183_81e6_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/ontP1Yymlf5m",
+    "udemy_url": "https://www.udemy.com/course/master-go-golang-build-scalable-web-applications/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "34",
+    "students": "10,120",
+    "duration": "Expand all sections",
+    "instructor": "Sheikh Coding Institute",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

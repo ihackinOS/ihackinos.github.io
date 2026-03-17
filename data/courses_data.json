@@ -13830,5 +13830,24 @@
     "language": "Hindi",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 729,
+    "added_at": "2026-03-17 13:45:53",
+    "title": "Professional Diploma in Office Management (PDOM)",
+    "headline": "Master Modern Office Administration, Communication, HR, IT and Workflow Systems for Efficient Business Operations",
+    "image": "https://img-c.udemycdn.com/course/480x270/6716205_4e39_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/2ZSpQH",
+    "udemy_url": "https://www.udemy.com/course/diploma-in-office-management/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "17",
+    "students": "2,149",
+    "duration": "Expand all sections",
+    "instructor": "Md. Aliful Islam",
+    "language": "English",
+    "category": "business",
+    "status": "OK"
   }
 ]

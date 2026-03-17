@@ -12861,5 +12861,24 @@
     "language": "English (US)",
     "category": "design",
     "status": "OK"
+  },
+  {
+    "id": 678,
+    "added_at": "2026-03-17 12:58:56",
+    "title": "MS Excel Masterclass for Job Seekers Accounting Success",
+    "headline": "A Comprehensive Masterclass for Job Seekers Focused on Accounting, Data Analysis, and Essential Excel Skills for Success",
+    "image": "https://img-c.udemycdn.com/course/480x270/6185785_a817_3.jpg?w=3840&q=75",
+    "enroll_url": "https://www.udemy.com/course/ms-excel-masterclass-for-job-seekers-accounting-success/",
+    "udemy_url": "https://www.udemy.com/course/ms-excel-masterclass-for-job-seekers-accounting-success/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "477",
+    "students": "23,573",
+    "duration": "Introduction",
+    "instructor": "Sayman Creative Institute",
+    "language": "English (US)",
+    "category": "office-productivity",
+    "status": "OK"
   }
 ]

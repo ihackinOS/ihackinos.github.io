@@ -12823,5 +12823,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 676,
+    "added_at": "2026-03-17 12:58:13",
+    "title": "ITIL 4 Foundation Practice Tests – Free Demo",
+    "headline": "4 exam-style mock tests with 20 questions each (80 total) to preview the ITIL 4 Foundation exam format by FindExams",
+    "image": "https://img-c.udemycdn.com/course/480x270/7034419_9f1e_2.jpg?w=3840&q=75",
+    "enroll_url": "https://www.udemy.com/course/itil-4-foundation-practice-tests-free-demo/",
+    "udemy_url": "https://www.udemy.com/course/itil-4-foundation-practice-tests-free-demo/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.8",
+    "rating_count": "0",
+    "students": "100",
+    "duration": "",
+    "instructor": "Farid Jafarzade",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

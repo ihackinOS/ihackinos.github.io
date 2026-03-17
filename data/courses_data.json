@@ -12006,5 +12006,24 @@
     "language": "English",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 633,
+    "added_at": "2026-03-17 12:42:13",
+    "title": "SAFe (Scaled Agile Framework) Overview",
+    "headline": "Unlock the Path to SAFe (Scaled Agile Framework) Excellence",
+    "image": "https://img-c.udemycdn.com/course/480x270/5778316_fbd9.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/zIucRZ3",
+    "udemy_url": "https://www.udemy.com/course/safe-scaled-agile-framework/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "668",
+    "students": "21,958",
+    "duration": "Expand all sections",
+    "instructor": "Vipesh Singla , MBA, Certified SAFe Agile Coach",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

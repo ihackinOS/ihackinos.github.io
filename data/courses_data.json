@@ -13507,5 +13507,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 712,
+    "added_at": "2026-03-17 13:39:36",
+    "title": "220-1202 CompTIA A+ Core 2 Practice Exams [2026]",
+    "headline": "Master Windows, macOS & Linux management, security protocols & malware prevention to ace the 220-1202 exam",
+    "image": "https://img-c.udemycdn.com/course/480x270/7073043_49fd.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/fehWT2DUsPi5",
+    "udemy_url": "https://www.udemy.com/course/comptia-a-plus-core-2-practice-exam/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "5.0",
+    "rating_count": "19",
+    "students": "304",
+    "duration": "",
+    "instructor": "Nex Arc",
+    "language": "English",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

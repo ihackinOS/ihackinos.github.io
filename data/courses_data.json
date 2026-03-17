@@ -14305,5 +14305,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 754,
+    "added_at": "2026-03-17 13:55:04",
+    "title": "Databricks Certified Generative AI Engineer Associate Exams",
+    "headline": "[UPDATED] Master Generative AI with Databricks: Six Mock Exams with In-Depth Explanations to Ace Your Certification!",
+    "image": "https://img-c.udemycdn.com/course/480x270/6174667_b2fc_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/QeGfYk70om",
+    "udemy_url": "https://www.udemy.com/course/databricks-certified-generative-ai-engineer-associate-exams/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "66",
+    "students": "5,745",
+    "duration": "",
+    "instructor": "Paweł Krakowiak",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

@@ -16623,5 +16623,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 876,
+    "added_at": "2026-03-17 18:38:52",
+    "title": "React JS Interview Preparation Questions 2026",
+    "headline": "300+ React JS Interview Questions and Answers MCQ Practice Test Quiz with Detailed Explanations.",
+    "image": "https://img-c.udemycdn.com/course/480x270/5689906_aa85.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/FjMsJzR5",
+    "udemy_url": "https://www.udemy.com/course/react-js-mcq/",
+    "price": "₫809,000",
+    "is_free": false,
+    "rating": "2.7",
+    "rating_count": "3",
+    "students": "5,578",
+    "duration": "",
+    "instructor": "Exams Practice Tests Academy",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

@@ -12709,5 +12709,24 @@
     "language": "English",
     "category": "design",
     "status": "OK"
+  },
+  {
+    "id": 670,
+    "added_at": "2026-03-17 12:56:08",
+    "title": "Vue.js Masterclass: Build Interactive Web Apps Quickly",
+    "headline": "Learn Vue.js And Build Fast, Interactive And Modern Web Applications",
+    "image": "https://img-c.udemycdn.com/course/480x270/7014853_69e1.jpg?w=3840&q=75",
+    "enroll_url": "https://www.udemy.com/course/vuejs-masterclass-build-interactive-web-apps-quickly/",
+    "udemy_url": "https://www.udemy.com/course/vuejs-masterclass-build-interactive-web-apps-quickly/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "1",
+    "students": "3,067",
+    "duration": "Expand all sections",
+    "instructor": "Muhammad Riaz Uddin",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

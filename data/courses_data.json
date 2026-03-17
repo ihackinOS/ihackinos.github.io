@@ -11892,5 +11892,24 @@
     "language": "Spanish (Mexico)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 627,
+    "added_at": "2026-03-17 12:40:12",
+    "title": "Executive Diploma in General Management",
+    "headline": "Management Types, Approaches and Tools, Managing Overview, Managing Decisions, Time Management and Project Management",
+    "image": "https://img-c.udemycdn.com/course/480x270/5152536_8ae8.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/YGubc3dkEC",
+    "udemy_url": "https://www.udemy.com/course/postgraduate-executive-diploma-general-management/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.6",
+    "rating_count": "613",
+    "students": "32,060",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English",
+    "category": "business",
+    "status": "OK"
   }
 ]

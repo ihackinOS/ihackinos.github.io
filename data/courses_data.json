@@ -14400,5 +14400,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 759,
+    "added_at": "2026-03-17 13:57:00",
+    "title": "AWS Certified Machine Learning Engineer Associate Exams 2026",
+    "headline": "[UPDATED] Prepare with Confidence Using Six Fully Updated Practice Exams with Detailed Answer Explanations!",
+    "image": "https://img-c.udemycdn.com/course/480x270/6231569_4920_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/oMXrIGaT1",
+    "udemy_url": "https://www.udemy.com/course/aws-certified-machine-learning-engineer-associate-exams-n/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "5",
+    "students": "4,752",
+    "duration": "",
+    "instructor": "Paweł Krakowiak",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

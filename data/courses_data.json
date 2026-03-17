@@ -13621,5 +13621,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 718,
+    "added_at": "2026-03-17 13:41:53",
+    "title": "Master JavaScript, HTML, and CSS with 30 Projects in 30 Days",
+    "headline": "Learn JavaScript 30 Projects, HTML, and CSS Complete 30 Projects in 30 Days for Beginners 30 Projects in 30 Days",
+    "image": "https://img-c.udemycdn.com/course/480x270/6036646_5148_8.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/IpJqpo6dJj",
+    "udemy_url": "https://www.udemy.com/course/javascript-30-projects-in-30-days-course-for-beginners/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.8",
+    "rating_count": "521",
+    "students": "47,418",
+    "duration": "Expand all sections",
+    "instructor": "Vijay Kumar",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

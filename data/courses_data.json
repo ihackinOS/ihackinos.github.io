@@ -17402,5 +17402,24 @@
     "language": "English (US)",
     "category": "personal-development",
     "status": "OK"
+  },
+  {
+    "id": 917,
+    "added_at": "2026-03-17 21:39:01",
+    "title": "Work-Life Balance: Time, Stress & Success",
+    "headline": "Learn strategies to manage time, reduce stress, and create sustainable balance for a healthier engineering career.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6812859_1635_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/jXunih",
+    "udemy_url": "https://www.udemy.com/course/work-life-balance-for-engineers-time-stress-success/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "5.0",
+    "rating_count": "2",
+    "students": "187",
+    "duration": "Expand all sections",
+    "instructor": "Arm Reach Robots ARM",
+    "language": "English (US)",
+    "category": "personal-development",
+    "status": "OK"
   }
 ]

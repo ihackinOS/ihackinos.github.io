@@ -15635,5 +15635,24 @@
     "language": "Spanish (Spain)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 824,
+    "added_at": "2026-03-17 17:39:58",
+    "title": "Arquitectura de Software y Patrones de Diseño de Software",
+    "headline": "Aprende patrones de diseño , principios SOLID , arquitectura limpia , ingeniería de software y arquitectura de software",
+    "image": "https://img-c.udemycdn.com/course/480x270/6691607_fd29_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/TE9I",
+    "udemy_url": "https://www.udemy.com/course/arquitectura-de-software-y-patrones-de-diseno/",
+    "price": "₫698,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "33",
+    "students": "684",
+    "duration": "Expand all sections",
+    "instructor": "Ing Juan Araya Toledo",
+    "language": "Spanish (Spain)",
+    "category": "development",
+    "status": "OK"
   }
 ]

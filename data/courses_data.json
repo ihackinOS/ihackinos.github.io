@@ -16243,5 +16243,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 856,
+    "added_at": "2026-03-17 17:52:19",
+    "title": "Personal Productivity & Life Planning",
+    "headline": "MTF Institute Course: Personal Productivity, Life Planning, Values Analysis, Burnout Prevention, Work-life Balance, VUCA",
+    "image": "https://img-c.udemycdn.com/course/480x270/5416254_9863.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/TwBpDMBkI",
+    "udemy_url": "https://www.udemy.com/course/personal_productivity/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.5",
+    "rating_count": "463",
+    "students": "31,727",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "personal-development",
+    "status": "OK"
   }
 ]

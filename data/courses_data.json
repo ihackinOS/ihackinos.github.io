@@ -16737,5 +16737,24 @@
     "language": "English",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 882,
+    "added_at": "2026-03-17 18:41:24",
+    "title": "PHP Interview Preparation Questions [2026]",
+    "headline": "300+ PHP Interview Questions and Answers MCQ Practice Test Quiz with Detailed Explanations.",
+    "image": "https://img-c.udemycdn.com/course/480x270/5674594_3436.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/GhNPuUY0",
+    "udemy_url": "https://www.udemy.com/course/php-mcq-quiz/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.8",
+    "rating_count": "0",
+    "students": "2,408",
+    "duration": "",
+    "instructor": "Exams Practice Tests Academy",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

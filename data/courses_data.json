@@ -15616,5 +15616,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 823,
+    "added_at": "2026-03-17 17:39:37",
+    "title": "Certificación CyberOps Associate 200-201. Curso Completo.",
+    "headline": "Temario Oficial, prepara la Certificación de Cyberops Associate, explicado al detalle y con practicas para que rindas.",
+    "image": "https://img-c.udemycdn.com/course/480x270/5934510_c40d.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/eg1OSyP",
+    "udemy_url": "https://www.udemy.com/course/certificacion-cyberops-associate-200-201-curso-completo/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.3",
+    "rating_count": "112",
+    "students": "13,329",
+    "duration": "Expand all sections",
+    "instructor": "Alvaro Chirou",
+    "language": "Spanish (Spain)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

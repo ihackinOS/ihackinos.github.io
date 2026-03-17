@@ -11664,5 +11664,24 @@
     "language": "Hindi",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 615,
+    "added_at": "2026-03-17 12:35:53",
+    "title": "Excel for MIS & Reporting Professionals",
+    "headline": "Master Excel Reporting & Automation – Learn Dashboards, Advanced Formulas, Macros, and Power BI for professional MIS & b",
+    "image": "https://img-c.udemycdn.com/course/480x270/6712109_4498.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/BPQvHQr",
+    "udemy_url": "https://www.udemy.com/course/excel-for-mis-reporting-professionals/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "15",
+    "students": "301",
+    "duration": "Expand all sections",
+    "instructor": "Excel Mojo",
+    "language": "English (US)",
+    "category": "office-productivity",
+    "status": "OK"
   }
 ]

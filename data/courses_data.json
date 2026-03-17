@@ -15331,5 +15331,24 @@
     "language": "English",
     "category": "office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 808,
+    "added_at": "2026-03-17 17:33:59",
+    "title": "Become an Expert in Excel & Google Sheet Formula & Functions",
+    "headline": "Master key formulas and functions in Excel and Google Sheets for better data insights and faster workflows.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6182711_11f7.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/cWS1AsqMi",
+    "udemy_url": "https://www.udemy.com/course/become-an-expert-in-excel-google-sheet-formula-functions/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "71",
+    "students": "8,522",
+    "duration": "Expand all sections",
+    "instructor": "Click Learning",
+    "language": "English",
+    "category": "office-productivity",
+    "status": "OK"
   }
 ]

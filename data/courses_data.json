@@ -16661,5 +16661,24 @@
     "language": "English (US)",
     "category": "teaching-and-academics",
     "status": "OK"
+  },
+  {
+    "id": 878,
+    "added_at": "2026-03-17 18:39:35",
+    "title": "RDBMS Interview Preparation Questions 2026",
+    "headline": "300+ RDBMS Interview Questions and Answers MCQ Practice Test Quiz with Detailed Explanations.",
+    "image": "https://img-c.udemycdn.com/course/480x270/5690536_c3fa.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Cbb1hlqYXy",
+    "udemy_url": "https://www.udemy.com/course/rdbms-mcq/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "2.7",
+    "rating_count": "2",
+    "students": "4,721",
+    "duration": "",
+    "instructor": "Exams Practice Tests Academy",
+    "language": "English",
+    "category": "development",
+    "status": "OK"
   }
 ]

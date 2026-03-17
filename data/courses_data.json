@@ -12158,5 +12158,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 641,
+    "added_at": "2026-03-17 12:45:09",
+    "title": "We can’t find the page you’re looking for",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/5381926_9f28.jpg",
+    "enroll_url": "https://cuty.io/5MgC",
+    "udemy_url": "https://www.udemy.com/course/learn-blockchain-and-cryptocurrency-from-beginning/",
+    "price": "",
+    "is_free": false,
+    "rating": "0",
+    "rating_count": "0",
+    "students": "0",
+    "duration": "",
+    "instructor": "",
+    "language": "English (US)",
+    "category": "finance-and-accounting",
+    "status": "OK"
   }
 ]

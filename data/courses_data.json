@@ -12177,5 +12177,24 @@
     "language": "English (US)",
     "category": "finance-and-accounting",
     "status": "OK"
+  },
+  {
+    "id": 642,
+    "added_at": "2026-03-17 12:45:31",
+    "title": "Learn PHP and MySQL for Web Application and Web Development",
+    "headline": "Unlock the Power of PHP and MySQL: Level Up Your Web Development Skills Today",
+    "image": "https://img-c.udemycdn.com/course/480x270/5381922_8c87.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/iV0AGF",
+    "udemy_url": "https://www.udemy.com/course/learn-php-and-mysql-for-web-application-and-web-development/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "841",
+    "students": "62,474",
+    "duration": "Expand all sections",
+    "instructor": "Marcus Menti",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

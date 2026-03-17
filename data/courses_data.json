@@ -13279,5 +13279,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 700,
+    "added_at": "2026-03-17 13:35:07",
+    "title": "Executive Diploma in Finance Management",
+    "headline": "Finance, Corporate Strategy impact to Finance Management, Finance Management, Corporate Finance, Global Finance, PnL",
+    "image": "https://img-c.udemycdn.com/course/480x270/5277418_6388.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/rIu4db4",
+    "udemy_url": "https://www.udemy.com/course/financemanagement/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "926",
+    "students": "35,712",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "finance-and-accounting",
+    "status": "OK"
   }
 ]

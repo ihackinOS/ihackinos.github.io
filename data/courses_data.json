@@ -15350,5 +15350,43 @@
     "language": "English",
     "category": "office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 809,
+    "added_at": "2026-03-17 17:34:23",
+    "title": "Master Java, Python, C & C++: All-in-One Programming Course",
+    "headline": "Unlock the Power of Four Languages: Complete C, C++, Java, and Python Programming Course for All Levels.",
+    "image": "https://img-c.udemycdn.com/course/480x270/6173817_8c19_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/9gHZ6sFV",
+    "udemy_url": "https://www.udemy.com/course/master-java-python-c-c-all-in-one-programming-course/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "329",
+    "students": "28,385",
+    "duration": "Expand all sections",
+    "instructor": "Knowledge Nest",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
+  },
+  {
+    "id": 810,
+    "added_at": "2026-03-17 17:34:47",
+    "title": "Aprende MySQL sin dolor (con phpMyAdmin)",
+    "headline": "En este curso aprenderás a manejar esta base de datos, con más de 6 millones de instalaciones en el mundo.",
+    "image": "https://img-c.udemycdn.com/course/480x270/150082_eace_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/zwXdXNNk",
+    "udemy_url": "https://www.udemy.com/course/aprende-mysql-sin-dolor/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "334",
+    "students": "11,136",
+    "duration": "Expand all sections",
+    "instructor": "Francisco Javier Arce Anguiano",
+    "language": "Spanish (Mexico)",
+    "category": "development",
+    "status": "OK"
   }
 ]

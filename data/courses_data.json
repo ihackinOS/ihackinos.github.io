@@ -11189,5 +11189,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 590,
+    "added_at": "2026-03-17 12:26:48",
+    "title": "Mastering Linux Text Processing with Grep, Sed and Awk",
+    "headline": "Practical One-Liners & Terminal Pipelines | Search, Transform, Extract & Report like a Pro",
+    "image": "https://img-c.udemycdn.com/course/480x270/6982351_bb77_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/xL5x8gcr3",
+    "udemy_url": "https://www.udemy.com/course/mastering-grep-sed-and-awk/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.0",
+    "rating_count": "6",
+    "students": "2,742",
+    "duration": "Expand all sections",
+    "instructor": "Martijn Vissers",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

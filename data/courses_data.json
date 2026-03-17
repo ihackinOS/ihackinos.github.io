@@ -12842,5 +12842,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 677,
+    "added_at": "2026-03-17 12:58:38",
+    "title": "AI Masteclass - ChatGPT Gemini Midjourney Stable Diffusion",
+    "headline": "Learn to Create, Customize, and Deploy AI Models with ChatGPT, Gemini, Midjourney, and Stable Diffusion",
+    "image": "https://img-c.udemycdn.com/course/480x270/6077171_4afb_2.jpg?w=3840&q=75",
+    "enroll_url": "https://www.udemy.com/course/ai-masteclass-chatgpt-gemini-midjourney-stable-diffusion/",
+    "udemy_url": "https://www.udemy.com/course/ai-masteclass-chatgpt-gemini-midjourney-stable-diffusion/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "169",
+    "students": "28,683",
+    "duration": "Introduction",
+    "instructor": "Sayman Creative Institute",
+    "language": "English (US)",
+    "category": "design",
+    "status": "OK"
   }
 ]

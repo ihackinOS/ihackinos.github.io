@@ -11569,5 +11569,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 610,
+    "added_at": "2026-03-17 12:34:08",
+    "title": "We can’t find the page you’re looking for",
+    "headline": "",
+    "image": "https://img-c.udemycdn.com/course/480x270/4740068_c1b7_2.jpg",
+    "enroll_url": "https://cuty.io/sxv0E9H",
+    "udemy_url": "https://www.udemy.com/course/omnichannel-sales-service-management-with-ai-chat-bots/",
+    "price": "",
+    "is_free": false,
+    "rating": "0",
+    "rating_count": "0",
+    "students": "0",
+    "duration": "",
+    "instructor": "",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

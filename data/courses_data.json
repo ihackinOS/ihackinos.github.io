@@ -15654,5 +15654,24 @@
     "language": "Spanish (Spain)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 825,
+    "added_at": "2026-03-17 17:40:23",
+    "title": "Certificación en Python: Certifícate como Programador PCEP",
+    "headline": "Aprende Python desde 0 a Profesional, con mucha practica y prepara la Certificación PCEP de Python. Simulacro de examen",
+    "image": "https://img-c.udemycdn.com/course/480x270/5184792_dee1_4.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Wz8NA1G6cgfw",
+    "udemy_url": "https://www.udemy.com/course/certificacion-python-pcep/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "362",
+    "students": "15,402",
+    "duration": "Expand all sections",
+    "instructor": "Alvaro Chirou",
+    "language": "Spanish (Spain)",
+    "category": "development",
+    "status": "OK"
   }
 ]

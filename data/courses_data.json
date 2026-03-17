@@ -17136,5 +17136,24 @@
     "language": "English",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 903,
+    "added_at": "2026-03-17 18:49:20",
+    "title": "CentOS Linux and Ubuntu Linux: Managing Packages",
+    "headline": "Linux: Learn to run BASH commands to: install, remove, collect information, check, search, upgrade the packages",
+    "image": "https://img-c.udemycdn.com/course/480x270/1436610_e625_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/qObFC6b5N9",
+    "udemy_url": "https://www.udemy.com/course/centos-and-ubuntu-managing-packages/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.0",
+    "rating_count": "137",
+    "students": "28,618",
+    "duration": "Expand all sections",
+    "instructor": "Vitalii Shumylo",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

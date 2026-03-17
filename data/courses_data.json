@@ -12766,5 +12766,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 673,
+    "added_at": "2026-03-17 12:57:11",
+    "title": "Online Course Creation: 10 Key Steps from Idea to Launch",
+    "headline": "Master Online Course Creation and Create Your First Online Course Through 10 Simple Steps",
+    "image": "https://img-c.udemycdn.com/course/480x270/5896636_100c.jpg?w=3840&q=75",
+    "enroll_url": "https://www.udemy.com/course/online-course-creation-10-key-steps-from-idea-to-launch/",
+    "udemy_url": "https://www.udemy.com/course/online-course-creation-10-key-steps-from-idea-to-launch/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "45",
+    "students": "21,225",
+    "duration": "Expand all sections",
+    "instructor": "Anton Voroniuk",
+    "language": "English (US)",
+    "category": "teaching-and-academics",
+    "status": "OK"
   }
 ]

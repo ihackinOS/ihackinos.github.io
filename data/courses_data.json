@@ -12576,5 +12576,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 663,
+    "added_at": "2026-03-17 12:53:25",
+    "title": "C++ Interview Preparation Questions [2026]",
+    "headline": "350+ C++ Interview Questions and Answers MCQ Practice Test Quiz with Detailed Explanations.",
+    "image": "https://img-c.udemycdn.com/course/480x270/5671870_2fcb.jpg?w=3840&q=75",
+    "enroll_url": "https://www.udemy.com/course/cpp-programming-mcq-/",
+    "udemy_url": "https://www.udemy.com/course/cpp-programming-mcq-/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.8",
+    "rating_count": "0",
+    "students": "2,839",
+    "duration": "",
+    "instructor": "Exams Practice Tests Academy",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

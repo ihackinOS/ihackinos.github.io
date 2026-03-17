@@ -15255,5 +15255,24 @@
     "language": "English (US)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 804,
+    "added_at": "2026-03-17 17:32:25",
+    "title": "CTO Chief Technology Officer Executive Certification",
+    "headline": "Certified Chief Technology Officer (CTO) Certification Assessment by MTF Institute",
+    "image": "https://img-c.udemycdn.com/course/480x270/5367918_251e_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/6fTZ378Uz",
+    "udemy_url": "https://www.udemy.com/course/chief-technology-officer/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.5",
+    "rating_count": "529",
+    "students": "23,918",
+    "duration": "",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

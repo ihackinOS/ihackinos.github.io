@@ -12899,5 +12899,24 @@
     "language": "English (US)",
     "category": "marketing",
     "status": "OK"
+  },
+  {
+    "id": 680,
+    "added_at": "2026-03-17 13:27:32",
+    "title": "Project Based Microsoft Office With ChatGPT And Gemini",
+    "headline": "Master Word Excel PowerPoint through real projects using AI tools ChatGPT, Gemini to boost productivity and creativity",
+    "image": "https://img-c.udemycdn.com/course/480x270/6872703_03c0_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/QFQFJlA",
+    "udemy_url": "https://www.udemy.com/course/project-based-microsoft-office-with-chatgpt-and-gemini/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "3.9",
+    "rating_count": "24",
+    "students": "7,806",
+    "duration": "Introduction",
+    "instructor": "Sustoab Soren",
+    "language": "English (US)",
+    "category": "office-productivity",
+    "status": "OK"
   }
 ]

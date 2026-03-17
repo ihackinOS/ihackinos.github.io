@@ -15920,5 +15920,24 @@
     "language": "English (US)",
     "category": "finance-and-accounting",
     "status": "OK"
+  },
+  {
+    "id": 839,
+    "added_at": "2026-03-17 17:45:45",
+    "title": "Master in Business Administration / Management (MBA)",
+    "headline": "Best of (Mini) MBA courses covering Strategy, Mktg, Fin, FMCG, Execution | Ideal for Executive MBA & CIPD Professionals",
+    "image": "https://img-c.udemycdn.com/course/480x270/5235874_e245_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/NCz59q",
+    "udemy_url": "https://www.udemy.com/course/pre-mba-for-undergraduates/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.7",
+    "rating_count": "757",
+    "students": "42,678",
+    "duration": "Expand all sections",
+    "instructor": "Arun Singhal B-Tech, MBA (IIM-B),Unilever, J&J, Danone, IIMU, Cello",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

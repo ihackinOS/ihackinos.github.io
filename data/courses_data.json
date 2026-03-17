@@ -14343,5 +14343,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 756,
+    "added_at": "2026-03-17 13:55:48",
+    "title": "Le Lifestyle Job : travailler pour vivre comme tu veux",
+    "headline": "Apprends à bâtir une activité qui finance et soutient ton mode de vie idéal",
+    "image": "https://img-c.udemycdn.com/course/480x270/6791209_954a_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/gPVCgTNJf",
+    "udemy_url": "https://www.udemy.com/course/vivre-librement/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.1",
+    "rating_count": "3",
+    "students": "2,019",
+    "duration": "Expand all sections",
+    "instructor": "Pierre Henry",
+    "language": "French (France)",
+    "category": "lifestyle",
+    "status": "OK"
   }
 ]

@@ -13773,5 +13773,24 @@
     "language": "English (US)",
     "category": "design",
     "status": "OK"
+  },
+  {
+    "id": 726,
+    "added_at": "2026-03-17 13:44:47",
+    "title": "Palo Alto Networks Network Security Architect [Exams 2026]",
+    "headline": "Master Palo Alto’s Security Architecture Concepts with Realistic Mock Exams Aligned to the Latest Blueprint!",
+    "image": "https://img-c.udemycdn.com/course/480x270/7036231_83e8.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/NTtU",
+    "udemy_url": "https://www.udemy.com/course/palo-alto-network-security-architect/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "0",
+    "rating_count": "0",
+    "students": "897",
+    "duration": "",
+    "instructor": "Paweł Krakowiak",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

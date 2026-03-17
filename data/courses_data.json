@@ -13089,5 +13089,24 @@
     "language": "English",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 690,
+    "added_at": "2026-03-17 13:31:25",
+    "title": "Machine Learning & Python Data Science for Business and AI",
+    "headline": "Learn Python Programming, Data Analysis, and Machine Learning Techniques to Solve Real World Business Challenges with AI",
+    "image": "https://img-c.udemycdn.com/course/480x270/6813871_421c_3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/Pdkr4mp",
+    "udemy_url": "https://www.udemy.com/course/machine-learning-python-data-science-for-business-and-ai/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "50",
+    "students": "9,532",
+    "duration": "Expand all sections",
+    "instructor": "Brighter Futures Hub",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

@@ -15939,5 +15939,24 @@
     "language": "English (US)",
     "category": "business",
     "status": "OK"
+  },
+  {
+    "id": 840,
+    "added_at": "2026-03-17 17:46:05",
+    "title": "Microsoft Excel Data Analysis with Chart and Graph",
+    "headline": "Excel Data Analysis with Charts and Graphs - Create Powerful Charts, Graphs and Data Driven Reports with Confidence.",
+    "image": "https://img-c.udemycdn.com/course/480x270/7048033_0239_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/xkCiSoN",
+    "udemy_url": "https://www.udemy.com/course/microsoft-excel-data-analysis-with-chart-and-graph/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "5.0",
+    "rating_count": "1",
+    "students": "1,354",
+    "duration": "Expand all sections",
+    "instructor": "Muhammad Riaz Uddin",
+    "language": "English (US)",
+    "category": "office-productivity",
+    "status": "OK"
   }
 ]

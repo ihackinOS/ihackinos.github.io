@@ -15597,5 +15597,24 @@
     "language": "Spanish (Spain)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 822,
+    "added_at": "2026-03-17 17:39:14",
+    "title": "Product Owner Professional Certification",
+    "headline": "Product Owner Professional Certification by MTF Institute",
+    "image": "https://img-c.udemycdn.com/course/480x270/5369932_af02_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/BzsVv1qZaQd",
+    "udemy_url": "https://www.udemy.com/course/certified-product-owner/",
+    "price": "₫349,000",
+    "is_free": true,
+    "rating": "4.7",
+    "rating_count": "252",
+    "students": "21,142",
+    "duration": "",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]

@@ -17440,5 +17440,24 @@
     "language": "English",
     "category": "Other",
     "status": "OK"
+  },
+  {
+    "id": 919,
+    "added_at": "2026-03-17 21:39:46",
+    "title": "Professional Diploma in Project Management",
+    "headline": "Professional Diploma in Project Management: Master Project Planning, Leadership, Agile, Risk, and Budget Control",
+    "image": "https://img-c.udemycdn.com/course/480x270/6212171_b84d.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/y69c",
+    "udemy_url": "https://www.udemy.com/course/projectmanagementdiploma/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "90",
+    "students": "3,241",
+    "duration": "Expand all sections",
+    "instructor": "Md. Aliful Islam",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

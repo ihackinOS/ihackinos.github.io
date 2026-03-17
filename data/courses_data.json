@@ -14210,5 +14210,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 749,
+    "added_at": "2026-03-17 13:53:14",
+    "title": "Databricks Certified Data Engineer Professional [Exams 2026]",
+    "headline": "Prepare confidently with scenario-based questions and in-depth explanations for every answer!",
+    "image": "https://img-c.udemycdn.com/course/480x270/6210163_4adf_5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/0h98LOkz21",
+    "udemy_url": "https://www.udemy.com/course/databricks-certified-data-engineer-professional-exams-2026/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.8",
+    "rating_count": "2",
+    "students": "2,902",
+    "duration": "",
+    "instructor": "Paweł Krakowiak",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

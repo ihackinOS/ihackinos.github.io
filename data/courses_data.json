@@ -17364,5 +17364,24 @@
     "language": "English (US)",
     "category": "personal-development",
     "status": "OK"
+  },
+  {
+    "id": 915,
+    "added_at": "2026-03-17 21:38:17",
+    "title": "Executive Diploma in Business Strategy",
+    "headline": "MTF Institute Executive Diploma in Business Strategy, Business Module, Strategic Management, Leadership, Analysis",
+    "image": "https://img-c.udemycdn.com/course/480x270/5488012_d5b3.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/MM8YapP",
+    "udemy_url": "https://www.udemy.com/course/diploma-business-strategy/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.4",
+    "rating_count": "649",
+    "students": "31,599",
+    "duration": "Expand all sections",
+    "instructor": "MTF Institute of Management, Technology and Finance",
+    "language": "English (US)",
+    "category": "business",
+    "status": "OK"
   }
 ]

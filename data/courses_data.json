@@ -11683,5 +11683,24 @@
     "language": "English (US)",
     "category": "office-productivity",
     "status": "OK"
+  },
+  {
+    "id": 616,
+    "added_at": "2026-03-17 12:36:16",
+    "title": "2026 AI Mastery: Learn ChatGPT, Midjourney, Firefly, Gemini",
+    "headline": "Learn 20+ AI Tools | ChatGPT, Custom GPTs, Prompt Engineering, Gemini, Midjourney, Notion AI, MS Copilot, Firefly & More",
+    "image": "https://img-c.udemycdn.com/course/480x270/6186251_2da1_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/7mJGV",
+    "udemy_url": "https://www.udemy.com/course/chatgpt-in-marketing-introduction-to-chatgpt-ai-marketing/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.8",
+    "rating_count": "173",
+    "students": "13,981",
+    "duration": "Expand all sections",
+    "instructor": "Tanmoy Das",
+    "language": "English",
+    "category": "marketing",
+    "status": "OK"
   }
 ]

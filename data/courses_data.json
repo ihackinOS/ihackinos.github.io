@@ -12614,5 +12614,24 @@
     "language": "English (US)",
     "category": "it-and-software",
     "status": "OK"
+  },
+  {
+    "id": 665,
+    "added_at": "2026-03-17 12:54:09",
+    "title": "Spring Boot Developer Interview Preparation Questions 2026",
+    "headline": "600+ Spring Boot Developer Interview Questions and Answers MCQ Practice Test Quiz with Detailed Explanations.",
+    "image": "https://img-c.udemycdn.com/course/480x270/5670112_cbbd.jpg?w=3840&q=75",
+    "enroll_url": "https://www.udemy.com/course/spring-boot-developer-interview-questions/",
+    "udemy_url": "https://www.udemy.com/course/spring-boot-developer-interview-questions/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.1",
+    "rating_count": "2",
+    "students": "1,733",
+    "duration": "",
+    "instructor": "Exams Practice Tests Academy",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

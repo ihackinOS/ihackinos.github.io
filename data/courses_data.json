@@ -13811,5 +13811,24 @@
     "language": "English (US)",
     "category": "marketing",
     "status": "OK"
+  },
+  {
+    "id": 728,
+    "added_at": "2026-03-17 13:45:33",
+    "title": "Mastering Microsoft Project",
+    "headline": "Master Project Planning & Control with Microsoft Project - With Earned value management - S curve",
+    "image": "https://img-c.udemycdn.com/course/480x270/6791305_0f54_5.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/9RBCzFafeIQC",
+    "udemy_url": "https://www.udemy.com/course/microsoft-project-f/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "4.6",
+    "rating_count": "33",
+    "students": "3,571",
+    "duration": "Expand all sections",
+    "instructor": "FAISAL ATHAR",
+    "language": "Hindi",
+    "category": "business",
+    "status": "OK"
   }
 ]

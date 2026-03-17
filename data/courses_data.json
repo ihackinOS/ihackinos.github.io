@@ -16680,5 +16680,24 @@
     "language": "English",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 879,
+    "added_at": "2026-03-17 18:39:59",
+    "title": "Object Oriented Programming Interview Preparation [2026]",
+    "headline": "300+ OOPs Interview Questions and Answers MCQ Practice Test Quiz with Detailed Explanations.",
+    "image": "https://img-c.udemycdn.com/course/480x270/5675540_c17e.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/5hPeX",
+    "udemy_url": "https://www.udemy.com/course/object-oriented-programming-oops-mcq/",
+    "price": "₫349,000",
+    "is_free": false,
+    "rating": "3.7",
+    "rating_count": "5",
+    "students": "3,390",
+    "duration": "",
+    "instructor": "Exams Practice Tests Academy",
+    "language": "English (US)",
+    "category": "development",
+    "status": "OK"
   }
 ]

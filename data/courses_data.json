@@ -14514,5 +14514,24 @@
     "language": "Spanish (Mexico)",
     "category": "development",
     "status": "OK"
+  },
+  {
+    "id": 765,
+    "added_at": "2026-03-17 13:59:14",
+    "title": "Prompt Engineering Certification",
+    "headline": "Master the Art of AI Communication: Learn Prompt Engineering to Optimize AI Outputs and Transform Industries",
+    "image": "https://img-c.udemycdn.com/course/480x270/6119737_5220_2.jpg?w=3840&q=75",
+    "enroll_url": "https://cuty.io/qr2jzvlJ5R",
+    "udemy_url": "https://www.udemy.com/course/prompt-engineering-certification/",
+    "price": "₫1,047,000",
+    "is_free": false,
+    "rating": "4.2",
+    "rating_count": "62",
+    "students": "118",
+    "duration": "Expand all sections",
+    "instructor": "Quantum Leap Academy",
+    "language": "English",
+    "category": "it-and-software",
+    "status": "OK"
   }
 ]
